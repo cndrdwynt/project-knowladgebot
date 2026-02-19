@@ -1,0 +1,17 @@
+PROGRAM PELATIHAN UNGGULAN (DTS)
+1. VSGA (Vocational School Graduate Academy)
+   - Target: Lulusan SMK/D3/D4 yang belum bekerja.
+   - Topik: Junior Network Administrator, Web Developer, Graphic Designer.
+
+2. TA (Thematic Academy)
+   - Fokus Terbaru (Feb 2026): Pelatihan Koding dan Kecerdasan Artifisial (AI) untuk Guru dan Tenaga Pendidik.
+   - Fokus Inklusi: Pelatihan Aplikasi Perkantoran & Desain (Canva) untuk Penyandang Disabilitas.
+
+3. DEA (Digital Entrepreneurship Academy)
+   - Target: Pelaku UMKM.
+   - Topik: Pemasaran Digital & Manajemen Keuangan berbasis Aplikasi.
+
+LAYANAN PUBLIK
+- Peminjaman Lab Komputer (Co-Working Space "Rumah Inovatif").
+- Fasilitasi Uji Kompetensi (Sertifikasi BNSP).
+- Konsultasi Riset SDM Digital.

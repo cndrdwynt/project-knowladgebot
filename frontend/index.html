@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot BLSDM Komdigi Surabaya</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
+    <style>
+        .bot-message { 
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            line-height: 1.6;           
+            font-size: 0.95rem;         
+        }
+        .bot-message strong { 
+            color: #2563eb;
+            font-weight: 700; 
+        }
+        .bot-message ul { 
+            list-style-type: disc; 
+            margin-left: 20px; 
+            margin-top: 8px; 
+            margin-bottom: 8px;
+            padding-left: 10px;
+        }
+        .bot-message li { 
+            margin-bottom: 4px; 
+        }
+        .bot-message a.wa-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #25D366;
+            color: white;
+            padding: 8px 14px;
+            border-radius: 8px;
+            margin-top: 10px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.9rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: all 0.2s ease;
+        }
+        .bot-message a.wa-button:hover {
+            background-color: #1ebc57;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+        }
+        .bot-message a:not(.wa-button) {
+            color: #16a34a;
+            text-decoration: underline;
+        }
+        #chat-box::-webkit-scrollbar { width: 5px; }
+        #chat-box::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        .typing-dots { animation: blink 1.4s infinite both; }
+        @keyframes blink { 0% { opacity: .2; } 20% { opacity: 1; } 100% { opacity: .2; } }
+        .chat-hidden { transform: scale(0); opacity: 0; pointer-events: none; }
+        .chat-visible { transform: scale(1); opacity: 1; pointer-events: auto; }
+        .transition-all { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); transform-origin: bottom right; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        .animate-fade-in { animation: fadeIn 0.3s ease-out forwards; }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans h-screen relative overflow-hidden">
+
+    <div class="max-w-6xl mx-auto p-10 w-full text-center mt-20">
+        <h1 class="text-5xl font-extrabold text-gray-800 mb-4">UPT BLSDM Komdigi Surabaya</h1>
+        <p class="text-xl text-gray-500">Solusi Inovasi Masa Depan ✨</p>
+    </div>
+
+    <button onclick="toggleChat()" id="chat-launcher" class="fixed bottom-6 right-6 w-16 h-16 bg-blue-600 hover:bg-blue-700 text-white rounded-full shadow-2xl flex items-center justify-center transition transform hover:scale-110 z-50">
+        <i class="fas fa-comment-dots text-2xl"></i>
+    </button>
+
+    <div id="chat-widget" class="fixed bottom-24 right-6 w-96 bg-white rounded-2xl shadow-2xl border border-gray-200 flex flex-col h-[550px] max-h-[80vh] z-50 chat-hidden transition-all">
+        <div class="bg-blue-600 p-4 text-white font-bold flex justify-between items-center rounded-t-2xl shadow-md">
+            <div class="flex items-center gap-2">
+                <i class="fas fa-robot text-lg"></i> 
+                <span>Sobat Inovator</span>
+            </div>
+            <button onclick="toggleChat()" class="hover:bg-white/20 w-8 h-8 rounded-full flex items-center justify-center transition">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        
+        <div id="chat-box" class="flex-1 overflow-y-auto p-4 space-y-4 bg-gray-50"></div>
+        
+        <div id="quick-replies" class="px-4 pb-2 flex flex-wrap gap-2 border-t pt-2 bg-gray-50 min-h-[10px]"></div>
+
+        <div class="p-3 bg-white border-t flex gap-2 rounded-b-2xl">
+            <input id="user-input" type="text" placeholder="Ketik pesan..." class="flex-1 bg-gray-100 p-3 rounded-full px-4 outline-none border focus:border-blue-500 text-sm transition focus:ring-1 focus:ring-blue-500">
+            <button onclick="sendUserMessage()" class="bg-blue-600 text-white p-2 rounded-full w-12 h-12 hover:bg-blue-700 transition shadow-sm flex items-center justify-center">
+                <i class="fas fa-paper-plane text-sm"></i>
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const chatWidget = document.getElementById('chat-widget');
+        const chatLauncher = document.getElementById('chat-launcher');
+        const chatBox = document.getElementById('chat-box');
+        const userInput = document.getElementById('user-input');
+        const quickRepliesDiv = document.getElementById('quick-replies');
+
+        // ✅ FIX: Session ID persistent pakai localStorage
+        // Kalau sudah ada → pakai yang lama, kalau belum → buat baru
+        function getSessionId() {
+            let sid = localStorage.getItem('rumino_session_id');
+            if (!sid) {
+                sid = "sess_" + Math.random().toString(36).substr(2, 9) + "_" + Date.now();
+                localStorage.setItem('rumino_session_id', sid);
+            }
+            return sid;
+        }
+        const sessionId = getSessionId();
+
+        // ✅ FIX: Track isStarted di localStorage juga
+        // Biar kalau refresh tidak greet ulang dari awal
+        let isStarted = localStorage.getItem('rumino_started') === 'true';
+
+        function toggleChat() { 
+            const isHidden = chatWidget.classList.contains('chat-hidden');
+            if (isHidden) {
+                chatWidget.classList.remove('chat-hidden');
+                chatWidget.classList.add('chat-visible');
+                chatLauncher.classList.add('hidden');
+                if (!isStarted) {
+                    isStarted = true;
+                    localStorage.setItem('rumino_started', 'true');
+                    sendUserMessage("halo", true); 
+                }
+            } else {
+                chatWidget.classList.remove('chat-visible');
+                chatWidget.classList.add('chat-hidden');
+                chatLauncher.classList.remove('hidden');
+            }
+        }
+
+        function parseMarkdown(text) {
+            let html = text
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/^\s*-\s+(.*)$/gm, '<li>$1</li>');
+            html = html.replace(/((?:<li>.*?<\/li>\n?)+)/g, '<ul>$1</ul>');
+            return html;
+        }
+
+        async function sendUserMessage(text = null, isSystem = false) {
+            const msg = text || userInput.value.trim();
+            if (!msg) return;
+
+            if (!isSystem) {
+                chatBox.innerHTML += `
+                    <div class="flex justify-end animate-fade-in">
+                        <div class="bg-blue-600 text-white p-3 px-4 rounded-2xl rounded-br-none text-sm max-w-[85%] shadow-sm leading-relaxed">
+                            ${msg}
+                        </div>
+                    </div>`;
+                userInput.value = '';
+            }
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            const botId = "bot-" + Date.now();
+            chatBox.innerHTML += `
+                <div class="flex gap-2 animate-fade-in">
+                    <div class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 mt-1 flex-shrink-0 border border-blue-200">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div id="${botId}" class="bg-white border p-3 rounded-2xl rounded-tl-none text-sm max-w-[90%] text-gray-700 shadow-sm bot-message">
+                        <span class="typing-dots"><i class="fas fa-circle text-[0.4rem] mr-1"></i><i class="fas fa-circle text-[0.4rem] mr-1"></i><i class="fas fa-circle text-[0.4rem]"></i></span>
+                    </div>
+                </div>`;
+            const botEl = document.getElementById(botId);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/chat', {
+                    method: 'POST',
+                    headers: { 
+                        'Content-Type': 'application/json',
+                        'x-api-key': 'BLSDM_2026_RahasiaBanget!@#'
+                    },
+                    body: JSON.stringify({ prompt: msg, session_id: sessionId })
+                });
+
+                const contentType = response.headers.get("content-type");
+
+                if (contentType && contentType.includes("application/json")) {
+                    const data = await response.json();
+                    botEl.innerHTML = parseMarkdown(data.message);
+                    
+                    if (data.quick_replies) {
+                        quickRepliesDiv.innerHTML = "";
+                        data.quick_replies.forEach(qr => {
+                            const btn = document.createElement("button");
+                            btn.className = "bg-white text-blue-600 border border-blue-200 px-3 py-1.5 rounded-full text-xs hover:bg-blue-50 hover:border-blue-400 transition shadow-sm font-medium mb-1";
+                            btn.innerText = qr.text;
+                            btn.onclick = () => sendUserMessage(qr.value);
+                            quickRepliesDiv.appendChild(btn);
+                        });
+                    }
+                
+                } else {
+                    const reader = response.body.getReader();
+                    const decoder = new TextDecoder();
+                    let first = true;
+                    let accumulatedText = "";
+
+                    while (true) {
+                        const { done, value } = await reader.read();
+                        if (done) break;
+                        
+                        if (first) { 
+                            botEl.innerHTML = "";
+                            first = false; 
+                        }
+                        
+                        const chunk = decoder.decode(value, { stream: true });
+                        accumulatedText += chunk;
+                        botEl.innerHTML = parseMarkdown(accumulatedText);
+                        chatBox.scrollTop = chatBox.scrollHeight;
+                    }
+                }
+            } catch (e) {
+                console.error(e);
+                botEl.innerHTML = "<span class='text-red-500'><i class='fas fa-exclamation-circle'></i> Maaf, gagal terhubung ke server.</span>";
+            }
+        }
+
+        userInput.onkeypress = (e) => { if(e.key === 'Enter') sendUserMessage(); };
+    </script>
+</body>
+</html>
