@@ -103,22 +103,10 @@
         const chatBox = document.getElementById('chat-box');
         const userInput = document.getElementById('user-input');
         const quickRepliesDiv = document.getElementById('quick-replies');
-
-        // ✅ FIX: Session ID persistent pakai localStorage
-        // Kalau sudah ada → pakai yang lama, kalau belum → buat baru
-        function getSessionId() {
-            let sid = localStorage.getItem('rumino_session_id');
-            if (!sid) {
-                sid = "sess_" + Math.random().toString(36).substr(2, 9) + "_" + Date.now();
-                localStorage.setItem('rumino_session_id', sid);
-            }
-            return sid;
-        }
-        const sessionId = getSessionId();
-
-        // ✅ FIX: Track isStarted di localStorage juga
-        // Biar kalau refresh tidak greet ulang dari awal
-        let isStarted = localStorage.getItem('rumino_started') === 'true';
+        
+        // Session ID baru setiap kali load halaman (fresh start)
+        let sessionId = "sess_" + Date.now();
+        let isStarted = false;
 
         function toggleChat() { 
             const isHidden = chatWidget.classList.contains('chat-hidden');
@@ -126,10 +114,11 @@
                 chatWidget.classList.remove('chat-hidden');
                 chatWidget.classList.add('chat-visible');
                 chatLauncher.classList.add('hidden');
+                
+                // Trigger onboarding otomatis dengan delay biar smooth
                 if (!isStarted) {
                     isStarted = true;
-                    localStorage.setItem('rumino_started', 'true');
-                    sendUserMessage("halo", true); 
+                    setTimeout(() => sendUserMessage("halo", true), 300);
                 }
             } else {
                 chatWidget.classList.remove('chat-visible');
