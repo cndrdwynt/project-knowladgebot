@@ -1,0 +1,74 @@
+TOPIK: GTA (Government Transformation Academy)
+---
+APA ITU GTA?
+GTA (Government Transformation Academy) adalah program pengembangan SDM yang bertujuan meningkatkan kompetensi ASN, TNI, dan Polri untuk mendukung akselerasi transformasi digital di Kementerian/Lembaga/Daerah (K/L/D), TNI, dan Polri.
+Skema pelatihan dirancang untuk tingkat intermediate skill dan advance skill yang menyasar para pengambil keputusan.
+---
+APA TUJUAN PROGRAM GTA?
+Program GTA memiliki 2 tujuan utama:
+1. Meningkatkan kompetensi ASN/Non-ASN di instansi Pemerintah Pusat, Daerah, dan Desa, serta TNI/Polri dalam pemanfaatan TIK guna menjalankan tugas organisasi menuju pelayanan prima.
+2. Mempercepat transformasi digital di lingkungan instansi pemerintah dalam rangka penguatan kelembagaan.
+---
+SIAPA YANG BISA MENGIKUTI PELATIHAN GTA?
+Peserta GTA adalah:
+- ASN (Aparatur Sipil Negara) dari seluruh Kementerian, Lembaga, dan Perangkat Daerah
+- Non-ASN yang bekerja di instansi Pemerintah Pusat, Daerah, dan Desa
+- Anggota TNI
+- Anggota Polri
+---
+BAGAIMANA METODE PELATIHAN GTA?
+Pelatihan GTA dilaksanakan dalam 2 metode:
+
+Daring (Online):
+- Peserta belajar secara mandiri dan mengatur waktu belajarnya sendiri.
+- Mengikuti kurikulum pelatihan yang telah ditentukan.
+
+Luring (Offline):
+- Diselenggarakan atas dasar surat permohonan fasilitasi dari instansi pemerintah/TNI/Polri.
+- Diadakan kelas khusus untuk instansi yang mengajukan permohonan.
+- Untuk pelatihan di daerah, diselenggarakan oleh UPT Badan Pengembangan SDM Kominfo.
+---
+APAKAH ADA SERTIFIKASI DI PELATIHAN GTA?
+Tidak ada proses sertifikasi dalam pelatihan GTA. Peserta hanya mendapatkan sertifikat kelulusan pelatihan bagi yang dinyatakan lulus.
+---
+APA SAJA TEMA PELATIHAN GTA KEBIJAKAN 2023?
+Berikut daftar tema pelatihan GTA berdasarkan kebijakan tahun 2023:
+1. IT Essentials
+2. Business Process Engineer
+3. IT Business Analyst
+4. Digital Public Relations
+5. Social Media Analyst
+6. Analis Kota Cerdas SNI ISO 37122:2019
+7. Fasilitator Pembelajaran Digital
+8. Data Science Fundamental
+9. Junior Network Administrator
+10. Junior Graphic Design
+11. Junior Office Operator
+12. Manajemen Proyek
+13. Cybersecurity Essentials
+14. Manajemen Risiko SPBE
+15. Sistem Manajemen Keamanan Informasi Berbasis SNI ISO/IEC 27001:2013
+16. Audit Internal Sistem Manajemen Keamanan Informasi Berbasis SNI ISO 19011:2018
+17. Sistem Manajemen Layanan TI ISO 20000
+18. Arsitektur SPBE
+19. Video Production for Government Campaign
+20. TIK Dasar untuk Media Informasi
+21. Python Essentials 1
+---
+APA SAJA TEMA PELATIHAN GTA YANG SEDANG DIBUKA DI 2026?
+Berikut daftar tema pelatihan GTA yang sedang dibuka berdasarkan kebijakan tahun 2026:
+1. Analisa Kota Cerdas
+2. Pemanfaatan AI untuk Pemerintahan
+3. AI for Content Creation
+4. Junior Network Administration
+5. Video Production for Government Campaign
+6. Fasilitator Pembelajaran Digital Dasar
+7. Fasilitator Pembelajaran Digital Menengah
+8. Junior Office Operator
+9. Generative AI untuk Peningkatan Kerja ASN (Self-Paced Learning)
+
+Catatan: Jika instansi ingin membuka tema pelatihan di luar daftar di atas, hal tersebut dapat difasilitasi namun harus disesuaikan dengan kebijakan stakeholder terkait.
+---
+BAGAIMANA CARA INSTANSI MENGAJUKAN PELATIHAN GTA SECARA OFFLINE?
+Instansi pemerintah, TNI, atau Polri yang ingin mengadakan pelatihan GTA secara luring (offline) dapat mengajukan surat permohonan fasilitasi kepada penyelenggara. Selanjutnya akan diadakan kelas khusus sesuai kebutuhan instansi. Untuk instansi di daerah, pelatihan diselenggarakan oleh UPT Badan Pengembangan SDM Kominfo setempat.
+---

@@ -1,16 +1,58 @@
-IDENTITAS INSTANSI
-Nama Baru: Balai Pelatihan Sumber Daya Manusia Komunikasi dan Digital (BLSDM Komdigi) Surabaya.
-Nama Lama: BPSDMP Kominfo Surabaya.
-Induk: Badan Pengembangan Sumber Daya Manusia (BPSDM) Kementerian Komdigi RI.
-
-LOKASI KANTOR
-Alamat: Jl. Raya Ketajen No.36, Kec. Gedangan, Kabupaten Sidoarjo, Jawa Timur 61254.
-Telepon: (031) 8011944.
-
-WILAYAH KERJA
-Mencakup Provinsi Jawa Timur dan Nusa Tenggara Barat (NTB) untuk koordinasi pengembangan talenta digital.
-
-FOKUS UTAMA (2026)
-1. Pengembangan Talenta Digital (Digital Talent Scholarship).
-2. Literasi Digital untuk Kelompok Rentan & Disabilitas.
-3. Penelitian Indeks Masyarakat Digital.
+TOPIK: Profil Lembaga BLSDM Komdigi Surabaya
+---
+APA ITU BLSDM KOMDIGI SURABAYA?
+BLSDM Komdigi Surabaya (Balai Pelatihan Sumber Daya Manusia Komunikasi dan Digital Surabaya) adalah Unit Pelaksana Teknis (UPT) Kementerian Komunikasi dan Digital RI yang bertugas menyelenggarakan pelatihan TIK dan pengembangan talenta digital. Wilayah kerjanya mencakup Provinsi Jawa Timur dan Nusa Tenggara Barat (NTB).
+---
+APA NAMA LAIN ATAU NAMA LAMA BLSDM KOMDIGI SURABAYA?
+Lembaga ini sebelumnya dikenal dengan nama BPSDMP Kominfo Surabaya. Nama resmi berubah menjadi BLSDM Komdigi Surabaya sejak berlakunya Permenkominfo Nomor 3 Tahun 2026 pada 20 Januari 2026, bersamaan dengan perubahan nama kementerian dari Kominfo menjadi Komdigi. Jadi BPSDMP Kominfo Surabaya, BPSDM Komdigi Surabaya, dan BLSDM Komdigi Surabaya merujuk pada lembaga yang sama.
+---
+DI MANA LOKASI BLSDM KOMDIGI SURABAYA?
+Alamat: Jl. Raya Ketajen No. 36, Gedangan, Kabupaten Sidoarjo, Jawa Timur 61254.
+Telepon: (031) 8011944
+Website: https://bpsdm.komdigi.go.id/upt/surabaya
+Instagram: @blsdm.komdigi.surabaya
+---
+APA PROGRAM PELATIHAN YANG ADA DI BLSDM KOMDIGI SURABAYA?
+Program pelatihan yang diselenggarakan meliputi:
+- DTS (Digital Talent Scholarship): VSGA, TA, DEA, dan GTA
+- Pelatihan AI dan kecerdasan artifisial
+- Pelatihan koding
+- Pelatihan TIK inklusif untuk penyandang disabilitas
+- Pelatihan pemasaran digital
+- Program Jagoan Digital
+- Rumah Inovatif
+---
+SIAPA KEPALA BLSDM KOMDIGI SURABAYA?
+Kepala lembaga saat ini adalah Bagus Winarko, dengan pengalaman di balai Surabaya sejak 2012.
+---
+APA TUGAS POKOK BLSDM KOMDIGI SURABAYA?
+Melaksanakan pelatihan di bidang komunikasi, informasi, dan digital (berdasarkan Permenkominfo Nomor 3 Tahun 2026 Pasal 12).
+---
+APA FUNGSI BLSDM KOMDIGI SURABAYA?
+BLSDM Komdigi Surabaya memiliki 5 fungsi utama:
+1. Perencanaan: Penyusunan rencana, program, dan anggaran.
+2. Pelaksanaan Pelatihan: Pelatihan dan pemberdayaan talenta komunikasi dan digital.
+3. Penjaminan Mutu: Penjaminan mutu penyelenggaraan pelatihan.
+4. Sertifikasi: Fasilitasi sertifikasi kompetensi talenta komunikasi dan digital.
+5. Administrasi Umum: Urusan keuangan, SDM, kearsipan, kehumasan, dan pelaporan kinerja.
+---
+APA DASAR HUKUM BLSDM KOMDIGI SURABAYA?
+Dasar hukum utama yang berlaku saat ini adalah Peraturan Menteri Komunikasi dan Digital Nomor 3 Tahun 2026 tentang Organisasi dan Tata Kerja UPT Bidang Pengembangan SDM Komunikasi dan Digital, yang ditetapkan 12 Januari 2026 dan menggantikan Permenkominfo Nomor 3 dan 4 Tahun 2022.
+---
+APA STRUKTUR ORGANISASI BLSDM KOMDIGI SURABAYA?
+BLSDM Komdigi Surabaya terdiri atas Subbagian Tata Usaha dan jabatan fungsional/pelaksana. Kepala lembaga merupakan jabatan eselon III.a, diangkat dan diberhentikan oleh Menteri Komunikasi dan Digital.
+---
+ADA BERAPA JENIS UPT PENGEMBANGAN SDM KOMDIGI DAN DI MANA SAJA?
+Ada 3 jenis UPT:
+1. Balai Besar — di Medan dan Makassar.
+2. Balai Pelatihan — di Jakarta, Bandung, Surabaya, Yogyakarta, Banjarmasin, dan Manado.
+3. Balai Pelatihan Talenta — di Kabupaten Bekasi, melayani seluruh Indonesia.
+BLSDM Surabaya termasuk kategori Balai Pelatihan (jenis 2).
+---
+BAGAIMANA CARA MENGHUBUNGI DAN BERAPA JAM OPERASIONAL KANTOR BLSDM KOMDIGI SURABAYA?
+JAM OPERASIONAL KANTOR UNTUK PELAYANAN PUBLIK: Senin s.d. Jumat pukul 08.00 hingga 16.00 WIB.
+Telepon: (031) 8011944
+Instagram: @blsdm.komdigi.surabaya
+Website: https://bpsdm.komdigi.go.id/upt/surabaya
+Alamat: Jl. Raya Ketajen No. 36, Gedangan, Sidoarjo, Jawa Timur 61254
+---

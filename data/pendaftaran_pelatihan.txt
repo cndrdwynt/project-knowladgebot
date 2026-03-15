@@ -1,0 +1,45 @@
+TOPIK: Cara Mendaftar Pelatihan Digital Talent
+---
+ADA BERAPA JALUR PENDAFTARAN PELATIHAN DIGITAL TALENT?
+Ada dua jalur utama:
+1. Microskill: Beberapa pelatihan mensyaratkan lulus Microskill terlebih dahulu sebelum bisa mendaftar DTA.
+2. Digital Talent Academy (DTA): Pendaftaran langsung via tab Jadwal di website Digital Talent, sesuaikan dengan domisili.
+---
+BAGAIMANA CARA MENDAFTAR MICROSKILL?
+Langkah 1: Login ke akun Digital Talent.
+Langkah 2: Masuk ke tab Microskill.
+Langkah 3: Klik DAFTAR SEKARANG.
+Langkah 4: Centang kotak persetujuan ketentuan, lalu klik SUBMIT PENDAFTARAN.
+Langkah 5: Klik DAFTAR pada konfirmasi ulang.
+Langkah 6: Tunggu notifikasi berhasil, lalu klik AKSES MATERI (login ulang jika diminta).
+---
+BAGAIMANA CARA MENGERJAKAN MATERI MICROSKILL?
+Modul harus diselesaikan bertahap. Video tidak bisa di-skip dan harus ditonton sampai selesai. Setiap pertanyaan di materi atau video wajib dijawab dan di-submit. Jika salah menjawab, tekan ikon panah berputar untuk mengulang.
+---
+BAGAIMANA CARA MENGERJAKAN QUIZ MICROSKILL?
+Langkah 1: Klik ATTEMPT QUIZ → START ATTEMPT.
+Langkah 2: Kerjakan setiap soal, klik NEXT PAGE untuk lanjut.
+Langkah 3: Setelah selesai, klik FINISH ATTEMPT → SUBMIT ALL AND FINISH.
+Jika nilai masih di bawah minimum, pilih RE-ATTEMPT untuk mengulang dari awal.
+---
+APA MASALAH UMUM SAAT MENDAFTAR MICROSKILL?
+Masalah: Gagal mengakses materi setelah pendaftaran berhasil.
+Solusi: Tutup pemberitahuannya lalu coba akses ulang materinya.
+---
+BAGAIMANA CARA MENDAFTAR PELATIHAN DTA (DIGITAL TALENT ACADEMY)?
+Langkah 1: Login ke akun Digital Talent.
+Langkah 2: Pilih tab Jadwal → bagian Pelatihan untuk melihat pelatihan yang sedang buka.
+Langkah 3: Pastikan sudah memenuhi persyaratan learning path yang dipilih.
+Langkah 4: Klik Daftar Sekarang → pilih "Ya" untuk konfirmasi komitmen.
+Langkah 5: Akses materi seperti mengakses Microskill.
+---
+PELATIHAN APA YANG SEDANG BUKA?
+Microskill: Selalu terbuka dan bisa diakses kapan saja.
+DTA: Cek tab Jadwal di website Digital Talent, sesuaikan dengan domisili.
+Pelatihan offline: Peserta di Jawa Timur dan NTB mengikuti jadwal yang diselenggarakan BLSDM Komdigi Surabaya.
+Catatan: Beberapa pelatihan tidak dipublikasikan di website. Jika tidak tersedia, tanyakan langsung ke admin dan pastikan penyelenggaranya adalah BLSDM Komdigi Surabaya.
+Kontak admin: [PLACEHOLDER - Kontak CP admin belum diisi. Mohon dilengkapi.]
+---
+BAGAIMANA CARA MENDAFTAR SEBAGAI PENGAJAR?
+Pendaftaran sebagai pengajar dilakukan melalui Surat Rekomendasi Pimpinan.
+---

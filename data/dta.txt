@@ -1,0 +1,59 @@
+TOPIK: Struktur Program DTA (Diial Talent Academy)
+---
+APA ITU DTA?
+DTA (Digital Talent Academy) adalah program pelatihan unggulan yang bertujuan meningkatkan kapasitas sumber daya manusia Indonesia melalui penguatan kompetensi digital. DTA terbagi menjadi 3 program utama:
+1. KDD - Keterampilan Digital Dasar
+2. GTA - Government Transformation Academy
+3. Talenta Digital
+---
+APA ITU KDD (KETERAMPILAN DIGITAL DASAR)?
+KDD adalah program pelatihan yang bertujuan meningkatkan kapasitas SDM Indonesia melalui penguatan kompetensi digital dasar. Program ini menyasar pelaku UMKM, koperasi, masyarakat umum, kelompok tematik, pekerja kreatif, dan komunitas pekerja lepas.
+Metode pelatihan: Luring dan/atau daring (materi, praktik langsung, diskusi, pendampingan).
+---
+APA ITU GTA (GOVERNMENT TRANSFORMATION ACADEMY)?
+GTA adalah program pengembangan SDM yang bertujuan meningkatkan kompetensi ASN, TNI, dan Polri untuk mendukung akselerasi transformasi digital di K/L/D, TNI, dan Polri.
+Target peserta: ASN seluruh Kementerian/Lembaga/Perangkat Daerah, TNI, dan Polri.
+Metode pelatihan: Daring (mandiri) dan luring (atas surat permohonan instansi).
+Catatan: Tidak ada proses sertifikasi, hanya pemberian sertifikat kelulusan pelatihan.
+---
+APA ITU TALENTA DIGITAL?
+Talenta Digital adalah program pengembangan talenta digital yang siap menghadapi percepatan transformasi teknologi, khususnya di bidang AI dan TIK. Talenta Digital terbagi menjadi 3 subprogram:
+1. AITF - Artificial Intelligence Talent Factory
+2. VBL - Vocational Blended Learning
+3. DEX - Digital Expertise (terbagi lagi menjadi F-DEX dan P-DEX)
+---
+APA ITU AITF (ARTIFICIAL INTELLIGENCE TALENT FACTORY)?
+AITF adalah program nasional pengembangan talenta AI berkelanjutan dari Kementerian Komunikasi dan Digital Indonesia. Program ini berfokus pada studi kasus nyata yang mendorong peserta menerapkan teori dan mengembangkan solusi berbasis AI.
+Target peserta: Lembaga pendidikan tinggi (universitas) sebagai mitra strategis.
+Tujuan: Memperkuat kedaulatan AI, mengembangkan inovasi dan ekosistem AI Indonesia.
+---
+APA ITU VBL (VOCATIONAL BLENDED LEARNING)?
+VBL adalah program pengembangan talenta digital yang dirancang khusus bagi mahasiswa vokasi dan siswa SMK. Program ini merupakan sinergi antara UPT BBPSDMP/BPSDMP Komdigi dengan institusi pendidikan formal.
+Metode pelatihan: Blended learning (tatap muka + pembelajaran mandiri berbasis platform).
+Kelulusan: Peserta difasilitasi mengikuti sertifikasi kompetensi BNSP berbasis SKKNI.
+---
+APA ITU DEX (DIGITAL EXPERTISE)?
+DEX adalah program pengembangan kompetensi digital dengan metode pembelajaran mandiri penuh (fully self-paced learning). DEX terbagi menjadi 2 sub-program:
+1. F-DEX (Future Talent Track): Untuk siswa SMA dan mahasiswa (Diploma, Sarjana, Magister).
+2. P-DEX (Professional Track): Untuk masyarakat umum / profesional.
+---
+APA PERBEDAAN F-DEX DAN P-DEX?
+F-DEX (Future Talent Track Digital Expertise):
+- Sasaran: Siswa SMA, mahasiswa Diploma/Sarjana/Magister yang tidak terakomodasi di VBL.
+- Berbasis kemitraan dengan institusi pendidikan.
+- Peserta wajib menyelesaikan minimal jenjang dasar (basic) pada learning path yang dipilih.
+
+P-DEX (Professional Track Digital Expertise):
+- Sasaran: Masyarakat umum, pelaku dunia usaha, industri, dan dunia kerja.
+- Terbuka untuk umum tanpa kemitraan institusi.
+- Pembelajaran mengikuti Learning Journey dan Learning Path yang tersusun sistematis.
+
+Persamaan keduanya: Metode fully self-paced learning, peserta mendapat Sertifikat Penyelesaian (Certificate of Completion), dan berpotensi mengikuti sertifikasi BNSP/global sesuai ketersediaan.
+---
+APA ITU LEARNING JOURNEY DAN LEARNING PATH DI TALENTA DIGITAL?
+Learning Journey (LJ): Rute pembelajaran komprehensif yang menggabungkan beberapa Learning Path menjadi satu alur pengembangan kompetensi yang utuh. Terdiri dari minimal 1 Learning Path dan diawali dengan Learning Path Komdigi.
+
+Learning Path (LP): Pelatihan berjenjang untuk membangun kompetensi pada bidang teknologi tertentu, mulai dari literasi, dasar, menengah, hingga lanjut. Dilengkapi program pemberdayaan opsional (sertifikasi/bootcamp/hackathon/job fair).
+
+Catatan: Peserta dinyatakan lulus setelah menyelesaikan Learning Journey dan Learning Path yang diwajibkan.
+---

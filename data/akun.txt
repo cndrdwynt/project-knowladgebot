@@ -1,0 +1,83 @@
+TOPIK: Akun Digital Talent (Pendaftaran, Login, Pemulihan, Perubahan Data)
+
+---
+
+KETENTUAN AKUN DIGITAL TALENT
+
+Satu NIK hanya bisa digunakan untuk satu akun Digital Talent. Pastikan NIK yang digunakan valid dan belum pernah didaftarkan sebelumnya.
+
+---
+
+CARA MENDAFTAR AKUN DIGITAL TALENT
+
+A. VIA APLIKASI MOBILE PHONE
+Langkah 1: Buka aplikasi Digitalent, lalu pada halaman utama login, klik tombol Daftar yang terletak di bagian bawah.
+Langkah 2: Masukkan alamat Email aktif, buat Password, dan masukkan kembali password tersebut pada kolom Konfirmasi Password.
+- Catatan: Pastikan password minimal 8 karakter, menggunakan kombinasi huruf besar, huruf kecil, angka, dan karakter spesial (@$!%?&).*
+Langkah 3: Centang kedua kotak persetujuan mengenai Syarat dan Ketentuan serta pengelolaan data layanan, kemudian klik tombol DAFTAR.
+Langkah 4: Kamu akan diarahkan ke halaman Verifikasi OTP. Silakan cek kotak masuk (inbox) pada email yang kamu daftarkan untuk mendapatkan 6 digit kode verifikasi. Masukkan kodenya dan klik VERIFIKASI.
+Langkah 5: Setelah verifikasi berhasil, kamu akan kembali ke halaman awal login. Masukkan Email dan Password yang baru saja dibuat, lalu klik MASUK.
+Langkah 6: Setelah login, kamu akan diminta melakukan Verifikasi OTP kedua. Silakan cek kode yang dikirimkan melalui Instagram (IG), masukkan kodenya, dan pilih Verifikasi.
+Langkah 7: Kamu akan langsung diarahkan ke halaman Lengkapi Data Diri. Pastikan semua kolom terisi dengan benar, mulai dari: Foto Profil: Klik ikon kamera pada lingkaran hijau untuk mengunggah foto. Identitas: Nama Lengkap (sesuai KTP), Nomor KTP (NIK), Tanggal Lahir, dan Nomor Handphone.Domisili: Pilih Provinsi, Kabupaten/Kota, Kecamatan, hingga Kelurahan/Desa.
+- Penting: 1 NIK hanya berlaku untuk 1 akun saja.
+Langkah 8: Pada bagian Status Pekerjaan, terdapat 3 pilihan: Pelajar/Mahasiswa, Bekerja, dan Tidak Bekerja. 
+- Jika memilih Pelajar/Mahasiswa, wajib mengisi Tingkat Pendidikan Terakhir dan nama Institusi Pendidikan.
+- Jika memilih Bekerja, wajib mengisi jenis pekerjaan dan nama instansi tempat bekerja.
+Langkah 9: Jika semua data sudah lengkap, centang pernyataan "Saya menyatakan bahwa seluruh data benar" dan klik tombol SUBMIT.
+
+A. VIA WEBSITE
+Langkah 1: Akses laman resmi digitalent.komdigi.go.id pada browser, lalu klik tombol Daftar di pojok kanan atas halaman utama.
+Langkah 2: Isi data pada form Registrasi Akun Baru dengan memasukkan alamat Email valid, buat Password, dan masukkan kembali pada kolom Konfirmasi Password.
+- Catatan: Pastikan password minimal 8 karakter, menggunakan kombinasi huruf besar, huruf kecil, angka, dan karakter spesial (@$!%?&).*
+Langkah 3: Selesaikan verifikasi reCAPTCHA (Centang "Saya bukan robot"), kemudian centang kedua kotak persetujuan mengenai Syarat dan Ketentuan serta pengelolaan data layanan, lalu klik tombol DAFTAR.
+Langkah 4: Muncul jendela pop-up Verifikasi Email. Silakan cek kotak masuk (inbox) atau folder spam pada email yang kamu daftarkan untuk mendapatkan 6 digit kode OTP. Masukkan kodenya dan klik VERIFIKASI.
+Langkah 5: Setelah verifikasi berhasil, kamu akan langsung diarahkan ke halaman Data Pokok untuk melengkapi profil tanpa perlu login ulang.
+Langkah 6: Unggah Foto Formal dengan mengeklik area ikon profil, lalu isi Identitas diri meliputi Nama Lengkap (sesuai KTP), NIK, Tanggal Lahir, Jenis Kelamin, dan Nomor Handphone aktif. Klik tombol Validasi Data Dukcapil untuk memverifikasi identitas.
+- Penting: 1 NIK hanya berlaku untuk 1 akun saja.
+Langkah 7: Isi data Domisili secara lengkap mulai dari Provinsi, Kota/Kabupaten, Kecamatan, hingga Desa/Kelurahan.
+Langkah 8: Pada bagian Status Pekerjaan, terdapat 3 pilihan: Pelajar/Mahasiswa, Bekerja, dan Tidak Bekerja.
+- Jika memilih Pelajar/Mahasiswa, wajib mengisi Tingkat Pendidikan Terakhir dan nama Institusi Pendidikan.
+- Jika memilih Bekerja, wajib mengisi jenis pekerjaan dan nama instansi tempat bekerja.
+Langkah 9: Jika semua data sudah lengkap dan akurat, centang kotak pernyataan persetujuan di bagian bawah, lalu klik tombol SIMPAN. Setelah itu, kamu akan diarahkan ke halaman utama dan akun siap digunakan.
+
+---
+
+CARA MEMULIHKAN AKUN JIKA LUPA PASSWORD
+
+Jika lupa password, ikuti langkah berikut:
+Langkah 1: Pilih opsi lupa password
+Langkah 2: Masukkan email yang sebelumnya digunakan untuk mendaftar akun dan centang box "I'm not a robot" 
+Langkah 3: Pilih kirim OTP, ingat jangan sebar kode OTP kepada sembarang orang
+Langkah 4: Setelah OTP masuk , silahkan isi sesuai dengan kode OTP yang dikirim pada email
+Langkah 5: Setelah berhasil, silahkan masukkan password baru dengan ketentuan Minimal 8 Karakter kombinasi huruf kapital, huruf kecil, angka dan symbol lalu klik ubah password
+Langkah 6: Setelah berhasil mengubah password, maka anda akan dapat login Kembali dengan memasukkan password baru 
+
+Jika masih tidak bisa mengakses akun dengan kendala seperti ini:
+Alamat email telah terdaftar pada akun, namun saat ini sudah tidak aktif.
+2. Alamat email telah terdaftar pada akun, namun terjadi perubahan alamat (misalnya perubahan subdomain).
+3. Nomor telepon seluler telah terdaftar pada akun, namun saat ini sudah tidak aktif.
+
+ikuti Langkah berikut
+Langkah 1: Pilih opsi PULIHKAN AKUN pada halaman login.
+Langkah 2: Isi informasi user dengan baik dan benar lalu pilih kirim 
+Langkah 3: Setelahnya admin akan menghubungi anda
+
+---
+
+CARA MENGGANTI EMAIL, NOMOR HP, KATA SANDI
+
+Jika masih dapat melakukan login, maka ikuti langkah ini:
+
+Langkah 1: Unduh aplikasi digitalent pada play store atau app store
+Langkah 2: Lakukan login pada aplikasi
+Langkah 3: Jika sudah berhasil masuk, maka masuk ke tab akun
+Langkah 4: Pilih pengaturan atau settings 
+Langkah 5: Maka dapat memilih untuk mengganti apa (email, nomor handphone, atau password)
+Langkah 6: Masukkan email atau nomor handphone atau password yang baru
+Langkah 7: Pilih simpan
+
+
+Jika benar-benar tidak bisa memulihkan akun (misalnya lupa email atau tidak bisa mengakses nomor HP terdaftar), dapat memilih opsi pulihkan akun. 
+
+
+Catatan: Alamat domisili penting karena menentukan lokasi pelatihan offline yang bisa diikuti. Peserta di wilayah Jawa Timur dan NTB dapat mengikuti pelatihan offline yang diselenggarakan oleh BLSDM Komdigi Surabaya. Perubahan alamat domisilii (provinsi) hanya bisa dilakukan sebanyak 2 kali dalam satu bulan. 

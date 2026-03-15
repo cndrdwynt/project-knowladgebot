@@ -1,0 +1,200 @@
+TOPIK: AI for Content Creation (AI CC)
+KODE: GTA-AICC
+PROGRAM: Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+KATEGORI: GTA
+PENYELENGGARA: Kementerian Komunikasi dan Digital Republik Indonesia
+MITRA PELATIHAN: -
+KEBIJAKAN TAHUN: 2026
+VERSI DOKUMEN: Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan AI for Content Creation adalah program dari GTA – Digital Talent Scholarship yang dirancang untuk meningkatkan kapasitas ASN dalam memanfaatkan teknologi Artificial Intelligence (AI) guna menghasilkan konten kreatif yang berkualitas dan relevan bagi masyarakat. Peserta dibekali keterampilan praktis membuat konten menggunakan berbagai tools berbasis kecerdasan buatan.
+
+---
+
+APA TUJUAN PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan ini memiliki 3 tujuan utama:
+1. Memahami Artificial Intelligence (AI) di dunia kreatif.
+2. Menggunakan tools berbasis AI untuk content creation.
+3. Membuat konten dengan Artificial Intelligence (AI).
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN AI FOR CONTENT CREATION?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN, TNI, Polri, atau pegawai yang bekerja di instansi pemerintahan.
+2. Diutamakan bagi pengelola media sosial instansi atau yang bekerja di bidang kehumasan dan komunikasi publik.
+3. Pendidikan minimal SMA.
+4. Memiliki surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan.
+6. Bagi peserta penyandang disabilitas, wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+7. Dapat mengoperasikan aplikasi office tingkat dasar dan memiliki akun media sosial.
+
+---
+
+APA SAJA PERSYARATAN TEKNIS UNTUK MENGIKUTI PELATIHAN AI FOR CONTENT CREATION?
+Peserta wajib memiliki perangkat dengan spesifikasi minimal berikut:
+- Laptop atau komputer dengan sistem operasi Microsoft Windows, Linux, atau MacOS.
+- RAM minimal 4 GB (8 GB direkomendasikan).
+- Ruang penyimpanan kosong minimal 1,5 GB.
+- Resolusi layar minimal 1024x768.
+
+---
+
+BERAPA LAMA DURASI PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan berlangsung selama 22 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH DARI PELATIHAN INI?
+Peserta yang dinyatakan lulus mendapatkan Certificate of Completion (Sertifikat Telah Menyelesaikan Pelatihan) dari Kementerian Komunikasi dan Digital RI. Tidak ada proses sertifikasi kompetensi tambahan.
+
+---
+
+KAPAN JADWAL PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan dijadwalkan berlangsung selama periode Februari hingga Desember 2025. Jadwal dapat berubah sewaktu-waktu tanpa pemberitahuan terlebih dahulu.
+
+---
+
+BAGAIMANA METODE PELAKSANAAN PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan tersedia dalam tiga metode:
+
+Full Online (Daring):
+- Dimulai dengan sesi asynchronous (self-paced learning) melalui modul dan materi di LMS Kementerian Komdigi.
+- Dilanjutkan dengan sesi synchronous (live session) bersama Pengajar via video conference.
+
+Full Offline (Luring):
+- Pembelajaran tatap muka langsung bersama Pengajar di kelas pada lokasi yang ditentukan.
+
+Self-Paced Learning (SPL):
+- Peserta belajar sepenuhnya secara mandiri dengan mengakses bahan pembelajaran di LMS. Ketentuan kelulusan mengacu pada informasi di LMS.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN PELATIHAN AI FOR CONTENT CREATION?
+Untuk metode Full Online dan Full Offline, peserta dinyatakan lulus apabila memenuhi seluruh ketentuan berikut:
+1. Mengikuti seluruh aktivitas pembelajaran. Batas maksimum ketidakhadiran adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, seluruh tugas, dan Post-test.
+3. Mengumpulkan (upload) penugasan dari Pengajar melalui LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Meraih nilai akhir minimal 65.
+
+Bobot komponen penilaian:
+- Pre-Test: 5%
+- Tugas: 65%
+- Post-Test: 30%
+
+Untuk metode Self-Paced Learning, ketentuan kelulusan mengacu pada informasi yang tersedia di LMS.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan mencakup 3 mata pelatihan utama dengan total 22 JP:
+
+1. Pengenalan Artificial Intelligence (AI) di Dunia Kreatif – 4 JP
+   - Konsep dasar AI dan penerapannya dalam komunikasi publik.
+   - Ruang lingkup pembuatan konten di media sosial.
+   - Etika penggunaan AI dalam pembuatan konten publik.
+   - Perencanaan konten berbasis AI.
+
+2. Penggunaan Tools Berbasis AI untuk Content Creation – 12 JP
+   Penulisan Konten:
+   - Alat bantu penulisan konten berbasis AI.
+   - Membuat berbagai jenis konten.
+   - Tips menulis prompt yang efektif.
+   Desain Grafis:
+   - Alat desain berbasis AI.
+   - Membuat desain infografis, poster, dan visual lainnya.
+   Pembuatan Video:
+   - Alat pembuatan video berbasis AI.
+   Pembuatan Audio:
+   - Alat pembuatan musik berbasis AI.
+   - Alat pembuatan suara berbasis AI.
+
+3. Pembuatan Konten dengan Artificial Intelligence (AI) – 6 JP
+   - Editing konten.
+   - Optimasi konten.
+   - Publikasi konten di media sosial.
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN DALAM PELATIHAN AI FOR CONTENT CREATION?
+Selama pelatihan, peserta akan mengikuti berbagai aktivitas berikut:
+- Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS.
+- Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab dengan Pengajar.
+- Diskusi kelompok.
+- Curah Pendapat (Brainstorming).
+- Praktik langsung.
+- Latihan.
+- Penugasan.
+- Presentasi.
+- Learning Feedback.
+
+---
+
+BAGAIMANA JADWAL PELATIHAN AI FOR CONTENT CREATION SECARA OFFLINE (HARI PER HARI)?
+
+Hari 1:
+- 08.00–08.15 : Pembukaan
+- 08.15–08.45 : Pengarahan Program dan Pre-Test
+- 08.45–10.15 : Pengenalan AI di dunia kreatif – sesi 1 (2 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Pengenalan AI di dunia kreatif – sesi 2 (2 JP)
+- 12.00–13.00 : Break
+- 13.00–14.30 : Penggunaan tools AI content creation – sesi 1 (2 JP)
+- 14.30–14.45 : Break
+- 14.45–16.15 : Penggunaan tools AI content creation – sesi 2 (2 JP)
+
+Hari 2:
+- 08.00–10.15 : Penggunaan tools AI content creation – sesi 3 (3 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Penggunaan tools AI content creation – sesi 4 (2 JP)
+- 12.00–13.00 : Break
+- 13.00–14.30 : Penggunaan tools AI content creation – sesi 5 (2 JP)
+- 14.30–14.45 : Break
+- 14.45–16.15 : Pembuatan Konten dengan AI – sesi 1 (2 JP)
+
+Hari 3:
+- 08.00–10.15 : Pembuatan Konten dengan AI – sesi 2 (3 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Pembuatan Konten dengan AI – sesi 3 (2 JP)
+- 12.00–13.00 : Break
+- 13.00–13.30 : Penutupan dan Post-Test
+
+Total: 22 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN AI FOR CONTENT CREATION SECARA ONLINE (HARI PER HARI)?
+
+Hari 1:
+- 08.00–08.15 : Pembukaan
+- 08.15–08.45 : Pengarahan Program dan Pre-Test
+- 08.45–10.15 : Pengenalan AI di dunia kreatif – sinkronus (2 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Pengenalan AI di dunia kreatif – sinkronus (2 JP)
+
+Hari 2:
+- 08.00–10.15 : Penggunaan tools AI content creation – sinkronus (3 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Penggunaan tools AI content creation – sinkronus (2 JP)
+- 12.00–13.00 : Break
+- 13.00–14.30 : Penggunaan tools AI content creation – asinkronus/self learning (2 JP)
+
+Hari 3:
+- 08.00–10.15 : Penggunaan tools AI content creation – sinkronus (3 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Penggunaan tools AI content creation – sinkronus (2 JP)
+- 12.00–13.00 : Break
+- 13.00–13.45 : Pembuatan Konten dengan AI – asinkronus/self learning (1 JP)
+
+Hari 4:
+- 08.00–10.15 : Pembuatan Konten dengan AI – sinkronus (3 JP)
+- 10.15–10.30 : Break
+- 10.30–12.00 : Pembuatan Konten dengan AI – sinkronus (2 JP)
+- 12.00–13.00 : Break
+- 13.00–13.30 : Post-Test dan Penutupan
+
+Total: 22 JP (Sinkronus 19 JP + Asinkronus 3 JP)

@@ -1,0 +1,150 @@
+TOPIK: AI Praktis untuk Produktivitas (AIP)
+KODE: GTA-AIP
+PROGRAM: Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+KATEGORI: GTA
+PENYELENGGARA: Kementerian Komunikasi dan Digital Republik Indonesia
+MITRA PELATIHAN: Google Indonesia, Dicoding
+KEBIJAKAN TAHUN: 2026
+VERSI DOKUMEN: Publikasi #1 – 27 Agustus 2025
+
+---
+
+APA ITU PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS (AIP)?
+Pelatihan AI Praktis untuk Produktivitas (AIP) adalah program dari GTA – Digital Talent Scholarship yang membekali peserta dengan pemahaman mengenai pemanfaatan AI dalam peningkatan produktivitas kerja. Pelatihan ini diselenggarakan bersama mitra Google Indonesia dan Dicoding, khusus ditujukan bagi ASN Kementerian Komunikasi dan Digital.
+
+---
+
+APA TUJUAN PELATIHAN AIP?
+Peserta mampu memanfaatkan AI secara efektif, etis, dan strategis untuk meningkatkan produktivitas serta beradaptasi pada era AI.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN AIP?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN Kementerian Komunikasi dan Digital. Pejabat Pimpinan Tinggi Pratama dan Ketua Tim Kerja pada Satuan Kerja di Komdigi didorong untuk mengikuti.
+2. Usia maksimal 55 tahun pada saat mendaftar.
+3. Memiliki surat penugasan dari pimpinan atau pejabat yang berwenang, dibuktikan dengan Surat Rekomendasi Peserta yang ditandatangani oleh Pimpinan.
+4. Berkomitmen mengikuti seluruh aktivitas pembelajaran pada LMS, dibuktikan dengan Surat Komitmen Peserta.
+5. Familiar menggunakan komputer untuk pekerjaan sehari-hari.
+
+---
+
+APA SAJA PERSYARATAN TEKNIS UNTUK MENGIKUTI PELATIHAN AIP?
+Peserta wajib memiliki perangkat dengan spesifikasi minimal berikut:
+- Laptop atau komputer dengan sistem operasi Microsoft Windows, Linux, atau MacOS yang terinstal web browser (Google Chrome atau Mozilla Firefox).
+- RAM minimal 2 GB (4 GB direkomendasikan).
+- Resolusi layar minimal 1366x768 (Full HD 1920x1080 direkomendasikan).
+- Koneksi internet yang stabil (dedicated 256 kbps).
+
+---
+
+BERAPA LAMA DURASI PELATIHAN AIP?
+Pelatihan berlangsung selama 22 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit. Ini adalah durasi kelas wajib. Peserta yang lulus berkesempatan mendapatkan kelas bonus tambahan berdurasi 40 JP.
+
+---
+
+BAGAIMANA METODE PELAKSANAAN PELATIHAN AIP?
+Pelatihan AIP dilaksanakan secara Self-Paced Learning (pembelajaran mandiri) full online. Peserta belajar secara mandiri dengan mengakses seluruh bahan pembelajaran yang tersedia di LMS, tanpa jadwal sesi live/synchronous yang terjadwal.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH DARI PELATIHAN AIP?
+Peserta yang dinyatakan lulus mendapatkan Certificate of Completion (Sertifikat Telah Menyelesaikan Pelatihan) dari Kementerian Komunikasi dan Digital RI.
+
+---
+
+BAGAIMANA SYARAT KELULUSAN PELATIHAN AIP?
+Peserta dinyatakan lulus apabila memenuhi seluruh ketentuan berikut:
+1. Menyelesaikan seluruh pembelajaran (materi bacaan, video, dan kuis).
+2. Menyelesaikan Pre-test dan Post-test.
+
+---
+
+APA SAJA REWARDS YANG DIDAPAT LULUSAN PELATIHAN AIP?
+Peserta yang berhasil lulus kelas wajib AIP akan mendapatkan dua reward berikut:
+1. Kelas bonus berdurasi 40 JP berjudul "Belajar Penggunaan Generative AI", bersifat daring dan mandiri (self-paced learning).
+2. Kesempatan diseleksi menjadi peserta pelatihan luring berdurasi 8 JP yang membahas, antara lain, topik "Praktik langsung membuat karya AI: menerapkan studi kasus yang aplikatif selaras dengan kebutuhan Komdigi."
+
+---
+
+BAGAIMANA KRITERIA PEMILIHAN PESERTA KELAS LURING AIP?
+Pemilihan kandidat peserta kelas luring didasarkan pada 3 aspek:
+1. Skor tes seleksi yang diraih lulusan kelas wajib. Semakin tinggi skor, semakin besar peluang mendapatkan kelas luring.
+2. Peserta yang lulus dari kelas bonus akan lebih diprioritaskan.
+3. (Aspek ketiga mengacu pada ketentuan penyelenggara.)
+
+---
+
+KAPAN JADWAL PELAKSANAAN PELATIHAN AIP?
+Jadwal lengkap pelatihan AIP adalah sebagai berikut:
+
+Periode Belajar Daring (Kelas Wajib):
+- 13 Oktober 2025 : Sesi Onboarding peserta via Zoom & periode belajar dimulai.
+- 14 Oktober 2025 : Pengiriman email akses belajar Dicoding oleh Tim Dicoding.
+- 17 Oktober 2025 : Batas waktu redeem token Dicoding.
+- 22 Oktober 2025 : Batas waktu menyelesaikan Kelas Wajib "AI Praktis untuk Produktivitas."
+- 23 Oktober 2025 : Distribusi akses Kelas Bonus dimulai untuk lulusan kelas wajib.
+- 27–31 Oktober 2025 : Periode belajar Kelas Bonus untuk lulusan kelas wajib.
+
+Seleksi Pelatihan Luring:
+- 3–6 November 2025 : Proses seleksi peserta pelatihan offline.
+- 7 November 2025 : Seleksi peserta pelatihan offline dimulai.
+- 14 November 2025 : Tim Dicoding membagikan data peserta pelatihan offline kepada Komdigi & pengumuman peserta pelatihan luring.
+
+Pelatihan Luring (untuk peserta terpilih, durasi 8 JP):
+- 17–21 November 2025 : Pelatihan luring periode pertama (4–6 gelombang).
+- 24–28 November 2025 : Pelatihan luring periode kedua.
+- 1–5 Desember 2025 : Pelatihan luring periode ketiga.
+
+Catatan: Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN AIP?
+Pelatihan mencakup 5 mata pelatihan utama dengan total 22 JP:
+
+1. Pengenalan AI – 7,3 JP
+   Pemanfaatan AI untuk menyelesaikan tugas tertentu dalam kehidupan sehari-hari.
+
+2. Memaksimalkan Produktivitas dengan Alat AI – 4 JP
+   Menggunakan alat AI untuk membantu meningkatkan produktivitas berbagai tugas dan konteks pekerjaan.
+
+3. Temukan Seni dalam Prompt Engineering – 5 JP
+   Merancang dan mengoptimalkan prompt secara efektif untuk berbagai kebutuhan.
+
+4. Ketika AI Tidak Sempurna – 2,8 JP
+   Merencanakan strategi penggunaan AI yang bertanggung jawab dengan mempertimbangkan prinsip etika, keamanan, dan regulasi sesuai prinsip AI yang berlaku.
+
+5. Tetap Unggul di Era AI – 2,9 JP
+   Membuat strategi pengembangan keterampilan diri agar dapat beradaptasi terhadap kemajuan AI.
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN DALAM PELATIHAN AIP?
+Karena metode pelatihan adalah self-paced learning, aktivitas pembelajaran meliputi:
+- Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS dan platform Dicoding.
+- Diskusi.
+- Curah Pendapat.
+- Latihan.
+- Studi Kasus.
+- Pre-test dan Post-test di LMS.
+
+---
+
+APA PERBEDAAN KELAS WAJIB DAN KELAS BONUS PELATIHAN AIP?
+Kelas Wajib "AI Praktis untuk Produktivitas":
+- Durasi 22 JP, bersifat wajib untuk semua peserta terdaftar.
+- Dilaksanakan secara daring mandiri (self-paced learning).
+- Harus diselesaikan paling lambat 22 Oktober 2025.
+- Lulusan mendapatkan Certificate of Completion.
+
+Kelas Bonus "Belajar Penggunaan Generative AI":
+- Durasi 40 JP, hanya tersedia bagi peserta yang lulus kelas wajib.
+- Dilaksanakan secara daring mandiri (self-paced learning).
+- Kelulusan kelas bonus meningkatkan prioritas untuk dipilih sebagai peserta kelas luring.
+- Akses dibuka mulai 23 Oktober 2025.
+
+Kelas Luring (Offline):
+- Durasi 8 JP, hanya untuk peserta terpilih berdasarkan seleksi.
+- Membahas praktik langsung membuat karya AI dengan studi kasus aplikatif selaras kebutuhan Komdigi.
+- Dilaksanakan dalam 4–6 gelombang pada November–Desember 2025.

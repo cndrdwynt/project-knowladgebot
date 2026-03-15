@@ -1,31 +1,37 @@
-KEBIJAKAN MAGANG BLSDM KOMDIGI SURABAYA
-
-1. KETENTUAN UMUM
-- Program: Magang untuk Mahasiswa Aktif (bukan lowongan kerja).
-- Durasi: Minimal 3 bulan, maksimal 6 bulan (sesuai MSIB atau Mandiri).
-- Sasaran: Mahasiswa D3/D4/S1 jurusan TIK, DKV, Ilmu Komunikasi, atau Administrasi.
-- Status: Praktik kerja (bukan pegawai/kontrak).
-
-2. JAM KERJA INTERN
-- Senin - Kamis: 08.00 - 16.30 WIB
-- Jumat: 08.00 - 16.00 WIB (Senam pagi pukul 07.30 kondisional)
-- Istirahat: 12.00 - 13.00 WIB
-
-3. KEWAJIBAN PEMAGANG
-- Mengisi Logbook Harian (SIAP Magang / Platform Kampus).
-- Memakai seragam sesuai ketentuan (Umumnya Putih-Hitam atau Almamater pada event tertentu).
-- Menyusun Laporan Akhir Magang yang disetujui pembimbing lapangan.
-
-4. DIVISI PENEMPATAN
-- Tim IT & Jaringan: Pengelolaan server, lab komputer, dan pengembangan aplikasi internal.
-- Tim Program/DTS: Membantu administrasi dan pelaksanaan event pelatihan.
-- Tim Humas & Multimedia: Dokumentasi kegiatan dan pengelolaan konten media sosial.
-
-5. CARA MENDAFTAR MAGANG
-- Kirim berkas via Email resmi (sesuai pengumuman terbaru).
-- Berkas: Surat Pengantar Kampus, Proposal Magang, CV, KTP.
-- Periode: Dibuka sesuai ketersediaan kuota (biasanya awal semester).
-- Follow Instagram @bpsdmp.surabaya untuk info terbaru.
-
-6. JALUR KARIR SETELAH MAGANG
-- Alumni magang yang berprestasi sering diprioritaskan untuk lowongan kerja (PPNPN/Project Based) jika ada rekomendasi dari supervisor internal.
+TOPIK: Program Magang BLSDM Komdigi Surabaya
+---
+APA ITU PROGRAM MAGANG DI BLSDM KOMDIGI SURABAYA?
+Program magang di BLSDM Komdigi Surabaya adalah program Praktik Kerja Mahasiswa. Status pemagang adalah praktikan, bukan pegawai atau kontrak. Program ini bukan pelatihan DTS dan bukan jalur kerja.
+Sasaran: Mahasiswa aktif D3, D4, atau S1 dari jurusan TIK, DKV, Ilmu Komunikasi, Administrasi, atau jurusan lain sesuai kebutuhan instansi.
+Durasi: Minimal 3 bulan, maksimal 6 bulan. Bisa melalui jalur MSIB atau jalur Mandiri dari kampus.
+---
+BERAPA WAKTU PELAKSANAAN PRAKTIK MAGANG BAGI MAHASISWA?
+Waktu pelaksanaan praktik magang khusus untuk mahasiswa (bukan jam operasional kantor/pelatihan):
+Senin s.d. Kamis: 08.00–16.00 WIB
+Jumat: 08.30–16.30 WIB
+Istirahat: 12.00–13.00 WIB
+---
+APA SAJA KEWAJIBAN PEMAGANG SELAMA MAGANG?
+1. Logbook: Mengisi logbook harian melalui platform SIAP Magang atau platform yang ditetapkan kampus.
+2. Seragam: Berpakaian Putih-Hitam pada hari kerja biasa, almamater kampus pada event tertentu.
+3. Laporan Akhir: Menyusun laporan akhir magang yang disetujui pembimbing lapangan dari instansi.
+4. Project Akhir: Menyelesaikan tugas atau project akhir yang diberikan instansi pembimbing.
+---
+BAGAIMANA CARA MENDAFTAR MAGANG DI BLSDM KOMDIGI SURABAYA?
+Pendaftaran dilakukan melalui website SIMANOV:
+Langkah 1: Buat akun registrasi di website SIMANOV.
+Langkah 2: Lengkapi profil pemohon magang.
+Langkah 3: Unggah berkas: Surat permohonan magang (ditujukan kepada Kepala BLSDM Komdigi Surabaya), CV, dan Portofolio.
+Langkah 4: Tim seleksi melakukan seleksi administrasi.
+Langkah 5: Jika lolos, akan ada sesi wawancara.
+Langkah 6: Pengumuman hasil seleksi disampaikan via SIMANOV atau email.
+---
+APA PERBEDAAN MAGANG, PELATIHAN DTS, DAN KERJA DI BLSDM?
+Magang: Untuk mahasiswa aktif D3/D4/S1, status praktikan, durasi 3–6 bulan, daftar via SIMANOV. Bukan jalur kerja.
+Pelatihan DTS: Untuk masyarakat umum sesuai kategori (lulusan SMK, guru, UMKM, dll), gratis dan bersertifikat, daftar via website Digital Talent. Bukan magang dan bukan jalur kerja.
+Kerja (PNS/ASN): Satu-satunya jalur adalah seleksi CPNS nasional via sscasn.bkn.go.id. BLSDM tidak membuka rekrutmen tenaga kontrak secara mandiri.
+---
+BAGAIMANA CARA MENGHUBUNGI ADMIN MAGANG?
+[PLACEHOLDER - Kontak CP admin belum diisi. Mohon dilengkapi.]
+Atau pantau pengumuman di Instagram @blsdm.komdigi.surabaya atau website https://bpsdm.komdigi.go.id/upt/surabaya
+---

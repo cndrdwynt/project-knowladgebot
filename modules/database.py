@@ -31,6 +31,19 @@ def init_db():
             )
         ''')
         conn.commit()
+
+        # --- Auto-migration: tambah kolom baru kalau belum ada ---
+        c.execute("PRAGMA table_info(riwayat)")
+        existing_cols = {row[1] for row in c.fetchall()}
+        migrations = {
+            'response_time': "ALTER TABLE riwayat ADD COLUMN response_time REAL DEFAULT 0",
+            'user_agent':    "ALTER TABLE riwayat ADD COLUMN user_agent TEXT DEFAULT ''",
+        }
+        for col, sql in migrations.items():
+            if col not in existing_cols:
+                c.execute(sql)
+                print(f"✔ Migrasi: kolom '{col}' ditambahkan ke tabel riwayat")
+        conn.commit()
         conn.close()
         print("✔ Database initialized")
     except Exception as e:

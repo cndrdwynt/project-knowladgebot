@@ -1,0 +1,361 @@
+TOPIK: ADEFR (Associate Digital Evidence First Responder)
+KODE: GTA-ADEFR
+PROGRAM: Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+KATEGORI: GTA
+PENYELENGGARA: Kementerian Komunikasi dan Digital Republik Indonesia
+MITRA PELATIHAN: Badan Siber dan Sandi Negara (BSSN)
+KEBIJAKAN TAHUN: 2023
+VERSI DOKUMEN: Publikasi #1 – 22 Januari 2025
+
+---
+
+---
+
+APA ITU ADEFR?
+ADEFR (Associate Digital Evidence First Responder) adalah pelatihan yang menyiapkan peserta agar kompeten dalam melaksanakan pekerjaan Penanganan Pertama Bukti Elektronik. Peserta dilatih untuk mengidentifikasi, mengoleksi, mengakuisisi, dan mempreservasi bukti elektronik agar dapat digunakan dalam proses forensik digital hingga pembuktian di ranah hukum.
+Pelatihan ini diselenggarakan oleh Kementerian Komunikasi dan Digital RI melalui program Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA), bekerja sama dengan Badan Siber dan Sandi Negara (BSSN).
+
+---
+
+APA TUJUAN PELATIHAN ADEFR?
+Tujuan pelatihan ADEFR adalah agar peserta mampu mengidentifikasi, mengoleksi, mengakuisisi, dan mempreservasi bukti elektronik sehingga bukti tersebut dapat diproses lebih lanjut, mulai dari pemeriksaan forensik digital hingga digunakan sebagai alat pembuktian di proses hukum.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN ADEFR?
+Peserta pelatihan ADEFR harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN (Aparatur Sipil Negara), Pegawai Pemerintah Non-ASN, anggota TNI, atau anggota Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3 dari program studi Teknik Informatika, Sistem Informasi, atau Ilmu Komputer.
+4. Administrasi: Memiliki surat penugasan dari pimpinan atau pejabat yang berwenang.
+
+---
+
+APA SAJA PERSYARATAN TEKNIS UNTUK MENGIKUTI PELATIHAN ADEFR?
+Peserta wajib memiliki perangkat dengan spesifikasi minimal berikut:
+- Laptop atau komputer dengan sistem operasi Microsoft Windows, Linux, atau MacOS.
+- Processor 32-bit atau 64-bit.
+- RAM minimal 8 GB.
+- Media penyimpanan minimal 256 GB.
+- Koneksi internet yang stabil dengan kecepatan dedicated minimal 256 kbps.
+
+---
+
+BERAPA LAMA DURASI PELATIHAN ADEFR?
+Pelatihan ADEFR berlangsung selama 24 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit. Total durasi keseluruhan adalah 1.080 menit atau setara 18 jam pelatihan efektif.
+
+---
+
+BAGAIMANA METODE PELAKSANAAN PELATIHAN ADEFR?
+Pelatihan ADEFR tersedia dalam dua metode pelaksanaan:
+
+Full Online (Daring):
+- Dimulai dengan pembelajaran asynchronous (self-paced learning) secara mandiri melalui modul, bahan tayang, dan materi di LMS (Learning Management System) Kementerian Komdigi.
+- Dilanjutkan dengan sesi synchronous (tatap muka virtual) bersama Pengajar melalui aplikasi video conference.
+
+Full Offline (Luring):
+- Pembelajaran dilakukan secara tatap muka langsung (synchronous) bersama Pengajar di kelas pelatihan pada lokasi yang telah ditentukan.
+
+---
+
+KAPAN JADWAL PELATIHAN ADEFR 2025?
+Pelatihan ADEFR dijadwalkan berlangsung selama periode Februari hingga Oktober 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan terlebih dahulu.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH SETELAH MENGIKUTI ADEFR?
+Peserta yang dinyatakan lulus akan mendapatkan Certificate of Completion (Sertifikat Telah Menyelesaikan Pelatihan ADEFR) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI. Tidak terdapat proses sertifikasi kompetensi tambahan dalam pelatihan ini.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN PELATIHAN ADEFR?
+Peserta dinyatakan lulus dan berhak mendapatkan sertifikat apabila memenuhi seluruh ketentuan berikut:
+1. Mengikuti seluruh aktivitas pembelajaran. Batas maksimum ketidakhadiran adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, seluruh tugas, dan Post-test.
+3. Mengumpulkan (upload) penugasan dari Pengajar melalui LMS.
+4. Meraih nilai akhir minimal 65.
+
+Bobot komponen penilaian:
+- Pre-Test: 5%
+- Tugas: 65%
+- Post-Test: 30%
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN ADEFR?
+Pelatihan ADEFR mencakup 11 mata pelatihan utama beserta evaluasi, dengan total 24 JP:
+
+1. Konsep Dasar Digital Evidence / Bukti Elektronik (1 JP)
+   Memahami pengertian, jenis, landasan hukum, dan karakteristik bukti elektronik.
+
+2. Konsep Dasar Proses Digital Forensics (1 JP)
+   Memahami pengertian, proses, tahapan, dan standar dalam forensik digital.
+
+3. Mempersiapkan Penanganan Pertama Bukti Elektronik – J.62FDG00.001.1 (1,5 JP)
+   - Mengumpulkan informasi insiden dan alat bantu.
+   - Mempersiapkan penanganan insiden secara seketika.
+   - Mempersiapkan tugas dan tanggung jawab sebagai anggota tim sesuai kompetensi.
+
+4. Mencari Bukti Elektronik Fisik Mandiri (Standalone Devices) – J.62FDG00.002.1 (2 JP)
+   - Mengenali bukti elektronik fisik mandiri di lokasi insiden.
+   - Menjaga keamanan bukti elektronik fisik mandiri di lokasi insiden.
+
+5. Mencari Bukti Elektronik Fisik yang Terkoneksi ke Jaringan (Networked Devices) – J.62FDG00.003.1 (2 JP)
+   - Melaksanakan pencarian perangkat yang terkoneksi ke jaringan di lokasi insiden.
+   - Mendokumentasikan bukti elektronik fisik yang terkoneksi ke jaringan.
+
+6. Mengumpulkan Informasi Non-Elektronik – J.62FDG00.004.1 (2 JP)
+   - Mengenali pihak-pihak yang relevan dengan insiden.
+   - Mengumpulkan barang bukti non-elektronik.
+
+7. Memilih Opsi untuk Koleksi atau Akuisisi – J.62FDG00.005.1 (2 JP)
+   - Mempertimbangkan volatilitas data dan persyaratan lainnya yang relevan.
+   - Mengidentifikasi metode pengumpulan atau akuisisi yang tepat.
+   - Mendokumentasikan rantai ketelusuran (chain of custody).
+
+8. Mengumpulkan Bukti Elektronik dalam Kondisi Masih Hidup/On – J.62FDG00.006.1 (2 JP)
+   - Mengumpulkan bukti elektronik dengan prosedur baseline untuk seluruh kondisi.
+   - Mengumpulkan bukti elektronik tambahan (additional) untuk kondisi tertentu.
+
+9. Mengumpulkan Bukti Elektronik dalam Kondisi Sudah Mati/Off – J.62FDG00.007.1 (2 JP)
+   - Mengumpulkan bukti elektronik dengan prosedur baseline untuk seluruh kondisi.
+   - Mengumpulkan bukti elektronik tambahan (additional) untuk kondisi tertentu.
+
+10. Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan (Networked Devices) – J.62FDG00.008.1 (3 JP)
+    - Memutuskan diskoneksi bukti elektronik yang terkoneksi ke jaringan.
+    - Menangani perangkat seluler sebagai bukti elektronik.
+
+11. Mengumpulkan Bukti Elektronik dari Sistem CCTV – J.62FDG00.009.1 (3 JP)
+    - Menggali informasi sistem CCTV.
+    - Menentukan pemenuhan prasyarat pengumpulan bukti dari sistem CCTV.
+
+12. Evaluasi Akhir – Post Test / Soal Kasus ADEFR (2 JP)
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN DALAM PELATIHAN ADEFR?
+Selama pelatihan, peserta akan mengikuti berbagai aktivitas berikut:
+- Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS.
+- Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab dengan Pengajar.
+- Diskusi kelompok.
+- Curah Pendapat (Brainstorming).
+- Praktik langsung.
+- Latihan soal.
+- Studi Kasus.
+- Penugasan.
+- Presentasi.
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ADEFR SECARA ONLINE (HARI PER HARI)?
+
+Hari 1:
+- 08.00–08.45 : Pembukaan & Pre-Test (Panitia)
+- 08.45–09.30 : Konsep Dasar Digital Evidence / Bukti Elektronik (Pengajar)
+- 09.30–10.15 : Konsep Dasar Digital Forensics (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–12.00 : Mempersiapkan Penanganan Pertama Bukti Elektronik (Pengajar)
+
+Hari 2:
+- 08.00–09.30 : Mencari Bukti Elektronik Fisik Mandiri (Pengajar)
+- 09.30–10.15 : Mencari Bukti Elektronik Fisik yang Terkoneksi Jaringan (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–11.15 : Mencari Bukti Elektronik Fisik yang Terkoneksi Jaringan – lanjutan (Pengajar)
+- 11.15–12.45 : Mengumpulkan Informasi Non-Elektronik (Pengajar)
+
+Hari 3:
+- 08.00–09.30 : Memilih Opsi untuk Koleksi atau Akuisisi (Pengajar)
+- 09.30–10.15 : Mengumpulkan Bukti Elektronik Kondisi Masih Hidup (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–11.15 : Mengumpulkan Bukti Elektronik Kondisi Masih Hidup – lanjutan (Pengajar)
+
+Hari 4:
+- 08.00–09.30 : Mengumpulkan Bukti Elektronik Kondisi Sudah Mati (Pengajar)
+- 09.30–10.15 : Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–12.00 : Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan – lanjutan (Pengajar)
+
+Hari 5:
+- 08.00–10.15 : Mengumpulkan Bukti Elektronik dari Sistem CCTV (Pengajar)
+- 09.30–10.15 : Coffee Break
+- 10.15–12.00 : Evaluasi Akhir ADEFR (Pengajar)
+- 12.00–selesai : Penutupan (Panitia)
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ADEFR SECARA OFFLINE (HARI PER HARI)?
+
+Hari 1:
+- 08.00–08.45 : Pembukaan (Panitia)
+- 08.45–10.15 : Konsep Dasar Digital Evidence & Konsep Dasar Digital Forensics (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–12.00 : Mempersiapkan Penanganan Pertama Bukti Elektronik (Pengajar)
+- 12.00–13.00 : Ishoma
+- 13.00–14.30 : Mencari Bukti Elektronik Fisik Mandiri (Pengajar)
+- 14.30–16.00 : Mencari Bukti Elektronik Fisik yang Terkoneksi ke Jaringan (Pengajar)
+
+Hari 2:
+- 08.00–09.30 : Mengumpulkan Informasi Non-Elektronik (Pengajar)
+- 09.30–10.15 : Memilih Opsi untuk Koleksi atau Akuisisi (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–11.15 : Memilih Opsi untuk Koleksi atau Akuisisi – lanjutan (Pengajar)
+- 11.15–12.45 : Mengumpulkan Bukti Elektronik Kondisi Masih Hidup (Pengajar)
+- 12.45–13.45 : Ishoma
+- 13.45–15.15 : Mengumpulkan Bukti Elektronik Kondisi Sudah Mati (Pengajar)
+
+Hari 3:
+- 08.00–10.15 : Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan (Pengajar)
+- 10.15–10.30 : Coffee Break
+- 10.30–12.45 : Mengumpulkan Bukti Elektronik dari Sistem CCTV (Pengajar)
+- 12.45–13.45 : Ishoma
+- 13.45–15.15 : Evaluasi (Pengajar)
+
+---
+
+APA ITU CHAIN OF CUSTODY DALAM KONTEKS ADEFR?
+Chain of custody atau rantai ketelusuran adalah dokumentasi kronologis yang mencatat setiap perpindahan, penanganan, dan perubahan status bukti elektronik selama proses investigasi. Dalam ADEFR, chain of custody wajib didokumentasikan untuk memastikan integritas dan keaslian bukti dapat dipertanggungjawabkan di pengadilan. Materi ini diajarkan pada mata pelatihan ke-7 (J.62FDG00.005.1).
+
+---
+
+APA PERBEDAAN LIVE ACQUISITION DAN DEAD ACQUISITION?
+Live Acquisition adalah proses pengumpulan bukti elektronik yang dilakukan saat perangkat masih dalam kondisi menyala (on). Metode ini digunakan untuk mengamankan data volatile seperti isi RAM, proses yang sedang berjalan, dan koneksi jaringan aktif yang akan hilang jika perangkat dimatikan.
+
+Dead Acquisition adalah proses pengumpulan bukti elektronik yang dilakukan saat perangkat sudah dimatikan (off). Metode ini umumnya menggunakan write blocker untuk membuat forensic image (salinan bit-per-bit) dari media penyimpanan tanpa mengubah data asli. Integritas data diverifikasi menggunakan nilai hash (MD5, SHA-1, atau SHA-256).
+
+Kedua metode ini diajarkan masing-masing pada mata pelatihan ke-8 (J.62FDG00.006.1) dan ke-9 (J.62FDG00.007.1).
+
+---
+
+APA ITU DATA VOLATILE?
+Data volatile adalah data yang tersimpan secara sementara di memori RAM perangkat dan akan hilang secara permanen ketika perangkat dimatikan. Contoh data volatile meliputi: isi RAM (memori aktif), proses dan aplikasi yang sedang berjalan, koneksi jaringan aktif, sesi login yang sedang aktif, dan cache sistem. Dalam forensik digital, data volatile memiliki prioritas pengumpulan tertinggi karena sifatnya yang mudah hilang.
+
+---
+
+APA ITU WRITE BLOCKER?
+Write blocker adalah perangkat hardware atau software yang berfungsi mencegah penulisan data ke media penyimpanan bukti elektronik selama proses akuisisi. Penggunaan write blocker wajib dilakukan dalam dead acquisition untuk menjamin bahwa data asli pada barang bukti tidak berubah sama sekali, sehingga integritas bukti tetap terjaga dan dapat diterima secara hukum.
+
+---
+
+APA ITU STANDALONE DEVICE DAN NETWORKED DEVICE?
+Standalone Device (Perangkat Mandiri) adalah perangkat elektronik yang berdiri sendiri dan tidak terhubung ke jaringan apapun, misalnya komputer desktop yang tidak terkoneksi internet, hard disk eksternal, atau USB flash drive. Penanganannya dibahas pada mata pelatihan ke-4 (J.62FDG00.002.1).
+
+Networked Device (Perangkat Jaringan) adalah perangkat elektronik yang terhubung ke jaringan lokal (LAN), jaringan luas (WAN), atau internet, seperti server, router, switch, NAS, atau komputer dalam jaringan kantor. Penanganannya dibahas pada mata pelatihan ke-5 dan ke-10 (J.62FDG00.003.1 dan J.62FDG00.008.1).
+
+---
+
+BAGAIMANA PROSEDUR PENANGANAN PERANGKAT SELULER SEBAGAI BUKTI ELEKTRONIK?
+Perangkat seluler (smartphone, tablet, smartwatch) memerlukan penanganan khusus karena sifatnya yang selalu terkoneksi jaringan. Prosedur umum yang diajarkan dalam ADEFR antara lain:
+- Mengaktifkan mode pesawat (airplane mode) untuk memutus koneksi jaringan dan mencegah penghapusan data jarak jauh.
+- Menempatkan perangkat dalam Faraday bag untuk memblokir sinyal secara fisik.
+- Mendokumentasikan status baterai dan kondisi perangkat.
+- Menggunakan tools forensik khusus perangkat seluler untuk akuisisi data.
+Materi ini diajarkan pada mata pelatihan ke-10 (J.62FDG00.008.1).
+
+---
+
+BAGAIMANA CARA MENGUMPULKAN BUKTI DARI SISTEM CCTV?
+Pengumpulan bukti dari sistem CCTV mencakup dua tahap utama yang diajarkan dalam ADEFR (J.62FDG00.009.1):
+
+Menggali informasi sistem CCTV:
+- Mengidentifikasi jenis sistem CCTV (analog, IP/digital, atau hybrid).
+- Mengetahui letak DVR/NVR dan media penyimpanan rekaman.
+- Mengetahui format video, kapasitas, dan siklus penyimpanan rekaman.
+
+Memenuhi prasyarat pengumpulan:
+- Mempersiapkan izin dan prosedur legal yang diperlukan.
+- Melakukan ekspor/ekstraksi rekaman secara forensik.
+- Memverifikasi integritas rekaman video.
+- Mendokumentasikan seluruh proses pengumpulan bukti CCTV.
+
+---
+
+APA SAJA KODE UNIT KOMPETENSI DALAM PELATIHAN ADEFR?
+Pelatihan ADEFR mengacu pada 9 unit kompetensi nasional:
+
+- J.62FDG00.001.1 : Mempersiapkan Penanganan Pertama Bukti Elektronik
+- J.62FDG00.002.1 : Mencari Bukti Elektronik Fisik Mandiri (Standalone Devices)
+- J.62FDG00.003.1 : Mencari Bukti Elektronik Fisik yang Terkoneksi ke Jaringan (Networked Devices)
+- J.62FDG00.004.1 : Mengumpulkan Informasi Non-Elektronik
+- J.62FDG00.005.1 : Memilih Opsi untuk Koleksi atau Akuisisi
+- J.62FDG00.006.1 : Mengumpulkan Bukti Elektronik dalam Kondisi Masih Hidup/On
+- J.62FDG00.007.1 : Mengumpulkan Bukti Elektronik dalam Kondisi Sudah Mati/Off
+- J.62FDG00.008.1 : Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan (Networked Devices)
+- J.62FDG00.009.1 : Mengumpulkan Bukti Elektronik dari Sistem CCTV
+
+---
+
+APA LANDASAN HUKUM BUKTI ELEKTRONIK DI INDONESIA?
+Bukti elektronik di Indonesia diatur dalam beberapa regulasi utama:
+- UU No. 11 Tahun 2008 jo. UU No. 19 Tahun 2016 tentang Informasi dan Transaksi Elektronik (UU ITE): mengatur keabsahan bukti elektronik dalam proses hukum.
+- UU No. 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP): mengatur prosedur hukum acara pidana termasuk ketentuan alat bukti.
+Materi landasan hukum ini dibahas pada mata pelatihan pertama mengenai konsep dasar digital evidence.
+
+---
+
+GLOSARIUM ISTILAH FORENSIK DIGITAL
+
+Akuisisi (Acquisition)
+Proses membuat salinan forensik (forensic copy/image) dari media penyimpanan atau data digital untuk dianalisis tanpa mengubah data asli.
+
+ASN (Aparatur Sipil Negara)
+Pegawai pemerintah yang terdiri dari PNS dan PPPK, merupakan salah satu kategori peserta yang berhak mengikuti pelatihan ADEFR.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab atas keamanan siber nasional dan menjadi mitra pelatihan ADEFR.
+
+Chain of Custody (Rantai Ketelusuran)
+Dokumentasi kronologis yang mencatat perpindahan, penanganan, dan status bukti selama proses investigasi forensik.
+
+CCTV (Closed Circuit Television)
+Sistem kamera pengawas yang merekam ke perangkat penyimpanan lokal (DVR/NVR), salah satu sumber bukti elektronik yang dibahas dalam ADEFR.
+
+Data Volatile
+Data yang tersimpan sementara di memori RAM dan akan hilang secara permanen ketika perangkat dimatikan.
+
+Dead Acquisition
+Proses akuisisi data forensik yang dilakukan saat perangkat sudah dimatikan (off), umumnya menggunakan write blocker.
+
+Digital Evidence (Bukti Elektronik)
+Informasi atau data yang tersimpan atau ditransmisikan dalam bentuk digital yang dapat digunakan sebagai bukti dalam proses hukum.
+
+Digital Forensics (Forensik Digital)
+Ilmu dan seni mengidentifikasi, mengumpulkan, menganalisis, dan mempresentasikan bukti digital secara sah menurut hukum.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI, program induk dari pelatihan ADEFR.
+
+DVR/NVR (Digital Video Recorder / Network Video Recorder)
+Perangkat penyimpanan rekaman video dari sistem CCTV.
+
+Faraday Bag
+Kantong khusus yang memblokir sinyal elektromagnetik, digunakan untuk mengamankan perangkat seluler agar tidak terhubung ke jaringan selama proses penanganan bukti.
+
+First Responder (Petugas Pertama di Lokasi)
+Orang pertama yang merespons lokasi insiden siber dan bertanggung jawab mengamankan serta mempreservasi bukti elektronik.
+
+Forensic Image (Citra Forensik)
+Salinan bit-per-bit yang identik dari media penyimpanan, digunakan untuk analisis forensik tanpa menyentuh data asli.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk pemerintahan, program induk dari Digital Talent Scholarship.
+
+Hash Value (Nilai Hash)
+Nilai kriptografis unik yang dihasilkan dari proses hashing (MD5, SHA-1, SHA-256) untuk memverifikasi integritas data digital.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan yang digunakan dalam DTS, di mana 1 JP setara dengan 45 menit.
+
+Live Acquisition
+Proses akuisisi data forensik yang dilakukan saat perangkat masih menyala/hidup (on).
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran online, digunakan dalam pelatihan ADEFR melalui platform Kementerian Komdigi.
+
+Networked Device (Perangkat Jaringan)
+Perangkat elektronik yang terhubung ke jaringan (LAN, WAN, Internet), seperti server, router, dan komputer dalam jaringan.
+
+Standalone Device (Perangkat Mandiri)
+Perangkat elektronik yang berdiri sendiri dan tidak terhubung ke jaringan apapun.
+
+Write Blocker (Pemblokir Tulisan)
+Perangkat hardware atau software yang mencegah penulisan data ke media penyimpanan guna menjaga integritas bukti elektronik.
