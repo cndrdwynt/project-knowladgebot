@@ -1,0 +1,390 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: BUSINESS PROCESS ENGINEER (BPE)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : - (tidak ada mitra eksternal)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN BUSINESS PROCESS ENGINEER?
+Pelatihan Business Process Engineer (BPE) dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk meningkatkan efisiensi operasional dalam administrasi dan pelayanan publik. Pengetahuan tentang rekayasa proses bisnis memungkinkan personel pemerintah meningkatkan fungsi pemerintah dengan jalan meminimalkan kompleksitas proses, biaya, dan waktu pengiriman layanan, serta meningkatkan transparansi dan mengurangi beban administrasi.
+
+Pelatihan ini menggunakan framework Business Process Reengineering (BPR) dalam konteks pemerintah (Government Process Reengineering/GPR) yang bertujuan membantu organisasi memikirkan kembali proses bisnis mereka dalam meningkatkan pelayanan publik.
+
+Pelatihan terdiri dari 2 muatan penunjang, 1 muatan wawasan, dan 8 muatan inti mata pelatihan. Setiap peserta diharapkan membawa isu atau permasalahan pada lingkup satuan kerjanya sebagai bahan use case. Di akhir pelatihan, peserta akan menghasilkan Laporan Rancangan Rekayasa Proses Bisnis (individu) yang siap dilaporkan kepada atasan.
+
+---
+
+APA TUJUAN PELATIHAN BUSINESS PROCESS ENGINEER?
+Peserta memiliki kompetensi dalam melakukan rekayasa proses bisnis, yang diindikasikan dengan kemampuan:
+1. Mengetahui arah kebijakan SPBE
+2. Menjelaskan ruang lingkup rekayasa proses bisnis
+3. Menggunakan aplikasi pendukung rekayasa proses bisnis
+4. Mengidentifikasi permasalahan
+5. Melakukan pemetaan proses As-Is
+6. Melakukan analisis proses As-Is
+7. Menyusun rekayasa proses To-Be
+8. Menyusun perencanaan implementasi
+9. Menyusun perencanaan monitoring dan evaluasi
+10. Menyusun laporan rancangan rekayasa proses bisnis
+
+Output akhir: Dokumen Laporan Rancangan Rekayasa Proses Bisnis untuk perbaikan kinerja pada unit/satuan kerja peserta.
+
+---
+
+BERAPA DURASI PELATIHAN BUSINESS PROCESS ENGINEER?
+Pelatihan berlangsung selama 60 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam tiga metode:
+1. Daring / Full Online: Diawali pembelajaran asynchronous mandiri melalui LMS Kementerian Komdigi, dilanjutkan sesi synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Luring / Full Offline: Pembelajaran klasikal tatap muka dengan Pengajar di lokasi-lokasi yang telah ditentukan. Peserta dapat mengakses LMS untuk modul dan materi pendukung.
+3. Hybrid (Online dan Offline): Kombinasi kelas online synchronous dan offline synchronous di waktu dan lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN BUSINESS PROCESS ENGINEER?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN pada Instansi Pemerintah Pusat dan Daerah, serta TNI dan Polri.
+2. Usia: Maksimal 53 tahun saat mendaftar.
+3. Pendidikan: Minimal D3 dari semua jurusan.
+4. Pengalaman kerja: Diutamakan minimal 6 bulan di bidang/jabatan saat ini.
+5. Kemampuan dasar yang mendukung:
+   a. Pemahaman mengenai proses bisnis pada unit/satuan kerjanya
+   b. Kemampuan analisis yang baik
+   c. Kemampuan mengoperasikan aplikasi perkantoran
+6. Administrasi: Memperoleh Surat Tugas dari pimpinan atau pejabat yang berwenang.
+7. Sanggup menyediakan perangkat pelatihan sesuai persyaratan.
+
+---
+
+APA YANG PERLU DIPERSIAPKAN SEBELUM PELATIHAN?
+1. Memiliki isu atau masalah terkait proses bisnis / pelayanan di satuan/unit kerjanya yang akan menjadi bahan/contoh kasus individual untuk menyusun rekayasa proses bisnis.
+2. Memiliki laptop/komputer dengan spesifikasi minimal:
+   - Operating System: Microsoft Windows, Linux, atau MacOS
+   - RAM minimal 4 GB (8 GB direkomendasikan)
+   - Terinstall aplikasi Visual Paradigm
+   - Koneksi internet yang stabil
+   - Terinstall web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, dll.)
+   - Terinstall aplikasi video conference (Zoom Meeting) – untuk pola Daring dan Hybrid
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk online / hadir di kelas untuk offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 11 mata pelatihan:
+
+1. Orientasi & Building Learning Commitment / BLC (2 JP)
+   Materi:
+   - Orientasi Program BPE
+
+2. Arah Kebijakan SPBE (2 JP)
+   Materi:
+   - Arah Kebijakan SPBE
+
+3. Pengantar Rekayasa Proses Bisnis (2 JP)
+   Materi:
+   - Peran dan tanggung jawab BP Engineer; Peran BPE
+   - Government Process Reengineering (GPR): Arah GPR dalam Tata Kelola Pemerintahan Digital, Keterkaitan antar domain dalam Kerangka Arsitektur SPBE, Contoh Penerapan Arsitektur Proses Bisnis
+   - Tahapan GPR: Tahapan GPR, Kualitas Pelayanan Publik
+   - Pengenalan BPMN: Definisi BPMN, Notasi
+   - Laporan Rekayasa Proses Bisnis
+
+4. Aplikasi Pendukung Rekayasa Proses Bisnis (5 JP)
+   Materi:
+   - Menggunakan aplikasi Visual Paradigm: Pengertian, Jenis Modelling Tools, Instalasi Visual Paradigm, Penggunaan Visual Paradigm
+
+5. Identifikasi Masalah (7 JP)
+   Materi:
+   - Identifikasi dan Pernyataan Masalah: Definisi, Metode Identifikasi, Langkah-langkah Identifikasi masalah, Komponen pernyataan masalah
+   - Kebutuhan dan Persyaratan Pengguna: Stakeholder needs, Stakeholder requirements
+   - Pernyataan Visi GPR: Komponen Pernyataan Visi, Mendefinisikan Tujuan
+
+6. Pemetaan Proses As-Is (8 JP)
+   Materi:
+   - Pemetaan Proses Bisnis As-Is: Definisi, Latar Belakang, Tujuan, Penggambaran, Acuan Pemetaan
+   - Contoh Pemetaan: Contoh Pemetaan Tingkat K/L, Contoh Pemetaan Tingkat Pemda
+
+7. Analisis Proses As-Is (10 JP)
+   Materi:
+   - Analisis Proses As-Is: Pengantar, Analisis Proses Bisnis
+   - Metode Analisis As-Is: Analisis Sebab-Akibat, Fishbone Diagram, Proses As-Is, Fishbone hasil analisis, Klasifikasi nilai tambah, Indikator masalah, Value Added Ratio (VAR), Analisis Kompleksitas Proses
+   - Animasi Proses Bisnis: Pengantar
+   - Simulasi Proses Bisnis: Pengantar, Tahapan
+
+8. Rekayasa Proses To-Be (10 JP)
+   Materi:
+   - Rekayasa Proses To-Be: Tahapan Rekayasa Proses To-Be
+   - Pengembangan Alternatif dan Evaluasi Solusi: Berpikir Divergen, Benchmarking, Brainstorming, Berpikir Konvergen, Contoh Penerapan Teknik Triase
+   - Metode Rekayasa Proses: Rancang Ulang Proses, Pengerjaan Ulang Proses, Pengurangan atau Penghilangan, Alih Daya, Mengganti Proses/Otomatisasi
+
+9. Implementasi (2 JP)
+   Materi:
+   - Perencanaan Implementasi: Mengimplementasikan Rekayasa Proses Bisnis, Hubungan Formulasi dengan Implementasi, 10 Masalah Implementasi Strategi Perubahan
+   - The BPM Implementation Framework: Stakeholder, Goal/Objective, Leadership Values, Current Policy, Struktur Organisasi, Kesiapan SDM, Alokasi Sumber Daya, Manajemen Risiko, Contoh rencana implementasi
+
+10. Monitoring dan Evaluasi (2 JP)
+    Materi:
+    - Prinsip Monitoring dan Evaluasi
+    - Model Monitoring dan Evaluasi
+    - Metode Pengumpulan Data dan Instrumen Monev
+
+11. Penyusunan Laporan Rancangan Rekayasa Proses Bisnis (5 JP)
+    Materi:
+    - Penyusunan Laporan Rancangan Rekayasa Proses Bisnis
+
+Exam:
+    - Pre-Test dan Post-Test
+    - Presentasi Tugas Akhir Pelatihan (jika ada, disesuaikan) (5 JP)
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Belajar mandiri (Asynchronous) melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE DARING (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:30 : Pembukaan (Penyelenggara)
+- 08:45–10:15 : Orientasi & BLC (2 JP) – Synchronous, Pengajar (Gabungan/mainroom)
+- 10:15–10:30 : Break
+- Mandiri     : Ceramah Arah Kebijakan SPBE – Synchronous (2 JP)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (2 JP) + Pre-Test
+
+Hari 2:
+- 08:00–08:45 : Pengantar Rekayasa Proses Bisnis (1 JP) – Synchronous, Pengajar (breakout room)
+- 08:45–09:00 : Break
+- 09:00–10:30 : Aplikasi Pendukung Rekayasa Proses Bisnis (2 JP) – Synchronous, Pengajar (breakout room)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (3 JP)
+
+Hari 3:
+- 08:00–10:15 : Identifikasi Masalah (3 JP) – Synchronous, Pengajar (breakout room)
+- 10:15–10:30 : Break
+- 10:30–12:00 : Identifikasi Masalah lanjutan (2 JP) – Synchronous, Pengajar (breakout room)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (3 JP)
+
+Hari 4:
+- 08:00–10:15 : Pemetaan Proses (3 JP) – Synchronous, Pengajar (breakout room)
+- 10:15–10:30 : Break
+- 10:30–12:00 : Pemetaan Proses lanjutan (2 JP) – Synchronous, Pengajar (breakout room)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (1 JP)
+
+Hari 5:
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (6 JP)
+
+Hari 6:
+- 08:00–10:15 : Analisis Proses (3 JP) – Synchronous, Pengajar (breakout room)
+- 10:15–10:30 : Break
+- 10:30–12:00 : Analisis Proses lanjutan (2 JP) – Synchronous, Pengajar (breakout room)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (2 JP)
+
+Hari 7:
+- 08:00–10:15 : Rekayasa Proses (3 JP) – Synchronous, Pengajar (breakout room)
+- 10:15–10:30 : Break
+- 10:30–12:00 : Rekayasa Proses lanjutan (2 JP) – Synchronous, Pengajar (breakout room)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (2 JP)
+
+Hari 8:
+- 08:00–08:45 : Implementasi (1 JP) – Synchronous, Pengajar (breakout room)
+- 08:45–09:30 : Monitoring & Evaluasi (1 JP) – Synchronous, Pengajar (breakout room)
+- 09:30–09:45 : Break
+- 09:45–11:15 : Penyusunan Laporan Rancangan Rekayasa Proses Bisnis (2 JP) – Synchronous (Gabungan/mainroom)
+- Mandiri     : Pengayaan materi/tugas – Asynchronous (2 JP)
+
+Hari 9:
+- 08:00–10:15 : Penyusunan Laporan Rancangan Rekayasa Proses Bisnis (3 JP) – Synchronous, Pengajar (breakout room per tema)
+- Mandiri     : Post-Test
+
+Hari 10:
+- 08:00–11:00 : Presentasi Laporan Rancangan Rekayasa Proses Bisnis (4 JP) – Synchronous (Gabungan/mainroom)
+- 11:00–13:30 : Ishoma
+- 13:30–14:15 : Presentasi lanjutan (1 JP) – Synchronous (Gabungan/mainroom)
+- 14:30–15:00 : Evaluasi & Penutupan (Penyelenggara)
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE LURING (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:30 : Pembukaan
+- 08:45–09:30 : Orientasi & BLC (1 JP) – Tatap Muka, Pengajar
+- 09:30–11:00 : Pengantar Rekayasa Proses Bisnis (2 JP) – Tatap Muka, Pengajar
+- 11:00–11:15 : Break
+- 11:15–12:00 : Aplikasi Pendukung Rekayasa Proses Bisnis (1 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Aplikasi Pendukung Rekayasa Proses Bisnis lanjutan (1 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pre-Test + Pengayaan Materi/Tugas (6 JP)
+
+Hari 2:
+- 08:00–10:15 : Identifikasi Masalah (3 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Identifikasi Masalah lanjutan (2 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Pemetaan Proses As-Is (3 JP) – Tatap Muka, Pengajar
+- 15:15–15:30 : Break
+- 15:30–17:00 : Pemetaan Proses As-Is lanjutan (2 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pengayaan Materi/Tugas (5 JP)
+
+Hari 3:
+- 08:00–10:15 : Analisis Proses As-Is (3 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Analisis Proses As-Is lanjutan (2 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Rekayasa Proses To-Be (3 JP) – Tatap Muka, Pengajar
+- 15:15–15:30 : Break
+- 15:30–17:00 : Rekayasa Proses To-Be lanjutan (2 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pengayaan Materi/Tugas (10 JP)
+
+Hari 4:
+- 08:00–08:45 : Implementasi (1 JP) – Tatap Muka, Pengajar
+- 08:45–09:30 : Monitoring & Evaluasi (1 JP) – Tatap Muka, Pengajar
+- 09:30–09:45 : Break
+- 09:45–12:00 : Penyusunan Laporan Rancangan Rekayasa Proses Bisnis (3 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Penyusunan Laporan lanjutan (2 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pengayaan Materi/Tugas (2 JP) + Post-Test
+
+Hari 5:
+- 08:00–10:15 : Presentasi Laporan Rancangan Rekayasa Proses Bisnis (3 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Presentasi lanjutan (2 JP) – Tatap Muka, Pengajar
+- 12:00        : Penutupan
+
+---
+
+BAGAIMANA JADWAL PELATIHAN HYBRID (ONLINE DAN OFFLINE, HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:30 : Pembukaan
+- 08:45–09:30 : Orientasi & BLC (1 JP) – Tatap Muka, Pengajar
+- 09:30–10:15 : Pengantar Rekayasa Proses Bisnis (1 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Aplikasi Pendukung Rekayasa Proses Bisnis (2 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Aplikasi Pendukung Rekayasa Proses Bisnis lanjutan (1 JP) – Tatap Muka, Pengajar
+- 13:45–15:15 : Identifikasi Masalah (2 JP) – Tatap Muka, Pengajar
+- Mandiri     : Ceramah Arah Kebijakan SPBE – Synchronous (2 JP) + Pre-Test + Pengayaan Materi/Tugas (4 JP)
+
+Hari 2:
+- 08:00–10:15 : Identifikasi Masalah lanjutan (3 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Pemetaan Proses As-Is (2 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Pemetaan Proses As-Is lanjutan (3 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pengayaan Materi/Tugas (5 JP)
+
+Hari 3:
+- 08:00–10:15 : Analisis Proses As-Is (3 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Analisis Proses As-Is lanjutan (2 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Rekayasa Proses To-Be (3 JP) – Tatap Muka, Pengajar
+- 15:15–15:30 : Break
+- 15:30–17:00 : Rekayasa Proses To-Be lanjutan (2 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pengayaan Materi/Tugas (10 JP)
+
+Hari 4:
+- 08:00–08:45 : Implementasi (1 JP) – Tatap Muka, Pengajar
+- 08:45–09:30 : Monitoring & Evaluasi (1 JP) – Tatap Muka, Pengajar
+- 09:30–09:45 : Break
+- 09:45–12:00 : Penyusunan Laporan Rancangan Rekayasa Proses Bisnis (3 JP) – Tatap Muka, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Penyusunan Laporan lanjutan (2 JP) – Tatap Muka, Pengajar
+- Mandiri     : Pengayaan Materi/Tugas (2 JP) + Post-Test
+
+Hari 5:
+- 08:00–10:15 : Presentasi Laporan Rancangan Rekayasa Proses Bisnis (3 JP) – Tatap Muka, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Presentasi lanjutan (2 JP) – Tatap Muka, Pengajar
+- 12:00        : Penutupan
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Business Process Engineer (BPE)
+Peran yang bertanggung jawab menganalisis, merancang, dan memperbaiki proses bisnis organisasi dengan tujuan meningkatkan efisiensi dan efektivitas.
+
+Business Process Reengineering (BPR)
+Pendekatan manajemen bisnis yang berfokus pada analisis mendalam dan perancangan ulang proses bisnis secara fundamental untuk mencapai peningkatan kinerja yang signifikan.
+
+Government Process Reengineering (GPR)
+Penerapan konsep BPR dalam konteks pemerintahan untuk meningkatkan kualitas pelayanan publik dan tata kelola pemerintahan.
+
+BPMN (Business Process Model and Notation)
+Standar notasi untuk pemodelan proses bisnis yang menggunakan simbol-simbol grafis untuk merepresentasikan alur kerja.
+
+Visual Paradigm
+Aplikasi pemodelan proses bisnis yang digunakan dalam pelatihan ini untuk menggambarkan dan menganalisis proses bisnis.
+
+Proses As-Is
+Kondisi proses bisnis yang berjalan saat ini (kondisi eksisting) sebelum dilakukan rekayasa ulang.
+
+Proses To-Be
+Kondisi proses bisnis yang diharapkan setelah dilakukan rekayasa ulang dan perbaikan.
+
+Fishbone Diagram (Diagram Ishikawa)
+Alat analisis yang digunakan untuk mengidentifikasi penyebab-penyebab dari suatu masalah dalam proses bisnis.
+
+Value Added Ratio (VAR)
+Rasio yang mengukur perbandingan antara aktivitas yang memberikan nilai tambah (value-added) dengan total aktivitas dalam suatu proses bisnis.
+
+Stakeholder Requirements
+Kebutuhan dan persyaratan dari para pemangku kepentingan yang harus dipenuhi oleh proses bisnis yang dirancang.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Business_Process_Engineer
+========================================

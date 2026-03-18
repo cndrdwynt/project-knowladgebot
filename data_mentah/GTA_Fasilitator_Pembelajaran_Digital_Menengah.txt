@@ -1,0 +1,268 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: FASILITATOR PEMBELAJARAN DIGITAL MENENGAH (FPDM)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : - (tidak ada mitra eksternal)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL MENENGAH?
+Pelatihan Fasilitator Pembelajaran Digital Menengah (FPDM) memberikan kompetensi kepada peserta untuk memanfaatkan perkembangan teknologi khususnya yang berbasis AI dalam menjalankan tugasnya sebagai tenaga pendidik/fasilitator. Pelatihan ini merupakan tingkat lanjutan dari Fasilitator Pembelajaran Digital (FPD), dengan fokus pada pemanfaatan teknologi AI terkini.
+
+---
+
+APA TUJUAN PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL MENENGAH?
+1. Menggunakan aplikasi Chat Bot untuk kepentingan pendidikan.
+2. Membuat presentasi dengan menggunakan aplikasi berbasis AI.
+3. Menggunakan aplikasi form online serta menambahkan dan menggunakan aplikasi tambahan.
+4. Membuat website sederhana untuk keperluan dokumentasi dan/atau branding, analisis usulan proyek dengan penuh pertimbangan.
+
+---
+
+BERAPA DURASI PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL MENENGAH?
+Pelatihan berlangsung selama 30 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam tiga metode (dapat disesuaikan):
+1. Full Online: Diawali pembelajaran asynchronous mandiri (self-paced learning) melalui LMS Kementerian Komdigi, dilanjutkan sesi synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline: Pembelajaran dilakukan secara offline synchronous bersama Pengajar di kelas pelatihan di lokasi terpilih.
+3. Self-Paced Learning: Bisa disesuaikan dengan kebutuhan penyelenggara.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL MENENGAH?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Pendidikan: Minimal D3.
+3. Terbiasa menggunakan aplikasi berbasis web dan Google Drive.
+4. Dapat mengoperasikan aplikasi office tingkat dasar.
+5. Status Pekerjaan:
+   a. ASN IPPD (Instansi Pemerintah Pengguna Diploma) dibuktikan dengan Surat Tugas / Surat Izin Atasan / Surat Keterangan bekerja.
+   b. Diutamakan dari tenaga kependidikan / fasilitator.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki:
+1. Laptop/komputer dengan spesifikasi minimal:
+   - Operating System: Microsoft Windows, Linux, atau MacOS.
+   - RAM minimal 2 GB (4 GB direkomendasikan).
+2. Aplikasi meeting online (Zoom).
+3. Koneksi internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk online / hadir di kelas untuk offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 4 mata pelatihan:
+
+1. Aplikasi Chat Bot untuk Pendidikan (6 JP)
+   Materi:
+   - Identifikasi fitur-fitur aplikasi Chat Bot:
+     * ChatGPT
+     * Gemini
+     * Poe
+   - Penggunaan Aplikasi Chat Bot:
+     * ChatGPT
+     * Gemini
+     * Poe
+
+2. Aplikasi Pembuatan Presentasi Berbasis AI (5 JP)
+   Materi:
+   - Identifikasi fitur-fitur aplikasi pembuatan presentasi berbasis AI:
+     * Canva
+     * Gamma
+   - Penggunaan aplikasi pembuatan presentasi berbasis AI:
+     * Canva
+     * Gamma
+
+3. Aplikasi Form Online (11 JP)
+   Materi:
+   - Identifikasi fitur-fitur aplikasi form online:
+     * Google Form
+   - Penggunaan aplikasi form online:
+     * Google Form
+   - Pemodifikasian aplikasi tambahan pada aplikasi form online:
+     * Form Builder
+     * FormLimiter
+     * Form Notification
+     * Timer For Google Form
+     * QR Code Generator
+     * AutoProctor
+     * Autocrat
+   - Penggunaan aplikasi tambahan pada aplikasi form online:
+     * Form Builder
+     * FormLimiter
+     * Form Notification
+     * Timer For Google Form
+     * QR Code Generator
+     * AutoProctor
+     * Autocrat
+
+4. Aplikasi Pembuatan Website (8 JP)
+   Materi:
+   - Identifikasi fitur-fitur aplikasi pembuatan website:
+     * Canva
+     * Google Site
+     * Microsite
+   - Penggunaan aplikasi pembuatan website:
+     * Canva
+     * Google Site
+     * Microsite
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Belajar mandiri (Asynchronous)
+2. Tatap Muka / Live Session (Synchronous) – ceramah
+3. Tanya jawab
+4. Diskusi
+5. Curah Pendapat (Brainstorming)
+6. Praktik
+7. Penugasan
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (3 HARI)?
+
+Sebelum Hari 1: Pre-Test (Microskill)
+
+Hari 1:
+- 08:00–12:30 : Aplikasi Chat Bot untuk Pendidikan – Tatap Muka Klasikal (6 JP)
+- 13:30–17:15 : Aplikasi Pembuatan Presentasi Berbasis AI – Tatap Muka Klasikal (5 JP)
+
+Hari 2:
+- 08:00–17:00 : Aplikasi Form Online – Tatap Muka Klasikal (11 JP)
+
+Hari 3:
+- 08:00–11:45 : Aplikasi Pembuatan Website – Tatap Muka Klasikal (5 JP)
+- 13:00–15:15 : Aplikasi Pembuatan Website – Tatap Muka Klasikal (3 JP)
+
+Setelah Hari 3: Post-Test
+
+TOTAL JP: 30 JP
+Catatan: Sesuaikan jadwal dengan alokasi waktu coffee break dan ISHOMA.
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (3 HARI)?
+
+Sebelum Hari 1: Pre-Test (Microskill)
+
+Hari 1:
+- 08:30–10:45 : Aplikasi Chat Bot untuk Pendidikan – Synchronous (3 JP)
+- 10:45–12:15 : Aplikasi Pembuatan Presentasi Berbasis AI – Synchronous (2 JP)
+- Mandiri     : Aplikasi Chat Bot untuk Pendidikan – Asynchronous (3 JP)
+- Mandiri     : Aplikasi Pembuatan Presentasi Berbasis AI – Asynchronous (3 JP)
+
+Hari 2:
+- 08:00–11:45 : Aplikasi Form Online – Synchronous (5 JP)
+- Mandiri     : Aplikasi Form Online – Asynchronous (6 JP)
+
+Hari 3:
+- 08:00–11:00 : Aplikasi Pembuatan Website – Synchronous (4 JP)
+- Mandiri     : Aplikasi Pembuatan Website – Asynchronous (4 JP)
+
+Setelah Hari 3: Post-Test
+
+TOTAL JP: 30 JP
+Catatan: Sesuaikan jadwal dengan alokasi waktu coffee break dan ISHOMA.
+
+---
+
+APA PERBEDAAN FPDM DENGAN FPD (FASILITATOR PEMBELAJARAN DIGITAL)?
+1. Tingkat: FPDM adalah tingkat menengah/lanjutan dari FPD.
+2. Fokus: FPD berfokus pada aplikasi pengelolaan kelas, presentasi interaktif, dan asesmen. FPDM berfokus pada pemanfaatan teknologi AI (ChatBot, AI presentation, form online lanjutan, website).
+3. Durasi: FPD = 36 JP (4 hari), FPDM = 30 JP (3 hari).
+4. Prasyarat: FPDM mensyaratkan peserta sudah terbiasa menggunakan aplikasi berbasis web dan Google Drive.
+5. Teknologi: FPDM mencakup ChatGPT, Gemini, Canva AI, Gamma, Google Site, dan berbagai add-on Google Form.
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Chat Bot (AI)
+Program berbasis kecerdasan buatan yang dapat berinteraksi dengan pengguna melalui percakapan teks atau suara. Contoh: ChatGPT (OpenAI), Gemini (Google), Poe (Quora).
+
+ChatGPT
+Model bahasa besar (Large Language Model) berbasis AI yang dikembangkan oleh OpenAI, digunakan untuk berbagai keperluan termasuk pendidikan.
+
+Gemini
+Model AI generatif dari Google yang dapat digunakan untuk berbagai tugas termasuk pembuatan konten dan asistensi pembelajaran.
+
+Poe
+Platform chatbot berbasis AI dari Quora yang mengintegrasikan berbagai model AI dalam satu antarmuka.
+
+Canva
+Platform desain grafis berbasis web yang kini dilengkapi fitur AI untuk membuat presentasi, gambar, dan website.
+
+Gamma
+Aplikasi berbasis AI untuk membuat presentasi otomatis dari prompt teks.
+
+Google Form
+Aplikasi formulir online dari Google yang dapat diintegrasikan dengan berbagai add-on untuk keperluan pembelajaran dan asesmen.
+
+AutoProctor
+Add-on Google Form yang berfungsi sebagai pengawas ujian online otomatis.
+
+Autocrat
+Add-on Google Form untuk mengotomatisasi pembuatan dokumen dari respons formulir.
+
+FormLimiter
+Add-on Google Form untuk membatasi jumlah respons atau waktu pengumpulan formulir.
+
+Google Site
+Platform pembuatan website sederhana dari Google, cocok untuk dokumentasi dan portofolio pembelajaran.
+
+Microsite
+Website kecil dengan konten yang terfokus, biasanya digunakan untuk kampanye, portofolio, atau landing page.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Fasilitator_Pembelajaran_Digital_Menengah
+========================================

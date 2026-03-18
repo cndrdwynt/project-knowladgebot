@@ -1,0 +1,334 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: PENANGANAN INSIDEN KEAMANAN SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Badan Siber dan Sandi Negara (BSSN) dan UPT
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2024
+
+---
+
+APA ITU PELATIHAN PENANGANAN INSIDEN KEAMANAN SPBE?
+Pelatihan Penanganan Insiden Keamanan SPBE adalah program pelatihan yang dirancang untuk memberikan keterampilan yang diperlukan dalam mengelola dan merespons insiden keamanan siber yang mungkin terjadi pada Sistem Pemerintahan Berbasis Elektronik (SPBE). Pelatihan ini bertujuan untuk membekali peserta dengan keterampilan praktis untuk menghadapi insiden keamanan siber dengan efektif.
+
+Output yang dihasilkan peserta mencakup:
+- Menjelaskan konsep dasar dan fase-fase dalam proses penanganan insiden siber.
+- Menjelaskan proses pengklasifikasian insiden keamanan siber.
+- Menjelaskan konsep dasar manajemen krisis dan pelaporan insiden keamanan siber.
+- Melakukan praktik persiapan penanganan insiden keamanan siber.
+- Melakukan praktik analisis dan deteksi insiden keamanan siber eksploitasi web server.
+- Melakukan praktik containment, eradication, dan recovery dalam proses insiden keamanan siber eksploitasi web server.
+- Melakukan praktik aktivitas post incident terhadap insiden keamanan siber.
+
+---
+
+APA TUJUAN PELATIHAN PENANGANAN INSIDEN KEAMANAN SPBE?
+Peserta memiliki kompetensi dalam melakukan penanganan insiden keamanan SPBE, yang diindikasikan dengan kemampuan:
+1. Menjelaskan konsep dasar dan fase-fase dalam proses penanganan insiden siber.
+2. Menjelaskan proses pengklasifikasian insiden keamanan siber.
+3. Menjelaskan konsep dasar manajemen krisis dan pelaporan insiden keamanan siber.
+4. Melakukan praktik persiapan penanganan insiden keamanan siber.
+5. Melakukan praktik analisis dan deteksi insiden keamanan siber eksploitasi web server.
+6. Melakukan praktik containment, eradication, dan recovery dalam proses insiden keamanan siber eksploitasi web server.
+7. Melakukan praktik aktivitas post incident terhadap insiden keamanan siber.
+
+---
+
+BERAPA DURASI PELATIHAN PENANGANAN INSIDEN KEAMANAN SPBE?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Peserta mengikuti aktivitas pembelajaran bersama Pengajar melalui live sessions menggunakan aplikasi video conference. Selain itu, peserta mempelajari materi secara mandiri (Self-paced Learning) dan mengerjakan pre-test, post-test serta penugasan melalui LMS Kementerian Komdigi.
+2. Full Offline (Luring): Pembelajaran dilakukan secara klasikal melalui pertemuan tatap muka langsung dengan Pengajar pada lokasi pelaksanaan yang telah ditentukan. Bahan pembelajaran, soal pre-test, post-test, dan penugasan dapat diakses melalui LMS Kementerian Komdigi.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN PENANGANAN INSIDEN KEAMANAN SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal S1.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Diutamakan pegawai yang melaksanakan tugas di bidang pengelolaan Sistem Informasi / Teknologi Informasi / Keamanan Informasi di instansi yang memiliki latar belakang pendidikan SI/TI/Keamanan Informasi, dan/atau Jabatan Fungsional rumpun kekomputeran.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. RAM sebesar 8 GB atau lebih.
+2. Web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, atau sejenisnya.
+3. Terinstall virtualisasi Ubuntu Server 22.04 LTS (dapat menggunakan VMware atau VirtualBox).
+4. Terinstall virtualisasi Kali Linux.
+5. Memiliki konektivitas internet yang stabil.
+
+CATATAN: Persyaratan RAM pelatihan ini (8 GB) lebih tinggi dari pelatihan GTA lainnya karena memerlukan instalasi dua sistem operasi virtual (Ubuntu Server dan Kali Linux).
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti pembelajaran yang terdiri dari 8 muatan utama pelatihan (hadir live session untuk full online / hadir di kelas untuk full offline).
+2. Menyelesaikan Pre-test dan Post-test.
+3. Menyelesaikan seluruh tugas.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Maret – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 9 mata pelatihan dengan total 40 JP:
+
+1. BLC – Building Learning Commitment (1 JP)
+   Materi:
+   - Orientasi program dan komitmen belajar
+
+2. Pengenalan Penanganan Insiden Keamanan (3 JP)
+   Materi:
+   - Konsep dasar kejadian dan insiden keamanan siber
+   - Model Tim Respon Insiden Siber
+   - Fase-fase dalam proses penanganan insiden siber
+
+3. Klasifikasi dan Identifikasi Insiden (3 JP)
+   Materi:
+   - Pengklasifikasian insiden keamanan siber
+   - Indicator of Compromises (IoC)
+   - Standar operasional dan prosedur penanganan insiden keamanan siber
+
+4. Manajemen Krisis dan Pelaporan (3 JP)
+   Materi:
+   - Konsep dasar manajemen krisis
+   - Fase-fase dalam manajemen krisis
+
+5. Persiapan Penanganan Insiden Keamanan Siber (4 JP)
+   Materi:
+   - Perangkat dalam penanganan insiden keamanan siber
+
+6. Analisis dan Deteksi Insiden Keamanan Siber (8 JP)
+   Materi:
+   - Analisis dan deteksi terhadap insiden keamanan siber eksploitasi web server
+
+7. Penanganan Insiden Keamanan Siber – Containment, Eradication, dan Recovery (8 JP)
+   Materi:
+   - Containment terhadap aset yang menjadi sasaran insiden keamanan siber
+   - Eradikasi terhadap aset yang menjadi sasaran insiden keamanan siber
+   - Pemulihan aset yang menjadi sasaran insiden keamanan siber
+
+8. Penanganan Insiden Keamanan Siber – Post Incident (5 JP)
+   Materi:
+   - Audit pasca penanganan insiden keamanan siber
+   - Tindak lanjut hasil audit pasca penanganan insiden keamanan siber
+
+9. Penanganan Insiden Keamanan Siber – Pengelolaan (5 JP)
+   Materi:
+   - Melakukan penanganan insiden keamanan siber
+
+Exam:
+   - Pre-test, Post-test, dan Penugasan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Live sessions atau klasikal tatap muka
+2. Diskusi
+3. Curah Pendapat (Brainstorming)
+4. Praktik
+5. Latihan
+6. Penugasan
+7. Mempelajari bahan tayang dan bahan pelatihan lainnya secara mandiri
+8. Mengerjakan Pre-test, Post-test, dan Penugasan pada LMS
+
+---
+
+BAGAIMANA JADWAL PELATIHAN LURING / OFFLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan dan Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Orientasi & Building Learning Commitment (1 JP) – Pengajar
+- 09.30 – 10.15 : Pengenalan Penanganan Insiden Keamanan (1 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Pengenalan Penanganan Insiden Keamanan (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Klasifikasi dan Identifikasi Insiden (3 JP) – Pengajar
+
+Hari Kedua:
+- 08.00 – 10.15 : Manajemen Krisis dan Pelaporan (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Persiapan Penanganan Insiden Keamanan Siber (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Persiapan Penanganan Insiden Keamanan Siber (2 JP) – Pengajar
+- 14.30 – 15.15 : Analisis dan Deteksi Insiden Keamanan Siber (1 JP) – Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 16.15 : Analisis dan Deteksi Insiden Keamanan Siber (1 JP) – Pengajar
+
+Hari Ketiga:
+- 08.00 – 10.15 : Analisis dan Deteksi Insiden Keamanan Siber (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Analisis dan Deteksi Insiden Keamanan Siber (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Analisis dan Deteksi Insiden Keamanan Siber (1 JP) – Pengajar
+- 13.45 – 15.15 : Penanganan Insiden – Containment, Eradication, Recovery (2 JP) – Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 16.15 : Penanganan Insiden – Containment, Eradication, Recovery (1 JP) – Pengajar
+
+Hari Keempat:
+- 08.00 – 09.30 : Penanganan Insiden – Containment, Eradication, Recovery (2 JP) – Pengajar
+- 09.30 – 10.15 : Penanganan Insiden – Containment, Eradication, Recovery (1 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Penanganan Insiden – Containment, Eradication, Recovery (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Penanganan Insiden Keamanan Siber – Post Incident (3 JP) – Pengajar
+
+Hari Kelima:
+- 08.00 – 10.15 : Penanganan Insiden Keamanan Siber – Post Incident (2 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Penanganan Insiden Keamanan Siber – Pengelolaan (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Penanganan Insiden Keamanan Siber – Pengelolaan (3 JP) – Pengajar
+- 15.15 – 16.00 : Post-Test dan Penutupan (Penyelenggara)
+
+TOTAL JP: 40 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN DARING / ONLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan dan Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Orientasi & Building Learning Commitment (1 JP) – Pengajar
+- 09.30 – 09.45 : Istirahat
+- 09.45 – 11.15 : Pengenalan Penanganan Insiden Keamanan (2 JP) – Pengajar
+- 11.15 – 12.45 : Klasifikasi dan Identifikasi Insiden (2 JP) – Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 14.30 : Penanganan Insiden Keamanan (1 JP) – Belajar Mandiri
+- 14.30 – 15.15 : Klasifikasi dan Identifikasi Insiden (1 JP) – Belajar Mandiri
+
+Hari Kedua:
+- 08.00 – 09.30 : Manajemen Krisis dan Pelaporan (2 JP) – Pengajar
+- 09.30 – 10.15 : Persiapan Penanganan Insiden Keamanan Siber (1 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Persiapan Penanganan Insiden Keamanan Siber (2 JP) – Pengajar
+- 12.00 – 12.45 : Analisis dan Deteksi Insiden Keamanan Siber (1 JP) – Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.00 – 13.45 : Manajemen Krisis dan Pelaporan (1 JP) – Belajar Mandiri
+- 13.45 – 14.30 : Persiapan Penanganan Insiden Keamanan Siber (1 JP) – Belajar Mandiri
+- 14.30 – 15.15 : Analisis dan Deteksi Insiden Keamanan Siber (1 JP) – Belajar Mandiri
+
+Hari Ketiga:
+- 08.00 – 10.15 : Analisis dan Deteksi Insiden Keamanan Siber (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Analisis dan Deteksi Insiden Keamanan Siber (1 JP) – Pengajar
+- 11.15 – 12.45 : Penanganan Insiden – Containment, Eradication, Recovery (2 JP) – Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Analisis dan Deteksi Insiden Keamanan Siber (2 JP) – Belajar Mandiri
+- 15.15 – 16.00 : Penanganan Insiden – Containment, Eradication, Recovery (1 JP) – Belajar Mandiri
+
+Hari Keempat:
+- 08.00 – 10.15 : Penanganan Insiden – Containment, Eradication, Recovery (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Penanganan Insiden Keamanan Siber – Post Incident (2 JP) – Pengajar
+- 12.00 – 12.45 : Penanganan Insiden Keamanan Siber – Post Incident (1 JP) – Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Penanganan Insiden – Containment, Eradication, Recovery (2 JP) – Belajar Mandiri
+- 15.15 – 16.00 : Penanganan Insiden Keamanan Siber – Post Incident (1 JP) – Belajar Mandiri
+
+Hari Kelima:
+- 08.00 – 08.45 : Penanganan Insiden Keamanan Siber – Post Incident (1 JP) – Pengajar
+- 08.45 – 10.15 : Penanganan Insiden Keamanan Siber – Pengelolaan (2 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Penanganan Insiden Keamanan Siber – Pengelolaan (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Penanganan Insiden Keamanan Siber – Pengelolaan (1 JP) – Pengajar
+- 13.45 – 14.30 : Post-Test dan Penutupan (Penyelenggara)
+
+TOTAL JP SYNCHRONOUS  : 29 JP
+TOTAL JP ASYNCHRONOUS : 11 JP
+TOTAL JP              : 40 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+Insiden Keamanan Siber
+Kejadian yang mengancam atau melanggar keamanan sistem informasi, jaringan, atau data, termasuk serangan siber, kebocoran data, dan eksploitasi kerentanan.
+
+Tim Respon Insiden Siber (CSIRT)
+Tim yang bertanggung jawab untuk menerima, meninjau, dan merespons laporan insiden keamanan siber serta mengkoordinasikan upaya penanggulangan.
+
+Indicator of Compromises (IoC)
+Bukti atau artefak digital yang menunjukkan bahwa sistem telah dikompromikan atau diserang, seperti alamat IP mencurigakan, hash file malware, atau pola lalu lintas abnormal.
+
+Manajemen Krisis
+Proses terstruktur untuk menangani situasi darurat atau krisis yang dapat mengancam organisasi, mencakup perencanaan, respons, dan pemulihan.
+
+Containment
+Fase penanganan insiden yang bertujuan membatasi penyebaran dampak insiden keamanan siber agar tidak meluas ke aset atau sistem lain.
+
+Eradication (Eradikasi)
+Fase penanganan insiden yang bertujuan menghilangkan penyebab insiden dari sistem, seperti menghapus malware atau menutup celah keamanan yang dieksploitasi.
+
+Recovery (Pemulihan)
+Fase penanganan insiden yang bertujuan memulihkan sistem dan layanan ke kondisi normal setelah insiden berhasil ditangani.
+
+Post Incident
+Aktivitas pasca penanganan insiden yang mencakup audit, evaluasi, dan tindak lanjut untuk mencegah insiden serupa di masa mendatang.
+
+Web Server Exploitation
+Serangan siber yang memanfaatkan kerentanan pada server web untuk mendapatkan akses tidak sah, mengubah konten, atau mencuri data.
+
+Ubuntu Server
+Sistem operasi server berbasis Linux yang banyak digunakan untuk layanan web dan aplikasi, digunakan sebagai lingkungan latihan dalam pelatihan ini.
+
+Kali Linux
+Distribusi Linux yang dirancang khusus untuk pengujian keamanan (penetration testing) dan forensik digital, digunakan sebagai tools dalam pelatihan ini.
+
+VMware / VirtualBox
+Perangkat lunak virtualisasi yang memungkinkan menjalankan beberapa sistem operasi secara bersamaan dalam satu perangkat keras.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab di bidang keamanan siber nasional, menjadi mitra pelatihan dalam program ini.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+BLC (Building Learning Commitment)
+Sesi pembuka pelatihan yang bertujuan membangun komitmen dan kesiapan belajar peserta.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Penanganan_Insiden_Keamanan_SPBE
+========================================

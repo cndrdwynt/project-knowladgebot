@@ -1,0 +1,234 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: GENERATIVE AI UNTUK PENINGKATAN KINERJA ASN
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Microsoft
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 24 Maret 2025
+
+---
+
+APA ITU PELATIHAN GENERATIVE AI UNTUK PENINGKATAN KINERJA ASN?
+Pelatihan ini memberikan pemahaman kepada peserta tentang dasar dan cara kerja teknologi kecerdasan buatan (artificial intelligence), serta bagaimana memanfaatkan Copilot (Microsoft) untuk meningkatkan produktivitas ASN dalam pekerjaan sehari-hari.
+
+---
+
+APA TUJUAN PELATIHAN GENERATIVE AI UNTUK PENINGKATAN KINERJA ASN?
+1. Memahami konsep artificial intelligence.
+2. Memahami konsep generative artificial intelligence.
+3. Memahami konsep dan best practice prompt engineering.
+4. Memahami penggunaan AI yang bertanggung jawab.
+5. Memahami cara meningkatkan produktivitas dengan Copilot.
+6. Memahami inklusivitas di Copilot.
+
+---
+
+BERAPA DURASI PELATIHAN GENERATIVE AI UNTUK PENINGKATAN KINERJA ASN?
+Pelatihan berlangsung selama 18 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Metode: Self-Paced Learning (Pembelajaran Mandiri)
+Pada pelaksanaan dengan metode self-paced learning, pembelajaran dilaksanakan secara mandiri dengan mengakses bahan pembelajaran yang ada di LMS.
+
+Catatan: Pelatihan ini dikembangkan bersama Microsoft dan menggunakan platform Microsoft Copilot sebagai alat utama.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN GENERATIVE AI UNTUK PENINGKATAN KINERJA ASN?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Administrasi: Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+3. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+Catatan: Tidak ada persyaratan usia maksimal atau pendidikan minimum yang tercantum dalam silabus ini.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Resolusi layar minimal 1024x768.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Evaluasi dilakukan melalui:
+1. Konten pembelajaran yang tersedia di LMS.
+2. Pre-Test.
+3. Tes Formatif (Kuis Interaktif).
+4. Tugas Praktik Mandiri.
+5. Post-Test.
+
+Nilai minimal kelulusan: 70.
+
+Catatan: Nilai minimal kelulusan pelatihan ini adalah 70, berbeda dari standar umum pelatihan GTA lainnya (65). Tidak ada bobot persentase yang dirinci secara eksplisit per komponen.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode April – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+Catatan: Jadwal mulai April 2025, lebih lambat dari pelatihan GTA lainnya yang umumnya mulai Februari 2025.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 6 mata pelatihan:
+
+1. Konsep Artificial Intelligence (3 JP)
+   Materi:
+   - Sejarah singkat AI
+   - Konsep AI
+   - Pengetahuan vs Kecerdasan
+   - Data
+   - Menganalisa Pola
+   - Machine Learning
+   - Tipe Machine Learning
+   - Deep Learning
+   - Natural Language Processing (NLP)
+   - Algoritma AI
+   - AI in Action
+
+2. Konsep Generative Artificial Intelligence (3 JP)
+   Materi:
+   - AI Generative
+   - Model AI Generatif
+   - Linguistic AI
+   - Visualization with AI from Text to Images
+   - Pendamping AI dalam Membuat Konten
+   - Peluang Baru dengan AI Generatif
+
+3. Konsep dan Best Practice Prompt Engineering (3 JP)
+   Materi:
+   - The Evolution of Search
+   - How Does a Search Engine Work
+   - Reasoning Engines (Mesin Penalaran)
+   - A New Way to Search: Microsoft Copilot
+   - Prompt Engineering
+   - Best Practices in Prompting
+   - Critical Thinking
+
+4. Penggunaan AI yang Bertanggung Jawab (2 JP)
+   Materi:
+   - Using AI Responsibility
+   - Principles of Responsible AI
+   - Deepfakes and Copyright
+   - Human-AI Interaction and Global Implication
+
+5. Meningkatkan Produktivitas dengan Copilot (4 JP)
+   Materi:
+   - What is Microsoft Copilot
+   - Navigating Copilot: Set Up and Account Types
+   - Language Accessibility Support in Copilot
+   - Tips for Engaging Conversations with Copilot
+   - Explore GPT and Plugins in Copilot
+   - Bring your Ideas to Life with Copilot
+   - Time Management Assistance with Copilot
+   - Elevate your job search with Copilot
+   - Skill Development with Copilot
+   - Image analysis dan reporting dengan Copilot
+   - Workplace support with Copilot
+   - Boost your productivity with Copilot in Edge
+
+6. Inklusivitas di Copilot (3 JP)
+   Materi:
+   - Empowering Everyone: AI and Accessibility
+   - Impact of AI in Job Roles
+   - AI as an Ally for Humanitarian Action
+   - Inclusive AI with Copilot
+
+Exam:
+   - Pre-Test: Mengerjakan Pre-Test
+   - Kuis Formatif: Kuis Interaktif
+   - Tugas Praktik Mandiri: Tugas Praktik
+   - Post-Test: Mengerjakan Post-Test
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+Seluruh pembelajaran dilakukan secara Self-paced Learning (mandiri):
+1. Membaca bahan pembelajaran
+2. Kuis/latihan formatif
+3. Praktik mandiri menggunakan Microsoft Copilot
+4. Pre-Test dan Post-Test pada LMS
+
+Tidak ada sesi tatap muka (synchronous) dalam pelatihan ini.
+
+---
+
+APA PERBEDAAN UTAMA PELATIHAN GENERATIVE AI DIBANDING PELATIHAN GTA LAINNYA?
+1. Mitra: Dikembangkan bersama Microsoft (satu-satunya pelatihan GTA yang bermitra dengan perusahaan teknologi global).
+2. Metode: Murni Self-Paced Learning (mandiri), tanpa live session atau tatap muka.
+3. Fokus teknologi: Berfokus pada Microsoft Copilot sebagai alat produktivitas utama.
+4. Nilai kelulusan: Minimal 70 (lebih tinggi dari standar umum GTA = 65, lebih rendah dari EKKSPBE = 80).
+5. Jadwal: Mulai April 2025 (lebih lambat dari pelatihan GTA lainnya yang mulai Februari 2025).
+6. Persyaratan: Tidak ada batas usia atau pendidikan minimum yang tercantum.
+7. Isi: Mencakup etika AI, deepfakes, dan isu copyright yang relevan bagi ASN.
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Artificial Intelligence (AI / Kecerdasan Buatan)
+Cabang ilmu komputer yang bertujuan menciptakan sistem yang dapat melakukan tugas-tugas yang biasanya membutuhkan kecerdasan manusia, seperti pemahaman bahasa, pengenalan gambar, dan pengambilan keputusan.
+
+Generative AI (AI Generatif)
+Jenis AI yang mampu menghasilkan konten baru seperti teks, gambar, audio, dan video berdasarkan pola yang dipelajari dari data pelatihan.
+
+Machine Learning (Pembelajaran Mesin)
+Subset dari AI di mana sistem belajar dan meningkat dari pengalaman (data) tanpa diprogram secara eksplisit untuk setiap tugas.
+
+Deep Learning
+Subset dari machine learning yang menggunakan jaringan saraf tiruan berlapis-lapis (neural network) untuk memproses data dalam skala besar.
+
+Natural Language Processing (NLP)
+Cabang AI yang memungkinkan komputer untuk memahami, menginterpretasi, dan menghasilkan bahasa manusia secara alami.
+
+Prompt Engineering
+Seni dan ilmu merancang input (prompt) yang efektif untuk mendapatkan output yang optimal dari model AI generatif.
+
+Microsoft Copilot
+Asisten AI berbasis Microsoft yang terintegrasi dengan berbagai produk Microsoft 365 dan Bing, membantu pengguna meningkatkan produktivitas melalui percakapan natural.
+
+Responsible AI (AI yang Bertanggung Jawab)
+Pendekatan pengembangan dan penggunaan AI yang mempertimbangkan aspek etika, keadilan, transparansi, privasi, keamanan, dan akuntabilitas.
+
+Deepfake
+Konten media (gambar, video, audio) yang dimanipulasi menggunakan AI untuk membuat seseorang tampak melakukan atau mengatakan sesuatu yang tidak pernah mereka lakukan.
+
+Inclusive AI
+Pengembangan dan penggunaan AI yang mempertimbangkan kebutuhan semua pengguna, termasuk penyandang disabilitas dan kelompok terpinggirkan.
+
+Reasoning Engine (Mesin Penalaran)
+Sistem AI yang mampu melakukan penalaran logis dan menyimpulkan informasi baru dari pengetahuan yang ada, seperti yang diterapkan dalam mesin pencari generasi baru.
+
+GPT (Generative Pre-trained Transformer)
+Arsitektur model bahasa besar yang menjadi dasar banyak sistem AI generatif modern, termasuk ChatGPT dan Copilot.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Generative_AI_Peningkatan_Kinerja_ASN
+========================================

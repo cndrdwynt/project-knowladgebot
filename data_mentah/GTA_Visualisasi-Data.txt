@@ -1,0 +1,295 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: VISUALISASI DATA
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN VISUALISASI DATA?
+Pelatihan ini dirancang untuk membekali peserta dengan keterampilan dan pengetahuan yang diperlukan untuk membuat dashboard visualisasi data guna mendukung pengambilan keputusan berbasis data.
+
+Output yang dihasilkan peserta mencakup:
+- Konsep Dasar Visualisasi Data: mampu menjelaskan konsep dasar visualisasi data.
+- Business Understanding & Data Understanding: mampu menerapkan proses penyusunan dokumen kebutuhan bisnis dan data.
+- Data Preprocessing: mampu menerapkan data preprocessing.
+- Introduction to Looker Studio: mampu mendemonstrasikan koneksi sumber data di Looker Studio.
+- Visualization on Looker Studio: mampu mendemonstrasikan visualisasi data di Looker Studio.
+
+---
+
+APA TUJUAN PELATIHAN VISUALISASI DATA?
+1. Kemampuan menjelaskan pentingnya visualisasi data, menjelaskan jenis chart dan fungsinya, menjelaskan tahapan pengembangan dashboard.
+2. Kemampuan menerapkan proses penyusunan dokumen kebutuhan bisnis dan data serta etika dalam pengelolaan data.
+3. Kemampuan menjelaskan urgensi data preprocessing dan menerapkan data preprocessing task.
+4. Kemampuan menjelaskan sumber data Looker Studio dan mendemonstrasikan koneksi data Looker Studio.
+5. Kemampuan mendemonstrasikan pengaturan tema dan layout, chart, data control, serta share dan publikasi visualisasi data di Looker Studio.
+
+---
+
+BERAPA DURASI PELATIHAN VISUALISASI DATA?
+Pelatihan berlangsung selama 32 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+- Metode Online  : JP Sinkronus = 21 JP, JP Asinkronus = 11 JP, Total = 32 JP
+- Metode Offline : Total = 32 JP (4 hari penuh sinkronus)
+
+CATATAN: Durasi pelatihan ini adalah 32 JP, lebih singkat dibanding sebagian besar pelatihan GTA lainnya yang umumnya 40–50 JP.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN VISUALISASI DATA?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Peserta mengikuti aktivitas pembelajaran secara synchronous didampingi Pengajar melalui aplikasi video conference. Peserta juga dapat mempelajari materi secara mandiri dan mengerjakan pre-test, post-test, dan penugasan melalui LMS Kementerian Komdigi.
+2. Full Offline (Luring): Pembelajaran dilakukan secara klasikal melalui pertemuan tatap muka dengan Pengajar pada lokasi pelaksanaan yang ditentukan. Bahan pembelajaran, soal pre-test, post-test, dan penugasan dapat diakses pada LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN VISUALISASI DATA?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN / Non-ASN yang bekerja di Instansi Pemerintahan Pusat, Daerah, dan Desa serta TNI / Polri.
+2. Usia maksimal 50 tahun pada saat mendaftar.
+3. Pendidikan minimal D3.
+4. Mendapatkan surat penugasan dari pejabat yang berwenang.
+5. Khusus peserta penyandang disabilitas, wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+6. Dapat mengoperasikan Ms. Excel tingkat dasar.
+
+CATATAN KHUSUS: Batas usia pelatihan ini adalah maksimal 50 tahun, lebih muda dibanding sebagian besar pelatihan GTA lainnya yang umumnya maksimal 53 tahun. Persyaratan peserta juga mencakup Non-ASN Desa, tidak hanya ASN K/L/D.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA VISUALISASI DATA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. Web Browser: Google Chrome, Mozilla Firefox, dll.
+3. Terinstall aplikasi Ms. Word/sejenisnya, Ms. Excel/sejenisnya, dan Zoom.
+4. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN VISUALISASI DATA?
+
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session / hadir di kelas) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan pre-test, post-test, dan seluruh penugasan di LMS.
+3. Mengikuti Presentasi Tugas Akhir Pelatihan.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test   : 5%
+- Post-Test  : 30%
+- Penugasan  : 65%
+
+---
+
+KAPAN JADWAL PELATIHAN VISUALISASI DATA?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+BERAPA HARI PERTEMUAN PELATIHAN VISUALISASI DATA?
+- Online (Daring)  : 4 hari pertemuan
+- Offline (Luring) : 4 hari pertemuan
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN VISUALISASI DATA?
+Pelatihan terdiri dari 6 mata pelatihan dengan total 32 JP:
+
+1. Building Learning Commitment (1 JP)
+
+2. Konsep Dasar Visualisasi Data (4 JP)
+   Materi:
+   - Pentingnya Visualisasi Data
+   - Jenis Chart dan Fungsinya
+   - Tahapan Pengembangan Dashboard
+
+3. Business Understanding & Data Understanding (4 JP)
+   Materi:
+   - Business Understanding
+   - Data Understanding
+
+4. Data Preprocessing (3 JP)
+   Materi:
+   - Urgensi Data Preprocessing
+   - Praktik Data Preprocessing
+
+5. Introduction to Looker Studio (2 JP)
+   Materi:
+   - Fitur Looker Studio
+   - Koneksi Data Source pada Looker Studio
+
+6. Visualization on Looker Studio (18 JP)
+   Materi:
+   - Pengaturan Theme & Layout
+   - Chart
+   - Data Control
+   - Share dan Publikasi
+
+Exam:
+   - Pre-Test dan Post-Test : Mengerjakan pada LMS
+   - Presentasi Tugas Akhir Pelatihan
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN VISUALISASI DATA?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING VISUALISASI DATA (4 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan, Pre-test (Penyelenggara)
+- 08.45 – 09.30 : Building Learning Commitment – Sinkronus (1 JP) – Pengajar
+- 09.30 – 10.15 : Konsep Dasar Visualisasi Data – Sinkronus (1 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Konsep Dasar Visualisasi Data – Sinkronus (1 JP) – Pengajar
+- 11.15 – 12.00 : Business Understanding & Data Understanding – Sinkronus (1 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 13.45 : Business Understanding & Data Understanding – Sinkronus (1 JP) – Pengajar
+- 13.45 – 17.00 : Pendalaman Materi Konsep Dasar Visualisasi Data (2 JP) + Pendalaman Materi & Penugasan Business Understanding & Data Understanding (1 JP) – Asinkronus (3 JP) – Peserta
+
+Hari Kedua:
+- 08.00 – 08.45 : Business Understanding & Data Understanding – Sinkronus (1 JP) – Pengajar
+- 08.45 – 10.15 : Data Preprocessing – Sinkronus (2 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Introduction to Looker Studio – Sinkronus (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Pendalaman Materi & Penugasan Data Preprocessing (1 JP) + Pendalaman Materi Visualization on Looker Studio (3 JP) – Asinkronus (4 JP) – Peserta
+
+Hari Ketiga:
+- 08.00 – 10.15 : Visualization on Looker Studio – Sinkronus (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Visualization on Looker Studio – Sinkronus (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Pendalaman Materi & Penugasan Visualization on Looker Studio – Asinkronus (4 JP) – Peserta
+
+Hari Keempat:
+- 08.00 – 10.15 : Visualization on Looker Studio: Presentasi Penugasan – Sinkronus (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.45 : Visualization on Looker Studio: Presentasi Penugasan – Sinkronus (3 JP) – Pengajar
+- 12.45 – 13.45 : ISHOMA
+- 13.45 – 14.30 : Post-test & Penutupan (Penyelenggara)
+
+TOTAL JP Sinkronus  : 21 JP
+TOTAL JP Asinkronus : 11 JP
+TOTAL JP            : 32 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING VISUALISASI DATA (4 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan, Pre-test (Penyelenggara)
+- 08.45 – 09.30 : Building Learning Commitment – Sinkronus (1 JP) – Pengajar
+- 09.30 – 10.15 : Konsep Dasar Visualisasi Data – Sinkronus (1 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Konsep Dasar Visualisasi Data – Sinkronus (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 13.45 : Konsep Dasar Visualisasi Data – Sinkronus (1 JP) – Pengajar
+- 14.45 – 17.00 : Business Understanding & Data Understanding – Sinkronus (3 JP) – Pengajar
+
+Hari Kedua:
+- 08.00 – 08.45 : Business Understanding & Data Understanding – Sinkronus (1 JP) – Pengajar
+- 08.45 – 10.15 : Data Preprocessing – Sinkronus (2 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Data Preprocessing – Sinkronus (1 JP) – Pengajar
+- 11.15 – 12.00 : Introduction to Looker Studio – Sinkronus (1 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.15 – 13.45 : Introduction to Looker Studio – Sinkronus (1 JP) – Pengajar
+- 13.45 – 16.00 : Visualization on Looker Studio – Sinkronus (3 JP) – Pengajar
+
+Hari Ketiga:
+- 08.00 – 10.15 : Visualization on Looker Studio – Sinkronus (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Visualization on Looker Studio – Sinkronus (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Visualization on Looker Studio – Sinkronus (4 JP) – Pengajar
+
+Hari Keempat:
+- 08.00 – 10.15 : Visualization on Looker Studio: Presentasi Penugasan – Sinkronus (3 JP) – Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.45 : Visualization on Looker Studio: Presentasi Penugasan – Sinkronus (3 JP) – Pengajar
+- 12.45 – 13.45 : ISHOMA
+- 13.45 – 14.30 : Post-test & Penutupan (Penyelenggara)
+
+TOTAL JP: 32 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Visualisasi Data
+Representasi grafis dari data menggunakan elemen visual seperti chart, grafik, peta, dan dashboard untuk memudahkan pemahaman pola, tren, dan wawasan dari data.
+
+Dashboard
+Tampilan visual interaktif yang menyajikan berbagai metrik dan indikator kinerja utama (KPI) secara ringkas dalam satu layar untuk mendukung pengambilan keputusan.
+
+Business Understanding
+Tahapan dalam analisis data untuk memahami konteks bisnis, tujuan organisasi, dan kebutuhan pemangku kepentingan sebelum mengolah data.
+
+Data Understanding
+Tahapan untuk memahami struktur, kualitas, dan karakteristik data yang tersedia sebelum dilakukan analisis lebih lanjut.
+
+Data Preprocessing
+Proses pembersihan, transformasi, dan persiapan data mentah agar siap digunakan untuk analisis atau visualisasi, termasuk penanganan data yang hilang, duplikasi, dan format yang tidak konsisten.
+
+Looker Studio
+Alat visualisasi data gratis dari Google yang memungkinkan pengguna membuat laporan dan dashboard interaktif dengan menghubungkan berbagai sumber data.
+
+Data Source
+Sumber data yang dihubungkan ke Looker Studio, seperti Google Sheets, BigQuery, Google Analytics, atau database lainnya.
+
+Chart
+Representasi grafis dari data dalam berbagai bentuk seperti bar chart, line chart, pie chart, scatter plot, dan lain-lain untuk menampilkan perbandingan atau tren data.
+
+Data Control
+Fitur pada Looker Studio yang memungkinkan pengguna berinteraksi dengan dashboard melalui filter atau kontrol tanggal untuk melihat data secara dinamis.
+
+Theme & Layout
+Pengaturan tampilan visual dashboard di Looker Studio mencakup skema warna, font, dan tata letak elemen visualisasi.
+
+KPI (Key Performance Indicator)
+Indikator kinerja utama yang digunakan untuk mengukur pencapaian tujuan organisasi secara terukur dan terstruktur.
+
+Etika Pengelolaan Data
+Prinsip-prinsip moral dalam pengumpulan, pengolahan, dan penggunaan data yang melindungi privasi dan hak individu.
+
+Ms. Excel
+Aplikasi pengolah data spreadsheet dari Microsoft yang digunakan sebagai prasyarat dasar dalam pelatihan Visualisasi Data.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Visualisasi-Data
+========================================

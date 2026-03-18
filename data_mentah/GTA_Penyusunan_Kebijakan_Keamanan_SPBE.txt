@@ -1,0 +1,322 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: PENYUSUNAN KEBIJAKAN KEAMANAN SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Badan Siber dan Sandi Negara (BSSN)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2024
+
+---
+
+APA ITU PELATIHAN PENYUSUNAN KEBIJAKAN KEAMANAN SPBE?
+Pelatihan ini dirancang untuk memberikan pemahaman dasar tentang penyusunan kebijakan keamanan untuk Sistem Pemerintahan Berbasis Elektronik (SPBE). Pelatihan ini mencakup legal drafting, terminologi kebijakan keamanan, metode dalam menyusun norma kebijakan keamanan SPBE, penjelasan prinsip-prinsip keamanan, praktik terbaik, dan kerangka kerja yang diperlukan untuk mengembangkan kebijakan keamanan SPBE yang efektif, relevan, dan sesuai dengan kebutuhan organisasi.
+
+Materi pada pelatihan ini terdiri dari 8 (delapan) mata pelatihan.
+
+---
+
+APA TUJUAN PELATIHAN PENYUSUNAN KEBIJAKAN KEAMANAN SPBE?
+1. Mampu untuk menentukan norma hukum/kebijakan keamanan.
+2. Mampu untuk menjelaskan harmonisasi (internal atau eksternal) substansi dan format drafting.
+3. Mampu untuk menjelaskan uji publik pengesahan/penetapan kebijakan.
+4. Mampu untuk melaksanakan sosialisasi dan monitoring pemahaman.
+5. Mampu untuk mengidentifikasi perbaikan kebijakan.
+
+---
+
+BERAPA DURASI PELATIHAN PENYUSUNAN KEBIJAKAN KEAMANAN SPBE?
+Pelatihan berlangsung selama 35 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran secara online asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, dilanjutkan pembelajaran secara online synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN PENYUSUNAN KEBIJAKAN KEAMANAN SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: PNS / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal S1.
+4. Minimal pangkat golongan III/a.
+5. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+6. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan tidak sedang menjalani pendidikan.
+7. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+8. Dapat mengoperasikan office tingkat dasar, terutama Ms. Excel.
+
+CATATAN KHUSUS: Pelatihan ini hanya terbuka untuk PNS/TNI/Polri (tidak mencakup Pegawai Pemerintah Non-ASN). Selain itu, terdapat persyaratan tambahan berupa minimal pangkat golongan III/a yang tidak ada di pelatihan GTA lainnya.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Ruang penyimpanan kosong minimal 1,5 GB.
+4. Resolusi layar minimal 1024x768.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk full online / hadir di kelas untuk full offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 9 mata pelatihan dengan total 35 JP:
+
+1. BLC – Building Learning Commitment (1 JP)
+   Materi:
+   - Orientasi program dan komitmen belajar
+
+2. Urgensi Kebijakan Keamanan SPBE (1 JP)
+   Materi:
+   - Urgensi kebijakan keamanan SPBE
+
+3. Legal Drafting (10 JP)
+   Materi:
+   - Format peraturan
+   - Ketentuan batang tubuh
+   - Perumusan kalimat pengaturan
+   - Format legal drafting
+
+4. Inisiasi Penyusunan Kebijakan Keamanan (8 JP)
+   Materi:
+   - Inisiasi penyusunan kebijakan keamanan
+
+5. Topologi Kebijakan Keamanan SPBE (2 JP)
+   Materi:
+   - Prinsip keamanan SPBE
+   - Arah kebijakan keamanan SPBE
+   - Pohon peraturan keamanan SPBE
+
+6. Quick Wins Penyusunan Kebijakan Keamanan SPBE (7 JP)
+   Materi:
+   - Konsideran Keamanan SPBE
+   - Daftar Inventaris Masalah (DIM)
+   - Identifikasi Risiko (Risk-Based) / Inputan Penyusunan DIM
+   - Subjek Keamanan SPBE
+   - Norma Hukum/Kebijakan Keamanan
+
+7. Tahapan Penetapan Kebijakan Keamanan SPBE (2 JP)
+   Materi:
+   - Harmonisasi (Internal atau Eksternal) Substansi dan Format Drafting
+   - Uji Publik Pengesahan/Penetapan Kebijakan
+
+8. Sosialisasi dan Monitoring Pemahaman (2 JP)
+   Materi:
+   - Metode sosialisasi
+   - Jenis-jenis media sosialisasi
+   - Menyusun survei pemahaman
+   - Mengidentifikasi perbaikan kebijakan
+
+9. Seminar Perumusan Kebijakan Keamanan SPBE (2 JP)
+   Materi:
+   - Dokumen perumusan kebijakan keamanan SPBE
+
+Exam:
+   - Pre-Test dan Post-Test         : Mengerjakan pada LMS
+   - Presentasi Tugas Akhir Pelatihan: Presentasi dan Learning feedback
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN LURING / OFFLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan & Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Orientasi & BLC (1 JP) – Synchronous
+- 09.30 – 10.15 : Urgensi Kebijakan Keamanan SPBE (1 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Legal Drafting (2 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Legal Drafting (3 JP) – Synchronous
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 16.15 : Legal Drafting (2 JP) – Synchronous
+
+Hari Kedua:
+- 08.00 – 10.15 : Legal Drafting (3 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Inisiasi Penyusunan Kebijakan Keamanan (2 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Inisiasi Penyusunan Kebijakan Keamanan (3 JP) – Synchronous
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 17.00 : Inisiasi Penyusunan Kebijakan Keamanan (2 JP) – Synchronous
+
+Hari Ketiga:
+- 08.00 – 08.45 : Inisiasi Penyusunan Kebijakan Keamanan (1 JP) – Synchronous
+- 08.45 – 10.15 : Topologi Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Quick Wins Penyusunan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Quick Wins Penyusunan Kebijakan Keamanan SPBE (3 JP) – Synchronous
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 17.00 : Quick Wins Penyusunan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+
+Hari Keempat:
+- 08.00 – 09.15 : Tahapan Penetapan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 09.15 – 10.15 : Sosialisasi dan Monitoring Pemahaman (1 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Sosialisasi dan Monitoring Pemahaman (1 JP) – Synchronous
+- 10.15 – 12.00 : Seminar Perumusan Kebijakan Keamanan SPBE (1 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Seminar Perumusan Kebijakan Keamanan SPBE (1 JP) – Synchronous
+- 13.45 – 14.30 : Post-Test & Penutupan (Penyelenggara)
+
+TOTAL JP: 35 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN DARING / ONLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan & Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Orientasi & BLC (1 JP) – Synchronous
+- 09.30 – 10.15 : Urgensi Kebijakan Keamanan SPBE (1 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Legal Drafting (2 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Legal Drafting (2 JP) – Synchronous
+- 14.30 – 16.45 : Legal Drafting (3 JP) – Asynchronous, Belajar Mandiri
+
+Hari Kedua:
+- 08.00 – 10.15 : Legal Drafting (3 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Inisiasi Penyusunan Kebijakan Keamanan (2 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Inisiasi Penyusunan Kebijakan Keamanan (2 JP) – Synchronous
+- 14.30 – 16.45 : Inisiasi Penyusunan Kebijakan Keamanan (3 JP) – Asynchronous, Belajar Mandiri
+
+Hari Ketiga:
+- 08.00 – 08.45 : Inisiasi Penyusunan Kebijakan Keamanan (1 JP) – Synchronous
+- 08.45 – 10.15 : Topologi Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Quick Wins Penyusunan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Quick Wins Penyusunan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 14.30 – 16.45 : Quick Wins Penyusunan Kebijakan Keamanan SPBE (3 JP) – Asynchronous, Belajar Mandiri
+
+Hari Keempat:
+- 08.00 – 09.15 : Tahapan Penetapan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 09.15 – 10.15 : Sosialisasi dan Monitoring Pemahaman (1 JP) – Synchronous
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Sosialisasi dan Monitoring Pemahaman (1 JP) – Synchronous
+- 10.15 – 12.45 : Seminar Perumusan Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 12.45 – 13.30 : Ishoma
+- 13.30 – 14.15 : Post-Test & Penutupan (Penyelenggara)
+
+TOTAL JP SYNCHRONOUS (Tatap Muka)     : 26 JP
+TOTAL JP ASYNCHRONOUS (Belajar Mandiri): 9 JP
+TOTAL JP                               : 35 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+Kebijakan Keamanan SPBE
+Dokumen resmi yang menetapkan aturan, prosedur, dan panduan keamanan untuk melindungi sistem informasi dan data dalam lingkungan SPBE.
+
+Legal Drafting
+Proses penyusunan dokumen hukum atau peraturan secara sistematis dan terstruktur sesuai kaidah perundang-undangan yang berlaku, mencakup format, batang tubuh, dan perumusan kalimat pengaturan.
+
+Batang Tubuh Peraturan
+Bagian inti dari suatu peraturan perundang-undangan yang memuat substansi norma hukum yang diatur, terdiri dari pasal-pasal.
+
+Norma Hukum
+Aturan atau ketentuan yang mengikat secara hukum dan mengatur perilaku subjek hukum dalam suatu bidang tertentu.
+
+Harmonisasi Kebijakan
+Proses penyelarasan substansi dan format suatu rancangan kebijakan dengan peraturan-peraturan lain yang berlaku, baik secara internal maupun eksternal.
+
+Uji Publik
+Proses pengujian rancangan kebijakan kepada masyarakat luas atau pemangku kepentingan sebelum ditetapkan, untuk mendapatkan masukan dan memastikan relevansinya.
+
+DIM (Daftar Inventaris Masalah)
+Dokumen yang berisi daftar permasalahan atau isu yang perlu diatur dalam kebijakan keamanan SPBE sebagai bahan penyusunan norma hukum.
+
+Quick Wins
+Langkah-langkah awal yang dapat segera dilaksanakan dalam penyusunan kebijakan keamanan SPBE untuk menghasilkan hasil nyata dalam waktu singkat.
+
+Konsideran
+Bagian dari peraturan yang memuat dasar pertimbangan mengapa suatu peraturan perlu ditetapkan, biasanya diawali dengan kata "Menimbang" dan "Mengingat".
+
+Topologi Kebijakan Keamanan SPBE
+Gambaran hierarki dan hubungan antar peraturan keamanan SPBE, mencakup prinsip, arah kebijakan, dan pohon peraturan yang berlaku.
+
+Pohon Peraturan Keamanan SPBE
+Peta atau diagram yang menggambarkan hierarki dan keterkaitan antar regulasi keamanan SPBE dari tingkat tertinggi hingga terendah.
+
+Sosialisasi Kebijakan
+Proses penyebarluasan informasi dan pemahaman tentang kebijakan yang telah ditetapkan kepada seluruh pemangku kepentingan yang terkait.
+
+Monitoring Pemahaman
+Kegiatan pemantauan dan evaluasi terhadap tingkat pemahaman pemangku kepentingan atas kebijakan yang telah disosialisasikan.
+
+Golongan III/a
+Salah satu golongan kepangkatan dalam struktur PNS Indonesia, yang menjadi syarat minimal untuk mengikuti pelatihan ini.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab di bidang keamanan siber nasional, menjadi mitra pelatihan dalam program ini.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+BLC (Building Learning Commitment)
+Sesi pembuka pelatihan yang bertujuan membangun komitmen dan kesiapan belajar peserta.
+
+PNS (Pegawai Negeri Sipil)
+Warga negara Indonesia yang memenuhi syarat tertentu, diangkat sebagai pegawai ASN secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan.
+
+========================================
+END OF DATABASE – GTA_Penyusunan_Kebijakan_Keamanan_SPBE
+========================================

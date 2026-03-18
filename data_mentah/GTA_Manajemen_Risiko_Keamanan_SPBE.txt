@@ -1,0 +1,319 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: MANAJEMEN RISIKO KEAMANAN SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Badan Siber dan Sandi Negara (BSSN)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 22 Januari 2025
+
+---
+
+APA ITU PELATIHAN MANAJEMEN RISIKO KEAMANAN SPBE?
+Pelatihan Manajemen Risiko Keamanan SPBE dalam konteks keamanan siber bertujuan untuk membekali para pemangku kepentingan di sektor pemerintah dengan pengetahuan dan keterampilan yang dibutuhkan untuk mengaplikasikan manajemen risiko keamanan dalam lingkungan SPBE yang semakin terhubung dan rentan terhadap ancaman siber.
+
+Peserta akan mempelajari:
+- Metode analisis risiko dan identifikasi ancaman.
+- Pengelolaan risiko yang terkait dengan penggunaan teknologi dalam pemerintahan.
+- Praktik-praktik terbaik dalam mengurangi risiko.
+- Cara melindungi data sensitif dan menjaga ketersediaan layanan publik secara elektronik.
+
+---
+
+APA TUJUAN PELATIHAN MANAJEMEN RISIKO KEAMANAN SPBE?
+Peserta pelatihan dapat:
+1. Mengetahui Manajemen Risiko Keamanan SPBE.
+2. Memahami Kebijakan Manajemen Risiko Keamanan SPBE.
+3. Mengaplikasikan Metodologi Identifikasi Risiko Keamanan SPBE.
+4. Menganalisis Kerentanan dan Ancaman Keamanan SPBE melalui Evaluasi Kerentanan dan Ancaman Keamanan SPBE.
+5. Mengevaluasi risiko melalui Metodologi Evaluasi Risiko.
+6. Menciptakan Pengelolaan Risiko melalui Kontrol Keamanan.
+7. Menciptakan Pemantauan dan Evaluasi Atas Mitigasi Penanganan Risiko.
+8. Menentukan Mitigasi Penanganan Risiko.
+
+---
+
+BERAPA DURASI PELATIHAN MANAJEMEN RISIKO KEAMANAN SPBE?
+Pelatihan berlangsung selama 35 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam tiga metode:
+1. Full Online (Daring): Pembelajaran dilakukan secara synchronous bersama Pengajar melalui live session menggunakan aplikasi video conference, dilanjutkan peserta belajar mandiri melalui LMS Kementerian Komdigi.
+2. Full Offline (Luring): Pembelajaran dilakukan secara tatap muka (offline) bersama Pengajar pada kelas pelatihan di lokasi terpilih, dilanjutkan peserta belajar mandiri melalui LMS Kementerian Komdigi.
+3. Self-Paced Learning (SPL): Pembelajaran dilaksanakan secara mandiri melalui bahan pembelajaran yang tersedia di LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN MANAJEMEN RISIKO KEAMANAN SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: Aparatur Sipil Negara / Non-ASN yang bekerja di Instansi Pemerintahan Pusat, Daerah dan Desa serta TNI, Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3 di bidang Sistem Informasi / Teknik Informatika / Keamanan Informasi, atau pegawai yang melaksanakan tugas bidang pengelolaan Sistem Informasi / Teknologi Informasi / Keamanan Informasi di instansi, dan/atau Jabatan Fungsional rumpun Kekomputeran.
+4. Mendapatkan Surat Penugasan dari Pejabat yang Berwenang.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB.
+3. Terinstall aplikasi office.
+4. Terinstall web browser (seperti Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, atau sejenisnya).
+5. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti 35 jam pelajaran substansi selama 5 hari pelatihan dengan paling banyak tidak mengikuti 1x pertemuan Live Session pada pembelajaran Daring (online), atau mengikuti 4 hari pelatihan dengan paling banyak tidak mengikuti 4 jam pelajaran pada pembelajaran Luring (offline).
+2. Menyelesaikan Pre-Test dan Post-Test.
+3. Menyelesaikan seluruh penugasan.
+4. Mendapatkan total nilai lebih dari 65.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 9 mata pelatihan dengan total 35 JP:
+
+1. Building Learning Commitment (1 JP)
+   Materi:
+   - Orientasi Program
+
+2. Pengenalan Manajemen Risiko Keamanan SPBE (3 JP)
+   Materi:
+   - Risk-Based Security
+   - Prinsip Keamanan Informasi
+   - Cluster Domain Keamanan
+   - Prinsip Keamanan SPBE
+   - Ilustrasi Risiko Keamanan SPBE
+   - Prinsip Manajemen Risiko dalam Keamanan SPBE
+   - Tahapan Manajemen Risiko Keamanan SPBE
+
+3. Kebijakan Manajemen Risiko Keamanan SPBE (3 JP)
+   Materi:
+   - Jenis Regulasi dan Standard Manajemen Risiko
+   - Peraturan Menteri PANRB Nomor 5 Tahun 2020 tentang Pedoman Manajemen Risiko SPBE
+   - ISO 31000:2018
+   - ISO/IEC 27005:2018
+   - NIST SP 800-37
+
+4. Metodologi Identifikasi Risiko Keamanan SPBE (4 JP)
+   Materi:
+   - Metode dan Alat untuk Mengidentifikasi Risiko
+
+5. Evaluasi Kerentanan dan Ancaman Keamanan SPBE (6 JP)
+   Materi:
+   - Kerentanan sistem SPBE
+   - Ancaman keamanan SPBE
+
+6. Metodologi Evaluasi Risiko (4 JP)
+   Materi:
+   - Metode penilaian risiko dan kerangka kerja
+   - Penentuan tingkat risiko
+
+7. Pengelolaan Risiko melalui Kontrol Keamanan (6 JP)
+   Materi:
+   - Peran kontrol keamanan dalam mengurangi risiko
+   - Perencanaan tindakan korektif
+
+8. Pemantauan Mitigasi Risiko Keamanan SPBE (2 JP)
+   Materi:
+   - Kesiapan Tanggap Risiko
+
+9. Mitigasi Penanganan Risiko Keamanan SPBE (6 JP)
+   Materi:
+   - Pengembangan Kebijakan dan Prosedur
+   - Implementasi Manajemen Risiko dalam Organisasi
+
+Exam:
+   - Pre-Test dan Post-Test : Mengerjakan pada LMS
+   - Tugas Akhir            : Presentasi dan Learning feedback
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN DARING (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan & Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Building Learning Commitment (1 JP) – Synchronous, Pengajar
+- 09.30 – 09.45 : Istirahat
+- 09.45 – 11.15 : Pengenalan Manajemen Risiko SPBE (2 JP) – Synchronous, Pengajar
+- 11.15 – 12.45 : Regulasi dan Standar Manajemen Risiko Keamanan SPBE (2 JP) – Synchronous, Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 14.30 : Pengenalan Manajemen Risiko SPBE (1 JP) – Asynchronous, Belajar Mandiri
+- 14.30 – 15.15 : Regulasi dan Standar Manajemen Risiko Keamanan SPBE (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Kedua:
+- 08.00 – 09.30 : Metodologi Identifikasi (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Evaluasi Kerentanan dan Ancaman (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.45 : Evaluasi Kerentanan dan Ancaman (3 JP) – Synchronous, Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Metodologi Identifikasi (2 JP) – Asynchronous, Belajar Mandiri
+- 15.15 – 16.00 : Evaluasi Kerentanan dan Ancaman (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Ketiga:
+- 08.00 – 08.45 : Evaluasi Kerentanan dan Ancaman (1 JP) – Synchronous, Pengajar
+- 08.45 – 10.15 : Metodologi Evaluasi Risiko (2 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.45 : Pengelolaan Risiko melalui Kontrol Keamanan (3 JP) – Synchronous, Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Metodologi Evaluasi Risiko (2 JP) – Asynchronous, Belajar Mandiri
+- 15.15 – 16.00 : Pengelolaan Risiko melalui Kontrol Keamanan (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Keempat:
+- 08.00 – 09.30 : Pengelolaan Risiko melalui Kontrol Keamanan (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Pemantauan Manajemen Risiko Keamanan (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.45 : Mitigasi Penanganan Risiko (3 JP) – Synchronous, Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 14.30 : Pemantauan Manajemen Risiko Keamanan (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Kelima:
+- 08.00 – 10.15 : Mitigasi Penanganan Risiko (3 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Post-Test (Penyelenggara)
+- 11.15 – 12.00 : Penutupan (Penyelenggara)
+
+TOTAL JP SYNCHRONOUS  : 26 JP
+TOTAL JP ASYNCHRONOUS : 9 JP
+TOTAL JP              : 35 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN LURING (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan & Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Building Learning Commitment (1 JP) – Tatap Muka, Pengajar
+- 09.30 – 09.45 : Istirahat
+- 09.45 – 12.00 : Pengenalan Manajemen Risiko SPBE (3 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Regulasi dan Standar Manajemen Risiko Keamanan SPBE (3 JP) – Tatap Muka, Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 17.00 : Metodologi Identifikasi (2 JP) – Tatap Muka, Pengajar
+
+Hari Kedua:
+- 08.00 – 09.30 : Metodologi Identifikasi (2 JP) – Tatap Muka, Pengajar
+- 09.30 – 10.15 : Evaluasi Kerentanan dan Ancaman (1 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Evaluasi Kerentanan dan Ancaman (2 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Evaluasi Kerentanan dan Ancaman (3 JP) – Tatap Muka, Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 17.00 : Metodologi Evaluasi Risiko (2 JP) – Tatap Muka, Pengajar
+
+Hari Ketiga:
+- 08.00 – 09.30 : Metodologi Evaluasi Risiko (2 JP) – Tatap Muka, Pengajar
+- 09.30 – 10.15 : Pengelolaan Risiko melalui Kontrol Keamanan (1 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Pengelolaan Risiko melalui Kontrol Keamanan (2 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Pengelolaan Risiko melalui Kontrol Keamanan (3 JP) – Tatap Muka, Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 17.00 : Pemantauan Manajemen Risiko (2 JP) – Tatap Muka, Pengajar
+
+Hari Keempat:
+- 08.00 – 10.15 : Mitigasi Penanganan Risiko (3 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Mitigasi Penanganan Risiko (2 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Mitigasi Penanganan Risiko (1 JP) – Tatap Muka, Pengajar
+- 13.45 – 14.30 : Post-Test (Penyelenggara)
+- 14.30 – 14.45 : Istirahat
+- 14.45 – 15.30 : Penutupan (Penyelenggara)
+
+TOTAL JP TATAP MUKA : 35 JP
+TOTAL JP            : 35 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+Manajemen Risiko
+Proses sistematis untuk mengidentifikasi, menganalisis, mengevaluasi, dan menangani risiko yang dapat mempengaruhi pencapaian tujuan organisasi.
+
+Risiko Keamanan SPBE
+Potensi kerugian atau dampak negatif yang timbul dari ancaman dan kerentanan yang mempengaruhi keamanan sistem pemerintahan berbasis elektronik.
+
+Risk-Based Security
+Pendekatan keamanan yang mengutamakan upaya perlindungan berdasarkan tingkat risiko yang diidentifikasi, bukan berdasarkan pendekatan seragam.
+
+Kerentanan (Vulnerability)
+Kelemahan dalam sistem, prosedur, atau kontrol yang dapat dieksploitasi oleh ancaman untuk menyebabkan kerugian.
+
+Ancaman (Threat)
+Potensi penyebab insiden yang dapat mengakibatkan kerusakan pada sistem atau organisasi, seperti serangan siber, bencana alam, atau kesalahan manusia.
+
+Mitigasi Risiko
+Tindakan yang diambil untuk mengurangi kemungkinan terjadinya risiko atau dampak negatif yang ditimbulkannya.
+
+Kontrol Keamanan
+Mekanisme perlindungan administratif, teknis, atau fisik yang diterapkan untuk mengurangi risiko keamanan informasi.
+
+ISO 31000:2018
+Standar internasional yang memberikan pedoman tentang manajemen risiko, mencakup prinsip, kerangka kerja, dan proses manajemen risiko.
+
+ISO/IEC 27005:2018
+Standar internasional yang memberikan panduan untuk manajemen risiko keamanan informasi, mendukung implementasi ISMS berdasarkan ISO/IEC 27001.
+
+NIST SP 800-37
+Panduan dari National Institute of Standards and Technology (NIST) tentang Risk Management Framework (RMF) untuk sistem informasi dan organisasi federal.
+
+Peraturan Menteri PANRB Nomor 5 Tahun 2020
+Peraturan tentang Pedoman Manajemen Risiko Sistem Pemerintahan Berbasis Elektronik yang menjadi acuan pengelolaan risiko SPBE di Indonesia.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab di bidang keamanan siber nasional, menjadi mitra pelatihan dalam program ini.
+
+CIA (Confidentiality, Integrity, Availability)
+Tiga prinsip utama keamanan informasi: Kerahasiaan, Integritas, dan Ketersediaan data.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Manajemen_Risiko_Keamanan_SPBE
+========================================

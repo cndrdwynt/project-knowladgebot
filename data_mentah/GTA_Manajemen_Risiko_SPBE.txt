@@ -1,0 +1,364 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: MANAJEMEN RISIKO SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Kementerian Komunikasi dan Digital (Komdigi)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2024
+
+---
+
+APA ITU PELATIHAN MANAJEMEN RISIKO SPBE?
+Pelatihan Manajemen Risiko SPBE Berdasarkan SNI ISO 31000 memberikan kemampuan bagi peserta dalam peningkatan pemahaman tentang penerapan SNI ISO 31000 khususnya untuk Manajemen Risiko SPBE. Pelatihan ini juga melatih peserta untuk membuat Tabel Manajemen Risiko SPBE, Matriks Risiko, sampai dengan Pengendalian Risiko SPBE.
+
+Output yang dihasilkan peserta mencakup:
+- Pemahaman Manajemen Risiko SPBE berdasarkan SNI ISO 31000 series dan Permenpan RB No. 5 Tahun 2020.
+- Pemahaman Penetapan Konteks Risiko SPBE.
+- Pemahaman Penilaian Risiko SPBE.
+- Pemahaman Penanganan Risiko SPBE.
+- Pemahaman Pencatatan dan Pelaporan Risiko SPBE.
+- Pemahaman Pemantauan dan Review Risiko SPBE.
+- Pemahaman Dokumen Manajemen Risiko SPBE.
+- Penyusunan Tabel Manajemen Risiko SPBE.
+
+---
+
+APA TUJUAN PELATIHAN MANAJEMEN RISIKO SPBE?
+1. Pemahaman mengenai Manajemen Risiko SPBE berdasarkan SNI ISO 31000 series dan Permenpan RB No. 5 Tahun 2020.
+2. Pemahaman mengenai Penetapan Konteks Risiko SPBE.
+3. Pemahaman mengenai Penilaian Risiko SPBE.
+4. Pemahaman mengenai Penanganan Risiko SPBE.
+5. Pemahaman mengenai Pencatatan dan Pelaporan Risiko SPBE.
+6. Pemahaman mengenai Pemantauan dan Review Risiko SPBE.
+7. Pemahaman mengenai Dokumen Manajemen Risiko SPBE.
+8. Penyusunan mengenai Tabel Manajemen Risiko SPBE.
+
+---
+
+BERAPA DURASI PELATIHAN MANAJEMEN RISIKO SPBE?
+Pelatihan berlangsung selama 35 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Pembelajaran dilakukan secara synchronous melalui live session menggunakan aplikasi video conference. Peserta juga dapat bertanya, berdiskusi, dan berinteraksi dengan instruktur pada communication platform secara rutin.
+2. Full Offline (Luring/Klasikal): Pembelajaran dilakukan secara tatap muka klasikal bersama Pengajar di kelas pelatihan. Peserta juga dapat bertanya, berdiskusi, dan berinteraksi dengan instruktur.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN MANAJEMEN RISIKO SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Sanggup menyediakan sarana pelatihan sesuai persyaratan.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki:
+1. Komputer/laptop dengan Operating System Windows atau MacOS.
+2. Web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, atau sejenisnya.
+3. Terinstall aplikasi Webex dan/atau Zoom, serta dapat melakukan browsing dengan lancar.
+4. Memiliki konektivitas internet yang stabil.
+5. Membawa Dokumen Renstra, Perjanjian Kinerja, dan Rencana Kerja Instansi.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk full online / hadir di kelas untuk full offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 7 mata pelatihan dengan total 35 JP:
+
+1. Orientasi & Building Learning Commitment / BLC (1 JP)
+   Materi:
+   - Orientasi & Building Learning Commitment (BLC)
+
+2. Pengantar Manajemen Risiko SPBE (2 JP)
+   Materi:
+   - Pengertian Manajemen Risiko SPBE
+   - Tujuan Manajemen Risiko
+   - Manfaat Manajemen Risiko
+
+3. Manajemen Risiko SPBE (2 JP)
+   Materi:
+   - Kebijakan Manajemen Risiko SPBE
+   - Proses Manajemen Risiko SPBE
+   - Siklus Manajemen Risiko SPBE
+   - Penetapan Konteks Manajemen SPBE
+
+4. Konsep Penetapan Konteks Manajemen Risiko SPBE (12 JP)
+   Materi:
+   - Inventarisasi Informasi Umum
+   - Identifikasi Sasaran
+   - Penentuan Struktur Manajemen Risiko
+   - Identifikasi Pemangku Kepentingan
+   - Identifikasi Peraturan Perundang-undangan
+   - Penetapan Kategori Risiko
+   - Penetapan Area Dampak Risiko
+   - Penetapan Kriteria Risiko
+   - Matriks Analisa dan Level Risiko
+   - Selera Risiko
+
+5. Penilaian Manajemen Risiko SPBE (4 JP)
+   Materi:
+   - Identifikasi Risiko SPBE
+   - Analisa Risiko SPBE
+   - Evaluasi Risiko SPBE
+
+6. Penanganan Manajemen Risiko SPBE (4 JP)
+   Materi:
+   - Prioritas Risiko
+   - Rencana Penanganan
+   - Risiko Residual
+
+7. Dokumentasi dan Pengendalian Risiko (4 JP)
+   Materi:
+   - Pemantauan dan Review
+   - Pencatatan dan Pelaporan
+   - Dokumen Proses Risiko
+   - Pakta Integritas
+   - Pengendalian Risiko
+   - Budaya Sadar Risiko
+
+Exam (6 JP):
+   - Pre-Test dan Post-Test
+   - Penugasan Mandiri: Mengisi Form/Tabel Manajemen Risiko SPBE
+   - Presentasi Tugas Akhir Pelatihan (jika ada, disesuaikan)
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN LURING / OFFLINE – KLASIKAL (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.30 : Pembukaan (Plt. Kapusdiklat)
+- 08.30 – 09.15 : Orientasi dan BLC (1 JP) – Pengajar
+- 09.15 – 09.30 : Pre-Test (Peserta)
+- 09.30 – 10.15 : Pengantar Manajemen Risiko (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Pengantar Manajemen Risiko – Lanjutan (1 JP) – Pengajar
+- 11.15 – 12.00 : Manajemen Risiko SPBE (1 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Manajemen Risiko SPBE – Lanjutan (1 JP) – Pengajar
+- 13.45 – 14.30 : Inventarisasi Informasi Umum; Penentuan Struktur Pelaksana SPBE; Latihan 1 (Menyusun Struktur Organisasi MR SPBE dan mengisi Form 2.1 dan Form 2.3) (1 JP) – Pengajar
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Identifikasi Sasaran SPBE (1 JP) – Pengajar
+- 15.30 – 16.15 : Identifikasi Sasaran SPBE – Lanjutan; Latihan 2 (Menyusun Form 2.2) (1 JP) – Pengajar
+- 16.15 – 17.00 : Identifikasi Pemangku Kepentingan & Peraturan Perundangan; Latihan 3 (Menyusun Form 2.4 dan Form 2.5) (1 JP) – Pengajar
+
+Hari Kedua:
+- 08.00 – 08.45 : Penetapan Kategori Risiko SPBE (1 JP) – Pengajar
+- 08.45 – 09.30 : Penetapan Kategori Risiko SPBE – Lanjutan (1 JP) – Pengajar
+- 09.30 – 10.15 : Penetapan Kategori Risiko SPBE – Lanjutan; Latihan 4 (Mengisi Tabel 3.1, Form 2.6, dan Tabel 3.2) (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Penetapan Area Dampak Risiko SPBE (1 JP) – Pengajar
+- 11.15 – 12.00 : Penetapan Kriteria Risiko SPBE (1 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Penetapan Kriteria Risiko SPBE – Lanjutan; Latihan 5 (Mengisi Form 2.7, Form 2.8A, Tabel 3.4, Tabel 3.3, dan Form 2.8B) (1 JP) – Pengajar
+- 13.45 – 14.30 : Matriks Analisis, Level, & Selera Risiko SPBE (1 JP) – Pengajar
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Matriks Analisis, Level, & Selera Risiko SPBE – Lanjutan; Latihan 6 (Mengisi Matriks 2.9A, Matriks 2.9B, dan Tabel 3.5) (1 JP) – Pengajar
+- 15.30 – 16.15 : Penilaian Risiko (Identifikasi, Analisa, Evaluasi) (1 JP) – Pengajar
+
+Hari Ketiga:
+- 08.00 – 08.45 : Penilaian Risiko – Lanjutan (1 JP) – Pengajar
+- 08.45 – 09.30 : Penilaian Risiko – Lanjutan (1 JP) – Pengajar
+- 09.30 – 10.15 : Penilaian Risiko – Lanjutan; Latihan 7 (Mengisi Form 3.0-1, Form 3.0-2, dan Form 2.0-3) (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Prioritas Risiko (1 JP) – Pengajar
+- 11.15 – 12.00 : Rencana Penanganan (1 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Rencana Penanganan – Lanjutan; Latihan 8 (Mengisi Form 4.0) (1 JP) – Pengajar
+- 13.45 – 14.30 : Risiko Residual; Latihan 9 (Mengisi Tabel 3.6) (1 JP) – Pengajar
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Pemantauan dan Review; Pencatatan dan Pelaporan (1 JP) – Pengajar
+
+Hari Keempat:
+- 08.00 – 08.45 : Dokumen Manajemen Risiko; Pakta Integritas; Pengendalian Risiko; Latihan 10 (1 JP) – Pengajar
+- 08.45 – 09.30 : Budaya Sadar Risiko (1 JP) – Pengajar
+- 09.30 – 10.15 : Budaya Sadar Risiko – Lanjutan; Latihan 11 (Membuat materi flyer sosialisasi budaya sadar risiko) (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Penugasan Mandiri – Mengisi Form/Tabel Manajemen Risiko SPBE (1 JP) – Peserta
+- 11.15 – 12.00 : Penugasan Mandiri (1 JP) – Peserta
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Penugasan Mandiri (1 JP) – Peserta
+- 13.45 – 14.30 : Penugasan Mandiri (1 JP) – Peserta
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Penugasan Mandiri (1 JP) – Peserta
+- 15.30 – 16.00 : Penugasan Mandiri (1 JP) – Peserta
+- 16.00 – 16.30 : Post-Test (Peserta)
+- 16.30 – 17.00 : Penutupan (Plt. Kapusdiklat)
+
+TOTAL JP: 35 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN DARING / ONLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.30 : Pembukaan Online (Plt. Kapusdiklat)
+- 08.30 – 09.15 : Orientasi & BLC (1 JP) – Synchronous, Pengajar
+- 09.15 – 09.30 : Pre-Test
+- 09.30 – 10.15 : Konsepsi SPBE (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Pemahaman Manajemen Risiko (1 JP) – Synchronous, Pengajar
+- 11.15 – 12.00 : Manajemen Risiko SPBE, Inventarisasi Informasi Umum dan Latihan 1 (1 JP) – Synchronous, Pengajar
+
+Hari Kedua:
+- 08.00 – 08.45 : Identifikasi Sasaran SPBE dan Latihan 2 (1 JP) – Synchronous, Pengajar
+- 08.45 – 09.30 : Penentuan Struktur Pelaksana SPBE (1 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Identifikasi Pemangku Kepentingan & Peraturan Perundangan dan Latihan 3 (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Penetapan Kategori Risiko SPBE (1 JP) – Synchronous, Pengajar
+- 11.15 – 12.00 : Latihan 4 (1 JP) – Synchronous, Pengajar
+
+Hari Ketiga:
+- 08.00 – 08.45 : Penetapan Area Dampak Risiko SPBE (1 JP) – Synchronous, Pengajar
+- 08.45 – 09.00 : Break
+- 09.00 – 09.45 : Penetapan Kriteria Risiko SPBE (1 JP) – Synchronous, Pengajar
+- 09.45 – 10.30 : Latihan 5 (1 JP) – Synchronous, Pengajar
+- 10.30 – 11.15 : Matriks Analisis, Level, & Selera Risiko SPBE (1 JP) – Synchronous, Pengajar
+- 11.15 – 12.00 : Latihan 6 (1 JP) – Synchronous, Pengajar
+
+Hari Keempat:
+- 08.00 – 08.45 : Penilaian Risiko (1 JP) – Synchronous, Pengajar
+- 08.45 – 09.30 : Latihan 7 (1 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Penanganan Risiko (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Latihan 8 (2 JP) – Synchronous, Pengajar
+
+Hari Kelima:
+- 08.00 – 09.30 : Risiko Residual; Latihan 9 – Mengisi Tabel 3.6 (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Pemantauan dan Review; Pencatatan dan Pelaporan (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Dokumen Manajemen Risiko; Pakta Integritas; Pengendalian Risiko (2 JP) – Synchronous, Pengajar
+
+Hari Keenam:
+- 08.00 – 09.30 : Latihan 10 – Membuat Dokumen Kegiatan Konsultasi dan Komunikasi, Laporan Pemantauan Risiko, dan Dokumen Pakta Integritas (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Budaya Sadar Risiko (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Latihan 11 – Membuat materi flyer sosialisasi budaya sadar risiko (2 JP) – Synchronous, Pengajar
+
+Hari Ketujuh:
+- 08.00 – 09.30 : Penggabungan semua dan Diskusi Hasil Pengisian Tabel Manajemen Risiko SPBE (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Presentasi Tabel Manajemen Risiko SPBE (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Presentasi Tabel Manajemen Risiko SPBE (2 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Presentasi Tabel Manajemen Risiko SPBE (1 JP) – Synchronous, Pengajar
+- 13.45 – 14.00 : Post-Test
+- 14.00 – 14.15 : Penutupan Online (Kapusdiklat)
+
+TOTAL JP: 35 JP
+
+CATATAN KHUSUS JADWAL DARING:
+Pelatihan daring Manajemen Risiko SPBE dilaksanakan dalam 7 hari (bukan 5 hari seperti pelatihan GTA lainnya), dengan seluruh JP bersifat synchronous (live session).
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+SNI ISO 31000
+Standar Nasional Indonesia yang mengadopsi ISO 31000, memberikan pedoman tentang prinsip, kerangka kerja, dan proses manajemen risiko.
+
+Permenpan RB No. 5 Tahun 2020
+Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi tentang Pedoman Manajemen Risiko Sistem Pemerintahan Berbasis Elektronik.
+
+Penetapan Konteks Risiko
+Tahap awal manajemen risiko yang mencakup inventarisasi informasi umum, identifikasi sasaran, pemangku kepentingan, dan penetapan kriteria risiko.
+
+Penilaian Risiko
+Proses keseluruhan yang mencakup identifikasi risiko, analisa risiko, dan evaluasi risiko untuk menentukan signifikansi suatu risiko.
+
+Identifikasi Risiko
+Proses menemukan, mengenali, dan mendeskripsikan risiko yang dapat mempengaruhi pencapaian tujuan organisasi.
+
+Analisa Risiko
+Proses memahami sifat risiko dan menentukan tingkat risiko berdasarkan kemungkinan terjadinya dan dampaknya.
+
+Evaluasi Risiko
+Proses membandingkan hasil analisa risiko dengan kriteria risiko yang telah ditetapkan untuk menentukan apakah risiko perlu ditangani.
+
+Penanganan Risiko
+Proses untuk memodifikasi risiko, mencakup penetapan prioritas risiko, rencana penanganan, dan pengelolaan risiko residual.
+
+Risiko Residual
+Risiko yang tersisa setelah penanganan risiko dilakukan, yang masih dapat diterima oleh organisasi.
+
+Matriks Risiko
+Alat visual yang digunakan untuk menggambarkan dan menganalisis risiko berdasarkan tingkat kemungkinan dan dampaknya.
+
+Selera Risiko
+Jumlah dan jenis risiko yang bersedia diterima atau ditoleransi oleh organisasi dalam upaya mencapai tujuannya.
+
+Pakta Integritas
+Dokumen pernyataan komitmen untuk melaksanakan manajemen risiko secara konsisten dan bertanggung jawab.
+
+Budaya Sadar Risiko
+Kesadaran dan kepedulian seluruh anggota organisasi terhadap pentingnya identifikasi, pengelolaan, dan pengendalian risiko.
+
+BLC (Building Learning Commitment)
+Sesi pembuka pelatihan yang bertujuan membangun komitmen dan kesiapan belajar peserta.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Manajemen_Risiko_SPBE
+========================================

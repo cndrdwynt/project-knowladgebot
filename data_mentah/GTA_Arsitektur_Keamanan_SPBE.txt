@@ -1,0 +1,249 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: ARSITEKTUR KEAMANAN SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Badan Siber dan Sandi Negara (BSSN)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 17 Januari 2024
+
+---
+
+APA ITU PELATIHAN ARSITEKTUR KEAMANAN SPBE?
+Pelatihan Arsitektur Keamanan Sistem Pemerintahan Berbasis Elektronik (SPBE) dirancang untuk memberikan pemahaman dasar tentang Arsitektur Keamanan SPBE. Pelatihan ini mencakup prinsip keamanan SPBE, metode untuk menjamin prinsip keamanan SPBE, pemahaman domain arsitektur SPBE (termasuk domain proses bisnis, layanan, aplikasi, dan infrastruktur SPBE), serta pemahaman kerangka kerja arsitektur SPBE dan area keamanan SPBE yang diperlukan untuk mengembangkan program keamanan SPBE suatu Instansi Pemerintah. Di akhir pelatihan, peserta diharapkan mampu mengisi meta data Arsitektur Keamanan SPBE.
+
+---
+
+APA TUJUAN PELATIHAN ARSITEKTUR KEAMANAN SPBE?
+Peserta memiliki kompetensi untuk:
+1. Memahami Anatomi dan Prinsip Keamanan SPBE, meliputi:
+   a. Domain dan area keamanan dalam Arsitektur SPBE
+   b. Langkah strategis keamanan SPBE
+   c. Quick-wins keamanan dalam Arsitektur SPBE
+2. Memahami Arah Kebijakan Keamanan SPBE
+3. Mengisi Meta Data Arsitektur SPBE Domain Keamanan sebagai bagian dari Kerangka Arsitektur Keamanan SPBE
+
+---
+
+BERAPA DURASI PELATIHAN ARSITEKTUR KEAMANAN SPBE?
+Pelatihan berlangsung selama 30 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran asynchronous mandiri melalui LMS Kementerian Komdigi, dilanjutkan sesi synchronous bersama Pengajar melalui video conference.
+2. Full Offline (Luring): Pembelajaran klasikal tatap muka dengan Pengajar di lokasi yang telah ditentukan. Bahan pembelajaran, pre-test, presentasi, diskusi, studi kasus, post-test, dan penugasan dapat diakses melalui LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN ARSITEKTUR KEAMANAN SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN (Aparatur Sipil Negara) / Non-ASN yang bekerja di Instansi Pemerintahan Pusat, Daerah dan Desa, serta TNI dan Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3 di bidang Sistem Informasi / Teknik Informatika / Keamanan Informasi; ATAU pegawai yang melaksanakan tugas bidang pengelolaan Sistem Informasi / Teknologi Informasi / Keamanan Informasi di instansi; DAN/ATAU Jabatan Fungsional rumpun Kekomputeran.
+4. Administrasi: Mendapatkan Surat Penugasan dari Pejabat yang Berwenang.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 2 GB (4 GB direkomendasikan).
+3. Koneksi internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi ketentuan:
+1. Mengikuti pembelajaran (hadir live session untuk online / hadir di kelas untuk offline), terdiri dari 3 muatan utama pelatihan.
+2. Menyelesaikan Pre-test dan Post-test.
+3. Mengumpulkan penugasan harian yang tersedia pada LMS.
+4. Mengumpulkan penugasan yang diberikan oleh Pengajar (online/offline).
+5. Mengikuti Presentasi Tugas Akhir Pelatihan.
+
+Bobot komponen penilaian tidak dirinci secara eksplisit pada silabus ini.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 4 (empat) mata pelatihan:
+
+1. Building Learning Commitment (1 JP)
+   Materi:
+   - Pengenalan pelatihan
+   - Pengenalan peserta
+
+2. Anatomi dan Prinsip Keamanan SPBE (9 JP)
+   Materi:
+   - Prinsip Keamanan SPBE
+   - Gambaran / contoh untuk menjamin prinsip keamanan SPBE
+   - Kerangka Arsitektur SPBE:
+     a. Domain pada Arsitektur
+     b. Contoh pemetaan Proses Bisnis dan Layanan SPBE Instansi Pemerintah serta penentuan Aplikasi SPBE yang dapat mendukung layanan SPBE
+
+3. Arah Kebijakan Keamanan SPBE (10 JP)
+   Materi:
+   - Peraturan yang memiliki mandatory terkait penerapan / pelaksanaan Keamanan SPBE
+   - Domain dan area keamanan SPBE dalam Arsitektur SPBE
+   - Tantangan, urgensi, dan implementasi keamanan
+   - Skema Mikro Keamanan SPBE
+
+4. Kerangka Arsitektur Domain Keamanan SPBE (10 JP)
+   Materi:
+   - Kerangka arsitektur SPBE dan keterkaitan antar domain
+   - Domain dan Area Keamanan SPBE pada Arsitektur SPBE sampai dengan struktur referensi arsitektur domain keamanan SPBE:
+     a. Referensi dan Metadata Domain dan Area Keamanan SPBE pada Arsitektur SPBE
+     b. Meta Data Arsitektur Keamanan SPBE
+   - Pengisian Meta Data Arsitektur SPBE Domain Keamanan
+
+Evaluasi:
+   - Mengerjakan Pre-Test dan Post-Test
+   - Presentasi Pengisian Meta Data Arsitektur SPBE Domain Keamanan
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Persiapan, Pembukaan, Pre-Test
+- 08:45–09:30 : Building Learning Commitment (1 JP) – Tatap Muka
+- 09:30–10:15 : Anatomi dan Prinsip Keamanan SPBE (1 JP) – Tatap Muka
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Anatomi dan Prinsip Keamanan SPBE (2 JP) – Tatap Muka
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Anatomi dan Prinsip Keamanan SPBE (2 JP) – Tatap Muka
+- 14:30–14:45 : Istirahat
+- 14:45–16:15 : Anatomi dan Prinsip Keamanan SPBE (2 JP) – Tatap Muka
+
+Hari 2:
+- 08:00–09:30 : Anatomi dan Prinsip Keamanan SPBE (2 JP) – Tatap Muka
+- 09:30–10:15 : Arah Kebijakan Keamanan SPBE (1 JP) – Tatap Muka
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Arah Kebijakan Keamanan SPBE (2 JP) – Tatap Muka
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Arah Kebijakan Keamanan SPBE (2 JP) – Tatap Muka
+- 14:30–14:45 : Istirahat
+- 14:45–16:15 : Arah Kebijakan Keamanan SPBE (2 JP) – Tatap Muka
+
+Hari 3:
+- 08:00–10:15 : Arah Kebijakan Keamanan SPBE (3 JP) – Tatap Muka
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Kerangka Arsitektur Keamanan SPBE (2 JP) – Tatap Muka
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Kerangka Arsitektur Keamanan SPBE (2 JP) – Tatap Muka
+- 14:30–14:45 : Istirahat
+- 14:45–16:15 : Kerangka Arsitektur Keamanan SPBE (2 JP) – Tatap Muka
+
+Hari 4:
+- 08:00–10:15 : Kerangka Arsitektur Keamanan SPBE (3 JP) – Tatap Muka
+- 10:15–10:30 : Istirahat
+- 10:30–11:15 : Kerangka Arsitektur Keamanan SPBE (1 JP) – Tatap Muka
+- 11:15–12:00 : Evaluasi, Penutupan, dan Post-Test
+
+TOTAL JP TATAP MUKA: 30 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Persiapan dan Pembukaan, Pre-Test
+- 08:45–09:30 : Building Learning Commitment (1 JP) – Synchronous
+- 08:45–10:15 : Anatomi dan Prinsip Keamanan SPBE (1 JP) – Synchronous
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Anatomi dan Prinsip Keamanan SPBE (2 JP) – Synchronous
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Anatomi dan Prinsip Keamanan SPBE (3 JP) – Synchronous
+- 15:15–17:30 : Anatomi dan Prinsip Keamanan SPBE (3 JP) – Asynchronous
+
+Hari 2:
+- 08:00–10:15 : Arah Kebijakan Keamanan SPBE (3 JP) – Synchronous
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Arah Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Arah Kebijakan Keamanan SPBE (1 JP) – Synchronous
+- 13:45–15:15 : Arah Kebijakan Keamanan SPBE (2 JP) – Synchronous
+- 15:15–15:30 : Istirahat
+- 15:30–17:00 : Arah Kebijakan Keamanan SPBE (2 JP) – Asynchronous
+
+Hari 3:
+- 08:00–10:15 : Kerangka Arsitektur Keamanan SPBE (3 JP) – Synchronous
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Kerangka Arsitektur Keamanan SPBE (2 JP) – Synchronous
+- 12:00–12:45 : Kerangka Arsitektur Keamanan SPBE (1 JP) – Asynchronous
+
+Hari 4:
+- 08:00–10:15 : Kerangka Arsitektur Keamanan SPBE (3 JP) – Synchronous
+- 10:15–10:30 : Istirahat
+- 10:30–11:15 : Kerangka Arsitektur Keamanan SPBE (1 JP) – Synchronous
+- 11:15–12:00 : Post-Test, Evaluasi, dan Penutupan
+
+TOTAL JP SYNCHRONOUS  : 24 JP
+TOTAL JP ASYNCHRONOUS : 6 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+Arsitektur SPBE
+Kerangka dasar yang mendeskripsikan integrasi proses bisnis, data dan informasi, aplikasi, infrastruktur, dan keamanan SPBE untuk menghasilkan layanan SPBE.
+
+Domain Keamanan SPBE
+Salah satu dari enam domain dalam Arsitektur SPBE yang mencakup aspek-aspek perlindungan dan pengamanan sistem pemerintahan berbasis elektronik.
+
+Meta Data Arsitektur Keamanan SPBE
+Data yang mendeskripsikan elemen-elemen dalam domain keamanan SPBE yang digunakan sebagai referensi dalam penyusunan arsitektur keamanan instansi pemerintah.
+
+Quick-wins Keamanan SPBE
+Langkah-langkah keamanan yang dapat diimplementasikan dalam waktu singkat untuk memberikan dampak nyata pada peningkatan keamanan SPBE instansi.
+
+Skema Mikro Keamanan SPBE
+Rincian implementasi keamanan pada level teknis dan operasional dalam sistem pemerintahan berbasis elektronik.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab atas keamanan siber dan sandi negara, sekaligus menjadi mitra pelatihan dalam program ini.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran online, digunakan dalam pelatihan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Arsitektur_Keamanan_SPBE
+========================================

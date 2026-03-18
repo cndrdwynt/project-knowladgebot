@@ -1,0 +1,262 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: FASILITATOR PEMBELAJARAN DIGITAL (FPD)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : - (tidak ada mitra eksternal)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL?
+Pelatihan Fasilitator Pembelajaran Digital (FPD) dirancang untuk membekali peserta dengan keterampilan menggunakan aplikasi dalam pengelolaan kelas online, mengelola aktivitas pembelajaran yang interaktif, dan membuat asesmen online dalam proses pembelajaran.
+
+---
+
+APA TUJUAN PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL?
+Peserta memiliki kemampuan dalam memfasilitasi pembelajaran digital, yang diindikasikan dengan kemampuan:
+1. Menggunakan aplikasi pengelolaan kelas online.
+2. Mengelola aktivitas pembelajaran yang interaktif.
+3. Membuat asesmen online.
+
+---
+
+BERAPA DURASI PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL?
+Pelatihan berlangsung selama 36 JP (4 hari), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online: Peserta mengikuti aktivitas pembelajaran secara synchronous bersama Pengajar melalui live session menggunakan aplikasi video conference. Selain itu, peserta dapat mempelajari materi secara mandiri melalui LMS Kementerian Komunikasi dan Informatika.
+2. Full Offline: Pembelajaran dilakukan secara klasikal melalui pertemuan tatap muka dengan Pengajar di lokasi yang telah ditentukan. Bahan pembelajaran dapat diakses melalui LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN FASILITATOR PEMBELAJARAN DIGITAL?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN yang bertugas di instansi pemerintahan yang menangani atau terkait dengan pembelajaran terhadap peserta didik atau pelatihan.
+2. Pendidikan: Minimal D2.
+3. Pengalaman: Diutamakan memiliki pengalaman mengajar minimal 1 tahun.
+4. Sanggup menyediakan perangkat pelatihan sesuai persyaratan sarana.
+
+Catatan: Pelatihan ini khusus diperuntukkan bagi ASN yang memiliki fungsi mengajar/melatih, bukan untuk semua ASN umum.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Windows atau macOS.
+2. RAM minimal 4 GB.
+3. Web browser: Google Chrome.
+4. Terinstall aplikasi Zoom dan dapat melakukan browsing dengan lancar.
+5. Koneksi internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan LULUS dan berhak mendapatkan Certificate of Completion jika memenuhi:
+1. Mengikuti seluruh rangkaian pembelajaran yang terdiri atas 3 mata pelatihan:
+   a. Full Online: live session sebanyak 25 JP (@45 menit) dan 11 JP sesi belajar mandiri (self-paced learning).
+   b. Full Offline: tatap muka di kelas sebanyak 36 JP.
+2. Ketidakhadiran:
+   - Kelas Online: tidak lebih dari 3 JP dari total 25 JP synchronous.
+   - Kelas Offline: tidak lebih dari 4 JP dari total 36 JP.
+3. Menyelesaikan pre-test dan post-test sesuai batas waktu yang ditentukan.
+4. Mengerjakan dan mengumpulkan tugas sesuai dengan kriteria dan batas waktu yang ditentukan.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 3 mata pelatihan:
+
+1. Pengelolaan Kelas Online (12 JP)
+   Materi:
+   1.1. Konsep Pembelajaran Digital
+   1.2. Aplikasi Kelas Online
+   1.3. Aplikasi Penyimpanan Dokumen
+   1.4. Aplikasi Presensi Online
+
+2. Pengelolaan Aktivitas Pembelajaran Interaktif (18 JP)
+   Materi:
+   2.1. Konsep Pembelajaran Interaktif
+   2.2. Smart Presentation
+   2.3. Video Pembelajaran
+   2.4. Game Pembelajaran
+   2.5. Publikasi Bahan Pembelajaran
+
+3. Pembuatan Asesmen Pembelajaran Online (4 JP)
+   Materi:
+   3.1. Konsep Asesmen Pembelajaran
+   3.2. Aplikasi Asesmen Online
+
+Tambahan:
+   - Pembukaan dan Pre-Test (1 JP)
+   - Post-Test dan Penutupan (1 JP)
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Live Session – ceramah interaktif (Synchronous)
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Pembukaan, Pengarahan Program, dan Pre-Test (1 JP) – Penyelenggara
+- 08:45–10:15 : Pembelajaran Mandiri (2 JP)
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Pengelolaan Aplikasi Kelas Online – Aplikasi Kelas Online (2 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–14:30 : Pengelolaan Aplikasi Kelas Online – Aplikasi Penyimpanan Dokumen (2 JP) – Pengajar
+- 14:30–15:15 : Pembelajaran Mandiri (1 JP)
+- 15:15–15:30 : Istirahat
+- 15:30–17:00 : Pembelajaran Mandiri (2 JP)
+
+Hari 2:
+- 08:00–08:45 : Pembelajaran Mandiri (1 JP)
+- 08:45–10:15 : Pengelolaan Aplikasi Kelas Online – Aplikasi Presensi Online (2 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Pengelolaan Aktivitas Pembelajaran Interaktif – Smart Presentation (2 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–14:30 : Lanjutan Smart Presentation (2 JP) – Pengajar
+- 14:30–15:15 : Pembelajaran Mandiri (1 JP)
+- 15:15–15:30 : Istirahat
+- 15:30–16:15 : Pembelajaran Mandiri (1 JP)
+
+Hari 3:
+- 08:00–10:15 : Pengelolaan Aktivitas Pembelajaran Interaktif – Video Pembelajaran (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–11:15 : Lanjutan Video Pembelajaran (1 JP) – Pengajar
+- 11:15–12:00 : Game Pembelajaran (1 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Game Pembelajaran (3 JP) – Pengajar
+- 15:15–15:30 : Istirahat
+- 15:30–17:00 : Pembelajaran Mandiri (2 JP)
+
+Hari 4:
+- 07:15–08:00 : Pembelajaran Mandiri (1 JP)
+- 08:00–09:30 : Pengelolaan Aktivitas Pembelajaran Interaktif – Publikasi Bahan Pembelajaran (2 JP) – Pengajar
+- 09:30–10:15 : Pembuatan Asesmen Pembelajaran Online – Aplikasi Asesmen (1 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Lanjutan Aplikasi Asesmen (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Post-Test dan Penutupan (1 JP) – Penyelenggara
+
+TOTAL JP ONLINE (SYNCHRONOUS) : 25 JP (23 JP untuk Pengajar)
+TOTAL JP MANDIRI (ASYNCHRONOUS) : 11 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (TATAP MUKA, HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Pembukaan dan Pre-Test (1 JP) – Penyelenggara
+- 08:45–09:30 : Pengelolaan Aplikasi Kelas Online – Konsep Pembelajaran Digital (1 JP) – Pengajar
+- 09:45–10:15 : Pengelolaan Aplikasi Kelas Online – Aplikasi Kelas Online (1 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Pengelolaan Aplikasi Kelas Online – Aplikasi Kelas Online (2 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–13:45 : Pengelolaan Aplikasi Kelas Online – Aplikasi Kelas Online (1 JP) – Pengajar
+- 13:45–15:15 : Pengelolaan Aplikasi Kelas Online – Aplikasi Penyimpanan Dokumen (2 JP) – Pengajar
+- 15:15–15:30 : Istirahat
+- 15:30–17:00 : Pengelolaan Aplikasi Kelas Online – Aplikasi Penyimpanan Dokumen (2 JP) – Pengajar
+
+Hari 2:
+- 08:00–10:15 : Pengelolaan Aplikasi Kelas Online – Aplikasi Presensi Online (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–11:15 : Pengelolaan Aktivitas Pembelajaran Interaktif – Konsep Pembelajaran Interaktif (1 JP) – Pengajar
+- 11:15–12:00 : Pengelolaan Aktivitas Pembelajaran Interaktif – Smart Presentation (1 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Pengelolaan Aktivitas Pembelajaran Interaktif – Smart Presentation (3 JP) – Pengajar
+- 15:15–15:30 : Istirahat
+- 15:30–16:15 : Pengelolaan Aktivitas Pembelajaran Interaktif – Smart Presentation (1 JP) – Pengajar
+
+Hari 3:
+- 08:00–10:15 : Pengelolaan Aktivitas Pembelajaran Interaktif – Video Pembelajaran (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Pengelolaan Aktivitas Pembelajaran Interaktif – Video Pembelajaran (2 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Pengelolaan Aktivitas Pembelajaran Interaktif – Game Pembelajaran (3 JP) – Pengajar
+- 15:15–15:30 : Istirahat
+- 15:30–17:00 : Pengelolaan Aktivitas Pembelajaran Interaktif – Game Pembelajaran (2 JP) – Pengajar
+
+Hari 4:
+- 08:00–09:30 : Pengelolaan Aktivitas Pembelajaran Interaktif – Publikasi Bahan Pembelajaran (2 JP) – Pengajar
+- 09:30–10:15 : Pembuatan Asesmen Online – Konsep Asesmen Pembelajaran (2 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Pembuatan Asesmen Pembelajaran Online – Aplikasi Asesmen (2 JP) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–13:45 : Pembuatan Asesmen Pembelajaran Online – Aplikasi Asesmen (1 JP) – Pengajar
+- 13:45–14:30 : Post-Test dan Penutupan (1 JP) – Penyelenggara
+
+TOTAL JP OFFLINE (TATAP MUKA): 36 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Fasilitator Pembelajaran Digital
+Tenaga pendidik atau pelatih yang menggunakan teknologi digital untuk mengelola, memfasilitasi, dan meningkatkan kualitas proses pembelajaran.
+
+Aplikasi Kelas Online
+Perangkat lunak berbasis web atau cloud yang digunakan untuk mengelola ruang kelas virtual, seperti Google Classroom atau platform LMS.
+
+Aplikasi Penyimpanan Dokumen
+Layanan penyimpanan berbasis cloud untuk berbagi dan mengelola dokumen pembelajaran, seperti Google Drive.
+
+Aplikasi Presensi Online
+Aplikasi digital untuk mencatat dan mengelola kehadiran peserta didik secara online.
+
+Smart Presentation
+Presentasi interaktif yang mengintegrasikan elemen-elemen digital seperti polling, kuis, dan animasi untuk meningkatkan keterlibatan audiens.
+
+Video Pembelajaran
+Konten video yang dirancang khusus untuk tujuan pendidikan, dapat berupa rekaman langsung, animasi, atau screen recording.
+
+Game Pembelajaran (Gamification)
+Penerapan elemen-elemen permainan (poin, level, tantangan) dalam konteks pembelajaran untuk meningkatkan motivasi dan keterlibatan peserta didik.
+
+Publikasi Bahan Pembelajaran
+Proses mempublikasikan materi pembelajaran dalam format digital agar dapat diakses secara online oleh peserta didik.
+
+Asesmen Online
+Proses evaluasi dan penilaian hasil belajar yang dilakukan secara digital melalui platform atau aplikasi tertentu.
+
+Self-Paced Learning
+Metode pembelajaran mandiri di mana peserta belajar sesuai kecepatan dan waktu yang mereka tentukan sendiri.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Fasilitator_Pembelajaran_Digital
+========================================

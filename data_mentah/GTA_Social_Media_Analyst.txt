@@ -1,0 +1,294 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: SOCIAL MEDIA ANALYST
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN SOCIAL MEDIA ANALYST?
+Pelatihan Social Media Analyst membekali peserta dengan keterampilan dalam melakukan analisis media sosial menggunakan tools sesuai kebutuhan dan menyusun rekomendasi hasil analisis media sosial. Pelatihan ini berfokus pada kemampuan praktis menganalisis data media sosial untuk mendukung kehumasan dan komunikasi publik di lingkungan pemerintahan.
+
+Output yang dihasilkan peserta mencakup:
+- Pemahaman tentang dasar-dasar analisis media sosial.
+- Rencana analisis media sosial yang terstruktur.
+- Hasil analisis media sosial menggunakan tools yang sesuai.
+- Laporan hasil analisis beserta rekomendasi/executive summary.
+- Pemahaman best practice analisis media sosial untuk kehumasan dan komunikasi publik.
+
+---
+
+APA TUJUAN PELATIHAN SOCIAL MEDIA ANALYST?
+1. Memahami dasar-dasar analisis media sosial (3 JP).
+2. Menyusun rencana analisis media sosial (3 JP).
+3. Melaksanakan analisis media sosial (12 JP).
+4. Menyusun laporan hasil analisis media sosial (6 JP).
+5. Memahami best practice analisis media sosial untuk kehumasan dan komunikasi publik (2 JP).
+
+---
+
+BERAPA DURASI PELATIHAN SOCIAL MEDIA ANALYST?
+Pelatihan berlangsung selama 26 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+CATATAN: Durasi pelatihan ini adalah 26 JP, lebih singkat dibanding sebagian besar pelatihan GTA lainnya yang umumnya 35–40 JP.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam tiga metode:
+1. Full Online (Daring): Diawali pembelajaran secara online asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, dilanjutkan pembelajaran secara online synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+3. Self-Paced Learning (SPL): Pembelajaran dilaksanakan secara mandiri dengan mengakses bahan pembelajaran yang ada di LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN SOCIAL MEDIA ANALYST?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 45 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan tidak sedang menjalani pendidikan.
+6. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+CATATAN KHUSUS: Batas usia pelatihan ini adalah maksimal **45 tahun**, lebih muda dibanding sebagian besar pelatihan GTA lainnya yang umumnya maksimal 53 tahun.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Ruang penyimpanan kosong minimal 1,5 GB.
+4. Resolusi layar minimal 1024x768.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk full online / hadir di kelas untuk full offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+Untuk metode Self-Paced Learning (SPL):
+Ketentuan kelulusan mengacu kepada informasi di LMS.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 5 mata pelatihan dengan total 26 JP:
+
+1. Dasar-dasar Analisis Media Sosial (3 JP)
+   Materi:
+   - Platform media sosial
+   - Konsep dasar analisis media sosial
+   - Tools analisis media sosial
+   Output: Pemahaman tentang dasar analisis media sosial
+
+2. Rencana Analisis Media Sosial (3 JP)
+   Materi:
+   - Pemilihan topik analisis media sosial berdasarkan hasil monitoring isu dan opini publik yang trending
+   - Penetapan tujuan analisis
+   - Identifikasi sumber data di media sosial
+   - Penentuan teknik analisis
+   - Penentuan metode analisis
+   - Penentuan tools analisis media sosial
+   Output: Rencana analisis media sosial
+
+3. Analisis Media Sosial (12 JP)
+   Materi:
+   - Crawling/scrapping data
+   - Data cleaning
+   - Analisis data
+   Output: Hasil analisis media sosial
+
+4. Laporan Hasil Analisis Media Sosial (6 JP)
+   Materi:
+   - Visualisasi data hasil analisis
+   - Interpretasi hasil analisis data
+   - Penyusunan laporan hasil analisis media sosial
+   - Presentasi hasil laporan dan rekomendasi yang telah disusun (Seminar Tugas Akhir)
+   Output: Rekomendasi hasil analisis/Executive summary (sesuai template standar)
+
+5. Best Practice Analisis Media Sosial untuk Kehumasan dan Komunikasi Publik (2 JP)
+   Materi:
+   - Analisis media sosial untuk kepentingan kehumasan dan komunikasi publik
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+9. Learning Feedback
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING (3 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 08.00 – 08.15 : Pembukaan
+- 08.15 – 08.45 : Pengarahan Program dan Pre-Test
+- 08.45 – 10.30 : Dasar-dasar Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 10.30 – 10.45 : Break
+- 10.45 – 11.30 : Dasar-dasar Analisis Media Sosial (1 JP) – Sinkronus, Live Classroom
+- 11.30 – 12.15 : Rencana Analisis Media Sosial (1 JP) – Sinkronus, Live Classroom
+- 12.15 – 13.15 : Break
+- 13.15 – 14.45 : Rencana Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 14.45 – 15.00 : Break
+- 15.00 – 16.30 : Best Practice Analisis Media Sosial untuk Kehumasan dan Komunikasi Publik (2 JP) – Sinkronus, Live Classroom
+
+Hari Kedua:
+- 08.00 – 10.15 : Analisis Media Sosial (3 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 12.00 – 13.00 : Break
+- 13.00 – 14.30 : Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 14.30 – 14.45 : Break
+- 14.45 – 16.15 : Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+
+Hari Ketiga:
+- 08.00 – 10.15 : Analisis Media Sosial (3 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.45 : Break
+- 10.45 – 12.15 : Laporan Hasil Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 12.15 – 13.15 : Break
+- 13.15 – 15.30 : Laporan Hasil Analisis Media Sosial (3 JP) – Sinkronus, Live Classroom
+- 15.30 – 15.45 : Break
+- 15.45 – 16.30 : Laporan Hasil Analisis Media Sosial (1 JP) – Sinkronus, Live Classroom
+- 16.30 – 17.00 : Penutupan dan Post-Test
+
+TOTAL JP: 26 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING (5 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 08.00 – 08.15 : Pembukaan
+- 08.15 – 08.45 : Pengarahan Program dan Pre-Test
+- 08.45 – 10.15 : Dasar-dasar Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Best Practice Analisis Media Sosial untuk Kehumasan dan Komunikasi Publik (2 JP) – Sinkronus, Live Classroom
+
+Hari Kedua:
+- 08.00 – 08.45 : Dasar-dasar Analisis Media Sosial (1 JP) – Sinkronus, Live Classroom
+- 08.45 – 10.15 : Rencana Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Rencana Analisis Media Sosial (1 JP) – Sinkronus, Live Classroom
+
+Hari Ketiga:
+- 08.00 – 10.15 : Analisis Media Sosial (3 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Analisis Media Sosial (2 JP) – Asinkronus, Self Learning
+
+Hari Keempat:
+- 08.00 – 10.15 : Analisis Media Sosial (3 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Laporan Hasil Analisis Media Sosial (1 JP) – Asinkronus, Self Learning
+
+Hari Kelima:
+- 08.00 – 10.15 : Laporan Hasil Analisis Media Sosial (3 JP) – Sinkronus, Live Classroom
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Laporan Hasil Analisis Media Sosial (2 JP) – Sinkronus, Live Classroom
+- 11.15 – 12.00 : Penutupan dan Post-Test
+
+TOTAL JP: 26 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Social Media Analyst
+Profesi atau peran yang bertanggung jawab untuk mengumpulkan, menganalisis, dan menginterpretasikan data dari platform media sosial guna menghasilkan wawasan yang dapat digunakan untuk pengambilan keputusan.
+
+Analisis Media Sosial
+Proses pengumpulan dan evaluasi data dari platform media sosial untuk memahami tren, sentimen publik, dan pola perilaku pengguna.
+
+Platform Media Sosial
+Aplikasi berbasis internet yang memungkinkan pengguna membuat, berbagi, dan berinteraksi melalui konten digital, seperti Twitter/X, Instagram, Facebook, TikTok, dan YouTube.
+
+Crawling / Scrapping Data
+Proses otomatis untuk mengumpulkan data dalam jumlah besar dari platform media sosial menggunakan perangkat lunak atau skrip khusus.
+
+Data Cleaning
+Proses pembersihan data hasil crawling dari kesalahan, duplikasi, format yang tidak konsisten, atau informasi yang tidak relevan sebelum dilakukan analisis.
+
+Analisis Sentimen
+Teknik analisis teks untuk mengidentifikasi dan mengklasifikasikan opini atau perasaan yang terkandung dalam konten media sosial, seperti positif, negatif, atau netral.
+
+Visualisasi Data
+Representasi grafis dari data analisis media sosial menggunakan grafik, diagram, peta kata (word cloud), atau infografis untuk memudahkan interpretasi.
+
+Executive Summary
+Ringkasan eksekutif yang memuat poin-poin utama hasil analisis media sosial dan rekomendasi yang ditujukan kepada pimpinan atau pemangku kepentingan.
+
+Monitoring Isu
+Kegiatan pemantauan secara berkelanjutan terhadap topik, tren, atau isu yang berkembang di media sosial untuk mendukung pengambilan keputusan.
+
+Opini Publik
+Pandangan atau sikap kolektif masyarakat terhadap suatu isu atau topik tertentu yang tercermin melalui konten dan interaksi di media sosial.
+
+Kehumasan (Public Relations)
+Fungsi manajemen yang bertugas membangun dan memelihara hubungan yang baik antara organisasi dengan publiknya melalui berbagai strategi komunikasi.
+
+Tools Analisis Media Sosial
+Perangkat lunak atau aplikasi yang digunakan untuk mengumpulkan, mengolah, dan menganalisis data media sosial, seperti Brandwatch, Hootsuite Insights, Mention, atau Netlytic.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+SPL (Self-Paced Learning)
+Metode pembelajaran mandiri di mana peserta belajar sesuai kecepatan masing-masing melalui materi yang tersedia di LMS.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Social_Media_Analyst
+========================================

@@ -1,0 +1,275 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: PEMANFAATAN AI DI PEMERINTAHAN
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN PEMANFAATAN AI DI PEMERINTAHAN?
+Pelatihan Pemanfaatan AI di Pemerintahan bertujuan untuk meningkatkan kompetensi bagi setiap ASN dalam pemanfaatan Artificial Intelligence (AI) guna mendukung tugas dan kebutuhan pekerjaan sehari-hari dalam mendukung tujuan organisasi. Melalui pelatihan ini, peserta akan memperoleh wawasan teoritis serta praktis mengenai konsep AI, penerapan AI, serta etika penggunaan AI.
+
+Output yang dihasilkan peserta mencakup:
+- Memahami konsep, perkembangan, dan jenis-jenis Artificial Intelligence.
+- Memahami aturan, batasan, dan etika penggunaan AI.
+- Menerapkan berbagai tools AI dalam pekerjaan sehari-hari di lingkungan pemerintahan.
+
+---
+
+APA TUJUAN PELATIHAN PEMANFAATAN AI DI PEMERINTAHAN?
+1. Memahami dan menjelaskan apa itu Artificial Intelligence.
+2. Memahami dan menjelaskan perkembangan Artificial Intelligence dari waktu ke waktu.
+3. Memahami dan menjelaskan macam jenis Artificial Intelligence.
+4. Memahami dan menjelaskan aturan yang berlaku terkait Artificial Intelligence.
+5. Memahami dan menjelaskan batasan penerapan Artificial Intelligence.
+6. Memahami dan menjelaskan etika penggunaan Artificial Intelligence.
+7. Menerapkan penggunaan AI Chatbots dalam mendukung pekerjaan sehari-hari.
+8. Menerapkan penggunaan AI dalam kegiatan penjadwalan dan pengelolaan beban pekerjaan.
+9. Menerapkan penggunaan AI dalam proses pembentukan teks dan penyuntingan teks.
+10. Menerapkan penggunaan AI dalam mendukung penyelenggaraan meeting dan translasi teks saat meeting.
+11. Menerapkan penggunaan AI dalam keperluan riset maupun penulisan ilmiah.
+12. Menerapkan penggunaan AI dalam proses pembentukan gambar, suara, dan video.
+13. Menerapkan penggunaan AI dalam proses pembentukan dan penyuntingan slide presentasi.
+
+---
+
+BERAPA DURASI PELATIHAN PEMANFAATAN AI DI PEMERINTAHAN?
+Pelatihan berlangsung selama 32 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran secara online asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, dilanjutkan pembelajaran secara online synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN PEMANFAATAN AI DI PEMERINTAHAN?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan tidak sedang menjalani pendidikan.
+6. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Terinstall aplikasi video conference (Zoom, Webex).
+4. Terinstall web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, atau sejenisnya.
+5. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk full online / hadir di kelas untuk full offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 3 mata pelatihan dengan total 32 JP:
+
+1. Konsep Artificial Intelligence (6 JP)
+   Materi:
+   - Apa itu Artificial Intelligence
+   - Perkembangan Artificial Intelligence dari waktu ke waktu
+   - Macam Jenis Artificial Intelligence
+
+2. Etika Artificial Intelligence (2 JP)
+   Materi:
+   - Aturan yang berlaku terkait Artificial Intelligence
+   - Batasan penerapan Artificial Intelligence
+   - Etika Penggunaan Artificial Intelligence
+
+3. Penerapan Artificial Intelligence (24 JP)
+   Materi:
+   - AI Chatbots
+   - AI for Image, Audio, Video, Decks Generation
+   - AI for Research
+   - AI for Task Management and Scheduling
+   - AI for Transcript and Meeting Assistant
+   - AI for Writing and Editing
+
+Exam:
+   - Pre-Test dan Post-Test : Mengerjakan pada LMS
+   - Penugasan              : Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING (4 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan (Panitia)
+- 08.45 – 09.30 : Pre-Test – Asynchronous (LMS), Peserta
+- 09.30 – 10.15 : Konsep Artificial Intelligence (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Konsep Artificial Intelligence – Lanjutan (2 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Etika Artificial Intelligence (2 JP) – Synchronous, Pengajar
+- 14.30 – 16.45 : Pendalaman Materi & Tugas (3 JP) – Asynchronous, Peserta
+
+Hari Kedua:
+- 08.00 – 10.15 : Penerapan AI – AI Chatbots (3 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Penerapan AI – AI for Task Management and Scheduling (2 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 16.45 : Pendalaman Materi & Tugas (5 JP) – Asynchronous, Peserta
+
+Hari Ketiga:
+- 08.00 – 10.15 : Penerapan AI – AI for Transcription Apps and Meeting Assistant (3 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Penerapan AI – AI for Writing and Research (2 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 16.00 : Pendalaman Materi & Tugas (4 JP) – Asynchronous, Peserta
+
+Hari Keempat:
+- 08.00 – 10.15 : Penerapan AI – AI for Image, Audio, Video Generation (3 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Penerapan AI – AI for Presentation and Slide Decks (2 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Penutupan (Panitia)
+- 13.45 – 14.30 : Post-Test – Asynchronous (LMS), Peserta
+
+TOTAL JP SYNCHRONOUS (Kelas Virtual) : 20 JP
+TOTAL JP ASYNCHRONOUS (Mandiri)      : 12 JP
+TOTAL JP                              : 32 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING (4 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 07.30 – 08.45 : Pembukaan dan Pengarahan Program (Panitia)
+- 08.45 – 09.30 : Pre-Test (Pengajar)
+- 09.30 – 10.15 : Konsep AI – Pengertian AI (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Konsep AI – Perkembangan AI dari Waktu ke Waktu (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konsep AI – Jenis-jenis AI (3 JP) – Pengajar
+- 15.15 – 15.30 : Break
+- 15.30 – 17.00 : Etika Artificial Intelligence (2 JP) – Pengajar
+
+Hari Kedua:
+- 08.00 – 10.15 : Penerapan AI – AI Chatbots (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Penerapan AI – AI Chatbots – Lanjutan (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Penerapan AI – AI for Task Management and Scheduling (3 JP) – Pengajar
+- 15.15 – 15.30 : Break
+
+Hari Ketiga:
+- 08.00 – 10.15 : Penerapan AI – AI for Writing and Editing (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Penerapan AI – AI for Transcription Apps and Meeting (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Penerapan AI – AI for Research (3 JP) – Pengajar
+- 15.15 – 15.30 : Break
+
+Hari Keempat:
+- 08.00 – 10.15 : Penerapan AI – AI for Image, Audio, and Video Generation (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Penerapan AI – AI for Image, Audio, and Video Generation – Lanjutan (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Penerapan AI – AI for Presentation and Decks (3 JP) – Pengajar
+- 15.15 – 16.00 : Post-Test (Penyelenggara)
+- 16.00 – 16.30 : Penutupan (Penyelenggara)
+
+TOTAL JP: 32 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Artificial Intelligence (AI)
+Kecerdasan buatan yang memungkinkan mesin untuk meniru kemampuan kognitif manusia seperti belajar, memecahkan masalah, dan pengambilan keputusan.
+
+AI Chatbots
+Program berbasis AI yang dapat berkomunikasi dengan manusia melalui teks atau suara, seperti ChatGPT, Gemini, Copilot, dan sejenisnya.
+
+AI for Task Management and Scheduling
+Penggunaan AI untuk membantu pengelolaan tugas, prioritas pekerjaan, dan penjadwalan kegiatan secara otomatis dan efisien.
+
+AI for Writing and Editing
+Penggunaan AI untuk membantu proses penulisan, penyuntingan, dan penyempurnaan dokumen teks.
+
+AI for Transcription Apps and Meeting Assistant
+Penggunaan AI untuk mentranskripsikan percakapan dalam rapat, menghasilkan ringkasan rapat, dan membantu translasi teks secara otomatis.
+
+AI for Research
+Penggunaan AI untuk mendukung kegiatan riset, pencarian informasi, analisis literatur, dan penulisan ilmiah.
+
+AI for Image, Audio, Video Generation
+Penggunaan AI untuk menghasilkan atau memodifikasi konten visual, audio, dan video secara otomatis berbasis perintah teks (prompt).
+
+AI for Presentation and Slide Decks
+Penggunaan AI untuk membuat, mendesain, dan menyempurnakan slide presentasi secara otomatis.
+
+Etika AI
+Prinsip-prinsip moral yang mengatur pengembangan dan penggunaan AI secara bertanggung jawab, mencakup keadilan, transparansi, privasi, dan akuntabilitas.
+
+Prompt
+Instruksi atau perintah teks yang diberikan kepada sistem AI untuk menghasilkan output yang diinginkan.
+
+LLM (Large Language Model)
+Model bahasa berskala besar yang dilatih dengan data teks dalam jumlah besar untuk memahami dan menghasilkan teks seperti manusia.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Pemanfaatan_AI_di_Pemerintahan
+========================================

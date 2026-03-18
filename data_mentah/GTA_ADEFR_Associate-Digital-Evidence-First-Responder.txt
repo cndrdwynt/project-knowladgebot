@@ -1,0 +1,292 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: ASSOCIATE DIGITAL EVIDENCE FIRST RESPONDER (ADEFR)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Badan Siber dan Sandi Negara (BSSN)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 22 Januari 2025
+
+---
+
+APA ITU PELATIHAN ASSOCIATE DIGITAL EVIDENCE FIRST RESPONDER (ADEFR)?
+Pelatihan ini menyiapkan peserta agar kompeten dalam melaksanakan pekerjaan Penanganan Pertama Bukti Elektronik untuk mengidentifikasi, mengoleksi, mengakuisisi, dan mempreservasi bukti elektronik.
+
+---
+
+APA TUJUAN PELATIHAN ADEFR?
+Mampu mengidentifikasi, mengoleksi, mengakuisisi, dan mempreservasi bukti elektronik sehingga bukti elektronik dapat dilakukan proses lebih lanjut mulai dari pemeriksaan forensik digital sampai dengan digunakan untuk pembuktian.
+
+---
+
+BERAPA DURASI PELATIHAN ADEFR?
+Pelatihan berlangsung selama 24 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+- Metode Online  : 5 hari pelaksanaan
+- Metode Offline : 3 hari pelaksanaan
+
+CATATAN: Durasi pelatihan ini adalah 24 JP, lebih singkat dibanding sebagian besar pelatihan GTA lainnya yang umumnya 40–50 JP.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN ADEFR?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Pembelajaran diawali secara online asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, kemudian dilanjutkan online synchronous (tatap muka virtual) bersama Pengajar melalui aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous (tatap muka) bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN ADEFR?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan minimal D3 program studi Teknik Informatika / Sistem Informasi / Ilmu Komputer.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+
+CATATAN KHUSUS: Pelatihan ADEFR mensyaratkan jurusan pendidikan yang spesifik (Teknik Informatika / Sistem Informasi / Ilmu Komputer), tidak seperti kebanyakan pelatihan GTA lain yang tidak mensyaratkan jurusan tertentu.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA ADEFR?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. Processor 32/64-bit.
+3. RAM sebesar 8 GB.
+4. Media penyimpanan minimal 256 GB.
+5. Koneksi jaringan internet yang stabil (dedicated 256 kbps).
+
+CATATAN: Pelatihan ADEFR mensyaratkan media penyimpanan minimal 256 GB, lebih besar dibanding pelatihan GTA lainnya.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN ADEFR?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+Evaluasi Akhir: Post Test / Soal Kasus ADEFR (2 JP)
+
+---
+
+KAPAN JADWAL PELATIHAN ADEFR?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Oktober 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+CATATAN: Jadwal pelatihan ini berakhir lebih awal (Oktober 2025) dibanding sebagian besar pelatihan GTA lainnya yang umumnya berlangsung hingga Desember 2025.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN ADEFR?
+Pelatihan terdiri dari 12 mata pelatihan + evaluasi dengan total 24 JP:
+
+1. Pembukaan dan Penjelasan Rencana Pembelajaran (0,5 JP)
+
+2. Menguasai Konsep Dasar Digital Evidence atau Bukti Elektronik (1 JP)
+
+3. Menguasai Konsep Dasar dari Proses Digital Forensics (1 JP)
+
+4. Mempersiapkan Penanganan Pertama Bukti Elektronik – J.62FDG00.001.1 (1,5 JP)
+   Materi:
+   - Mengumpulkan informasi insiden dan alat bantu
+   - Mempersiapkan penanganan insiden secara seketika
+   - Mempersiapkan pelaksanaan tugas dan tanggung jawab sebagai anggota tim sesuai kompetensi
+
+5. Mencari Bukti Elektronik Fisik Mandiri (Standalone Devices) – J.62FDG00.002.1 (2 JP)
+   Materi:
+   - Mengenali bukti elektronik fisik mandiri di lokasi insiden
+   - Menjaga keamanan bukti elektronik fisik mandiri di lokasi insiden
+
+6. Mencari Bukti Elektronik Fisik yang Terkoneksi ke Jaringan (Networked Devices) – J.62FDG00.003.1 (2 JP)
+   Materi:
+   - Melaksanakan pencarian bukti elektronik fisik yang terkoneksi ke jaringan di lokasi insiden
+   - Mendokumentasi bukti elektronik fisik yang terkoneksi ke jaringan di lokasi insiden
+
+7. Mengumpulkan Informasi Non-Elektronik – J.62FDG00.004.1 (2 JP)
+   Materi:
+   - Mengenali pihak-pihak yang relevan dengan insiden
+   - Mengumpulkan barang bukti non-elektronik
+
+8. Memilih Opsi untuk Koleksi atau Akuisisi – J.62FDG00.005.1 (2 JP)
+   Materi:
+   - Mempertimbangkan volatilitas dan persyaratan lainnya yang relevan
+   - Mengidentifikasikan pengumpulan atau akuisisi
+   - Mendokumentasikan rantai ketelusuran (chain of custody)
+
+9. Mengumpulkan Bukti Elektronik dalam Kondisi Masih Hidup/On – J.62FDG00.006.1 (2 JP)
+   Materi:
+   - Mengumpulkan bukti elektronik dengan prosedur baseline untuk seluruh kondisi
+   - Mengumpulkan bukti elektronik additional untuk kondisi tertentu
+
+10. Mengumpulkan Bukti Elektronik dalam Kondisi Sudah Mati/Off – J.62FDG00.007.1 (2 JP)
+    Materi:
+    - Mengumpulkan bukti elektronik dengan prosedur baseline untuk seluruh kondisi
+    - Mengumpulkan bukti elektronik additional untuk kondisi tertentu
+
+11. Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan (Networked Devices) – J.62FDG00.008.1 (3 JP)
+    Materi:
+    - Memutuskan diskoneksi bukti elektronik yang terkoneksi ke jaringan
+    - Menangani perangkat seluler
+
+12. Mengumpulkan Bukti Elektronik dari Sistem Closed Circuit Television (CCTV) – J.62FDG00.009.1 (3 JP)
+    Materi:
+    - Menggali informasi sistem CCTV
+    - Menentukan pemenuhan prasyarat pengumpulan sistem CCTV
+
+13. Evaluasi Akhir – Post Test / Soal Kasus ADEFR (2 JP)
+
+Exam:
+    - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN ADEFR?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Studi Kasus
+8. Penugasan
+9. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING ADEFR (5 HARI PELAKSANAAN)?
+
+Hari 1:
+- 08.00 – 08.45 : Pembukaan Pelatihan, Pre-Test (Panitia)
+- 08.45 – 09.30 : Menguasai konsep dasar digital evidence atau bukti elektronik (1 JP) – Pengajar
+- 09.30 – 10.15 : Menguasai konsep dasar digital forensics (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Mempersiapkan penanganan pertama bukti elektronik (1,5 JP) – Pengajar
+
+Hari 2:
+- 08.00 – 09.30 : Mencari bukti elektronik fisik mandiri (2 JP) – Pengajar
+- 09.30 – 10.15 : Mencari bukti elektronik fisik yang terkoneksi jaringan (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Mencari bukti elektronik fisik yang terkoneksi jaringan (1 JP) – Pengajar
+- 11.15 – 12.45 : Mengumpulkan informasi non elektronik (2 JP) – Pengajar
+
+Hari 3:
+- 08.00 – 09.30 : Memilih opsi untuk koleksi atau akuisisi (2 JP) – Pengajar
+- 09.30 – 10.15 : Mengumpulkan bukti elektronik dalam kondisi masih hidup (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Mengumpulkan bukti elektronik dalam kondisi masih hidup (1 JP) – Pengajar
+
+Hari 4:
+- 08.00 – 09.30 : Mengumpulkan bukti elektronik dalam kondisi sudah mati (2 JP) – Pengajar
+- 09.30 – 10.15 : Mengumpulkan bukti elektronik yang terkoneksi ke jaringan (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Mengumpulkan bukti elektronik yang terkoneksi ke jaringan (2 JP) – Pengajar
+
+Hari 5:
+- 08.00 – 10.15 : Mengumpulkan bukti elektronik sistem CCTV (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Evaluasi akhir materi ADEFR (2 JP) – Pengajar
+- 12.00 – selesai : Penutupan (Panitia)
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING ADEFR (3 HARI PELAKSANAAN)?
+
+Hari 1:
+- 08.00 – 08.45 : Pembukaan Pelatihan (Panitia)
+- 08.45 – 10.15 : Konsep Dasar Digital Evidence / Bukti Elektronik + Konsep Dasar Proses Digital Forensics (2 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Mempersiapkan Penanganan Pertama Bukti Elektronik (1,5 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Mencari Bukti Elektronik Fisik Mandiri (2 JP) – Pengajar
+- 14.30 – 16.00 : Mencari Bukti Elektronik Fisik yang Terkoneksi ke Jaringan (2 JP) – Pengajar
+
+Hari 2:
+- 08.00 – 09.30 : Mengumpulkan Informasi Non-Elektronik (2 JP) – Pengajar
+- 09.30 – 10.15 : Memilih Opsi untuk Koleksi atau Akuisisi (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Memilih Opsi untuk Koleksi atau Akuisisi (1 JP) – Pengajar
+- 11.15 – 12.45 : Mengumpulkan Bukti Elektronik dalam Kondisi Masih Hidup (2 JP) – Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Mengumpulkan Bukti Elektronik dalam Kondisi Sudah Mati (2 JP) – Pengajar
+
+Hari 3:
+- 08.00 – 10.15 : Mengumpulkan Bukti Elektronik yang Terkoneksi ke Jaringan (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.45 : Mengumpulkan Bukti Elektronik dari Sistem CCTV (3 JP) – Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Evaluasi (2 JP) – Pengajar
+
+TOTAL JP: 24 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+ADEFR (Associate Digital Evidence First Responder)
+Profesi/kompetensi yang bertanggung jawab melakukan penanganan pertama terhadap bukti elektronik di lokasi insiden siber.
+
+Digital Evidence / Bukti Elektronik
+Informasi atau data yang tersimpan atau dikirimkan dalam bentuk digital yang dapat dijadikan alat bukti dalam proses hukum.
+
+Digital Forensics
+Ilmu dan proses pengidentifikasian, pengumpulan, pengujian, dan analisis data/bukti digital sesuai prosedur hukum.
+
+Standalone Devices
+Perangkat elektronik yang beroperasi secara mandiri dan tidak terhubung ke jaringan komputer.
+
+Networked Devices
+Perangkat elektronik yang terhubung ke jaringan komputer atau internet pada saat ditemukan di lokasi insiden.
+
+Chain of Custody (Rantai Ketelusuran)
+Dokumentasi kronologis yang mencatat siapa saja yang memegang, memindahkan, atau mengakses bukti elektronik sejak ditemukan hingga digunakan di pengadilan.
+
+Volatilitas
+Sifat data yang mudah hilang atau berubah, seperti data di RAM yang akan lenyap ketika perangkat dimatikan.
+
+Akuisisi Bukti Elektronik
+Proses pengumpulan salinan data dari perangkat elektronik secara forensik untuk menjaga integritas data asli.
+
+Preservasi Bukti Elektronik
+Tindakan menjaga keaslian dan integritas bukti elektronik agar tidak mengalami perubahan selama proses penanganan.
+
+CCTV (Closed Circuit Television)
+Sistem kamera pengawas yang merekam video untuk keperluan keamanan, yang rekamannya dapat menjadi bukti elektronik.
+
+Perangkat Seluler
+Perangkat komunikasi bergerak seperti smartphone dan tablet yang dapat mengandung bukti elektronik relevan.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah non-kementerian yang bertanggung jawab di bidang keamanan siber dan persandian negara, menjadi mitra pelatihan ADEFR.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_ADEFR_Associate-Digital-Evidence-First-Responder
+========================================

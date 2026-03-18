@@ -1,0 +1,204 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: EDUKASI KESADARAN KEAMANAN SPBE (EKKSPBE)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : BSSN (Badan Siber dan Sandi Negara) dan mitra lainnya
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2024
+
+---
+
+APA ITU PELATIHAN EDUKASI KESADARAN KEAMANAN SPBE?
+Pelatihan Edukasi Kesadaran Keamanan Sistem Pemerintahan Berbasis Elektronik (SPBE) dirancang untuk memberikan pemahaman yang mendalam kepada para pemangku kepentingan terkait keamanan informasi dan proses operasional dalam lingkup SPBE. Pelatihan ini bertujuan untuk meningkatkan pemahaman dan kesadaran para pegawai dan pihak terkait mengenai keamanan dalam konteks SPBE. Dengan adanya transformasi digital dalam pelayanan publik, keamanan informasi menjadi krusial untuk memastikan integritas, ketersediaan, dan kerahasiaan data pemerintah.
+
+Pelatihan ini terdiri dari 6 (enam) mata pelatihan.
+
+---
+
+APA TUJUAN PELATIHAN EDUKASI KESADARAN KEAMANAN SPBE?
+1. Memahami apa itu SPBE dalam mendukung Transformasi Digital serta pentingnya keamanan informasi pada SPBE.
+2. Menjelaskan kerentanan, ancaman, dan kejahatan keamanan informasi/siber yang mungkin terjadi pada SPBE.
+3. Menjelaskan risiko yang mungkin terjadi pada SPBE dan dampaknya terhadap keamanan data.
+4. Mampu menjelaskan urgensi kesadaran keamanan siber/SPBE dan data/informasi.
+5. Mampu menjelaskan prinsip keamanan SPBE, yaitu penjaminan kerahasiaan, keutuhan, keaslian, kenirsangkalan, ketersediaan.
+6. Mampu menjelaskan strategi awal dalam mewujudkan keamanan SPBE.
+7. Mampu menjelaskan pentingnya budaya keamanan dan cara membangunnya dalam suatu instansi.
+8. Mampu menjelaskan domain keamanan SPBE pada indeks SPBE.
+9. Mampu menjelaskan beberapa indikator SPBE dalam Permenpan RB 59/2020.
+
+---
+
+BERAPA DURASI PELATIHAN EDUKASI KESADARAN KEAMANAN SPBE?
+Pelatihan berlangsung selama 17 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Metode: Self-Paced Learning (Pembelajaran Mandiri)
+Pada pelaksanaan dengan metode SPL, pembelajaran dilaksanakan secara mandiri dengan mengakses bahan pembelajaran yang ada di LMS (Learning Management System).
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN EDUKASI KESADARAN KEAMANAN SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal SMA.
+4. Kemampuan: Dapat mengoperasikan office tingkat dasar.
+
+Catatan: Persyaratan pendidikan pelatihan ini (SMA) lebih rendah dibandingkan pelatihan GTA lainnya, sehingga lebih inklusif dan dapat diikuti oleh lebih banyak pegawai pemerintah.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer/gawai dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, MacOS, Android, atau iOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Ruang penyimpanan kosong minimal 1.5 GB.
+
+Catatan: Pelatihan ini mendukung penggunaan perangkat mobile (Android/iOS), berbeda dari pelatihan GTA lainnya.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Menyelesaikan seluruh materi baik dalam bentuk video, bahan ajar, dan kuis.
+2. Menyelesaikan Test Komprehensif dengan total nilai minimal 80 (>= 80).
+
+Catatan: Nilai minimal kelulusan pelatihan ini adalah 80, lebih tinggi dari standar umum pelatihan GTA lainnya (65). Tidak ada bobot pre-test/post-test terpisah; evaluasi dilakukan melalui Test Komprehensif.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 6 mata pelatihan:
+
+1. SPBE Mendukung Transformasi Digital (1 JP)
+   Materi:
+   - Konsep SPBE dalam mendukung Transformasi Digital
+   - Keamanan informasi pada SPBE
+   Aktivitas: Self-paced Learning (Asynchronous)
+
+2. Kerentanan, Ancaman, dan Risiko Keamanan Siber dan Keamanan SPBE (6 JP)
+   Materi:
+   - Kerentanan SPBE
+   - Ancaman dan kejahatan keamanan informasi/siber
+   - Risiko keamanan informasi/siber
+   Aktivitas: Self-paced Learning (Asynchronous)
+
+3. Urgensi Kesadaran Keamanan SPBE (2 JP)
+   Materi:
+   - Urgensi kesadaran keamanan siber/SPBE
+   Aktivitas: Self-paced Learning (Asynchronous)
+
+4. Prinsip Keamanan SPBE (4 JP)
+   Materi:
+   - Prinsip keamanan SPBE (kerahasiaan, keutuhan, keaslian, kenirsangkalan, ketersediaan)
+   Aktivitas: Self-paced Learning (Asynchronous)
+
+5. Inisiasi Strategi Penerapan Awal Keamanan SPBE (2 JP)
+   Materi:
+   - Strategi awal dalam mewujudkan keamanan SPBE
+   Aktivitas: Self-paced Learning (Asynchronous)
+
+6. Keamanan SPBE pada Indeks SPBE (2 JP)
+   Materi:
+   - Domain keamanan SPBE pada indeks SPBE
+   - Indikator SPBE dalam Permenpan RB 59/2020
+   Aktivitas: Self-paced Learning (Asynchronous)
+
+Exam:
+   - Mengerjakan Test Komprehensif pada LMS (total 17 JP)
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+Seluruh pembelajaran dilakukan secara Self-paced Learning (Asynchronous/Mandiri), meliputi:
+1. Menonton video pembelajaran
+2. Membaca bahan ajar
+3. Mengerjakan kuis per mata pelatihan
+4. Mengerjakan Test Komprehensif di LMS
+
+Tidak ada sesi tatap muka (synchronous) dalam pelatihan ini.
+
+---
+
+APA PERBEDAAN UTAMA PELATIHAN EKKSPBE DIBANDING PELATIHAN GTA LAINNYA?
+1. Metode: Murni Self-Paced Learning (mandiri), tanpa live session atau tatap muka.
+2. Persyaratan pendidikan: Hanya minimal SMA (pelatihan GTA lain umumnya minimal D3).
+3. Nilai kelulusan: Minimal 80 (pelatihan GTA lain umumnya minimal 65).
+4. Dukungan perangkat: Mendukung smartphone Android dan iOS.
+5. Tidak ada surat penugasan yang dipersyaratkan secara eksplisit.
+6. Pelatihan ini bersifat lebih dasar/awareness, cocok untuk semua kalangan ASN tanpa latar belakang teknis IT.
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+Keamanan Informasi
+Perlindungan informasi dari berbagai ancaman untuk memastikan kelangsungan bisnis, meminimalkan risiko, dan memaksimalkan laba atas investasi serta peluang bisnis.
+
+Prinsip CIA (Kerahasiaan, Keutuhan, Ketersediaan)
+Tiga prinsip dasar keamanan informasi: Confidentiality (Kerahasiaan), Integrity (Keutuhan), dan Availability (Ketersediaan).
+
+Kenirsangkalan (Non-repudiation)
+Prinsip keamanan yang memastikan bahwa seseorang tidak dapat menyangkal telah melakukan suatu tindakan atau transaksi digital yang telah dilakukannya.
+
+Kerentanan (Vulnerability)
+Kelemahan dalam sistem, proses, atau kontrol yang dapat dieksploitasi oleh ancaman untuk menyebabkan kerugian atau kerusakan.
+
+Ancaman (Threat)
+Potensi penyebab insiden yang tidak diinginkan yang dapat mengakibatkan kerugian pada sistem atau organisasi.
+
+Risiko Keamanan Informasi
+Kemungkinan terjadinya ancaman yang mengeksploitasi kerentanan dan menyebabkan dampak negatif terhadap informasi atau sistem.
+
+Indeks SPBE
+Ukuran keberhasilan penerapan SPBE pada instansi pemerintah, mencakup domain tata kelola, layanan, dan keamanan.
+
+Permenpan RB 59/2020
+Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 59 Tahun 2020 tentang Pemantauan dan Evaluasi SPBE, yang memuat indikator-indikator penilaian SPBE termasuk domain keamanan.
+
+Domain Keamanan SPBE
+Area keamanan dalam kerangka SPBE yang mencakup aspek-aspek pengamanan sistem, data, infrastruktur, dan aplikasi pemerintahan.
+
+Budaya Keamanan
+Sikap, nilai, dan perilaku kolektif dalam suatu organisasi yang mendukung penerapan praktik keamanan informasi secara konsisten.
+
+Self-Paced Learning (SPL)
+Metode pembelajaran mandiri di mana peserta belajar sesuai kecepatan dan waktu yang mereka tentukan sendiri melalui LMS.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab atas keamanan siber nasional, menjadi mitra pelatihan dalam program ini.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Edukasi_Kesadaran_Keamanan_SPBE
+========================================

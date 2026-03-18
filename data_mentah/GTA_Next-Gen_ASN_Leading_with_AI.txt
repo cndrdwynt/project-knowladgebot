@@ -1,0 +1,180 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: NEXT-GEN ASN: LEADING WITH AI
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025 / Revisi 10 September 2025
+
+---
+
+APA ITU PELATIHAN NEXT-GEN ASN: LEADING WITH AI?
+Pelatihan 1 hari berjudul Next-Gen ASN: Leading with AI bertujuan meningkatkan kompetensi setiap ASN dalam memanfaatkan Artificial Intelligence (AI) untuk mendukung pekerjaan serta kebutuhan mereka sehari-hari dalam mendukung beragam tujuan organisasi. Melalui pelatihan ini, para peserta akan mendapatkan wawasan teori dan praktis tentang konsep AI, penerapan AI, serta etika dalam menggunakan AI.
+
+---
+
+APA TUJUAN PELATIHAN NEXT-GEN ASN: LEADING WITH AI?
+1. Memberikan pemahaman dasar tentang Artificial Intelligence (AI).
+2. Menunjukkan manfaat praktis AI bagi pegawai negeri sipil, khususnya dalam meningkatkan produktivitas dan efisiensi.
+3. Menawarkan demo dan tutorial langsung tentang kasus penggunaan AI yang relevan dengan pekerjaan pemerintah (seperti pembuatan dek presentasi, pembuatan draft dokumen, dan analisis data).
+4. Mendorong pengadopsian perangkat AI dengan fokus pada penggunaan yang etis dan bertanggung jawab dalam layanan publik.
+
+---
+
+BERAPA DURASI PELATIHAN NEXT-GEN ASN: LEADING WITH AI?
+Pelatihan berlangsung selama 7 JP (Jam Pelatihan) dalam 1 hari pelaksanaan, di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan dilaksanakan secara Full Offline (Luring), yaitu pembelajaran secara offline synchronous bersama Pengajar pada kelas pelatihan selama 1 hari penuh.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN NEXT-GEN ASN: LEADING WITH AI?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: Aparatur Sipil Negara (ASN).
+2. Usia: Maksimal 35 tahun pada saat pendaftaran.
+
+CATATAN: Batas usia pelatihan ini (35 tahun) lebih muda dibanding pelatihan GTA lainnya yang umumnya maksimal 53 tahun.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Terinstall aplikasi video conference (Zoom, Webex).
+4. Terinstall web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, atau sejenisnya.
+5. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Berpartisipasi di seluruh kegiatan pembelajaran (menghadiri 1 dari 2 sesi workshop untuk pelatihan offline) dengan batas ketidakhadiran maksimal 10% dari total jam pelatihan.
+
+Jadwal batch:
+- Batch 1: 30 September 2025
+- Batch 2: 1 Oktober 2025
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 5 mata pelatihan dengan total 7 JP:
+
+1. Pengantar AI (1 JP)
+   Materi:
+   - Dasar-dasar AI dan LLM (Large Language Model)
+   - Tata Kelola & Etika terkait penggunaan AI
+   - Tinjauan umum terkait AI tools dan kasus penggunaan potensial
+   Aktivitas: Tatap muka / Live session – presentasi, Q&A
+   Narasumber: McKinsey AI Expert
+
+2. Panduan Awal Prompt Engineering (1.3 JP)
+   Materi:
+   - Prinsip-prinsip prompt engineering
+   - Menulis prompt secara efektif dengan Gemini / NotebookLM
+   Aktivitas: Tatap muka, Live demo, Latihan terpandu
+   Narasumber: McKinsey AI Expert, Google AI Expert
+
+3. Meningkatkan Produktivitas dengan AI (1.3 JP)
+   Materi:
+   - Efisiensi dan skala melalui platform AI
+   - Mengubah alur kerja dengan AI
+   Aktivitas: Tatap muka, Curah Pendapat, Presentasi grup
+   Narasumber: IOH Data Scientist
+
+4. AI untuk Pekerjaan Sektor Publik (1.4 JP)
+   Materi:
+   - AI tools untuk sektor publik
+   - Risiko dan pertimbangan saat menggunakan AI
+   Aktivitas: Tatap muka, Diskusi, Presentasi grup
+   Narasumber: Google Public Sector Expert
+
+5. AI untuk Pembangunan Nasional (2 JP)
+   Materi:
+   - Peran AI dalam pembangunan nasional
+   - AI dalam Pendidikan
+   - AI dalam Layanan Kesehatan
+   - AI dalam Pertanian
+   - Membangun layanan bertenaga AI yang aman dan berdaulat dengan Sahabat-AI
+   Aktivitas: Tatap muka, Live demo, Curah Pendapat, Presentasi grup
+   Narasumber: McKinsey Leadership, IOH Tech Expert, Google Public Sector Expert
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (1 HARI PELAKSANAAN)?
+
+Hari Pertama:
+- 08.00 – 08.15 : Pembukaan (IOH Leadership)
+- 08.15 – 09.00 : Pengantar AI (1 JP) – Synchronous, McKinsey AI Expert
+- 09.00 – 10.00 : Panduan Awal Prompt Engineering (1.3 JP) – Synchronous, McKinsey AI Expert & Google AI Expert
+- 10.00 – 11.00 : Meningkatkan Produktivitas dengan AI (1.3 JP) – Synchronous, IOH Data Scientist
+- 11.00 – 11.15 : Coffee Break
+- 11.15 – 12.15 : AI untuk Pekerjaan Sektor Publik (1.4 JP) – Synchronous, Google Public Sector Expert
+- 12.15 – 13.15 : ISOMA
+- 13.15 – 14.45 : AI untuk Pembangunan Nasional (2 JP) – Synchronous, McKinsey Leadership / IOH Tech Expert / Google Public Sector Expert
+- 14.45 – 15.00 : Komitmen Pribadi AI (IOH Leadership)
+- 15.00 – 15.15 : Penutup (IOH Leadership)
+
+TOTAL JP: 7 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Artificial Intelligence (AI)
+Kecerdasan buatan yang memungkinkan mesin untuk meniru kemampuan kognitif manusia seperti belajar, memecahkan masalah, dan pengambilan keputusan.
+
+LLM (Large Language Model)
+Model bahasa berskala besar yang dilatih dengan data teks dalam jumlah besar untuk memahami dan menghasilkan teks seperti manusia, seperti GPT dan Gemini.
+
+Prompt Engineering
+Teknik merancang dan mengoptimalkan input (prompt) yang diberikan kepada model AI agar menghasilkan output yang relevan dan akurat.
+
+Gemini
+Model AI generatif dari Google yang dapat digunakan untuk berbagai tugas seperti pembuatan teks, analisis data, dan coding.
+
+NotebookLM
+Alat riset berbasis AI dari Google yang membantu pengguna memahami dan menganalisis dokumen secara mendalam.
+
+Sahabat-AI
+Platform AI yang dibangun untuk mendukung layanan pemerintahan Indonesia yang aman dan berdaulat secara digital.
+
+Etika AI
+Prinsip-prinsip moral yang mengatur pengembangan dan penggunaan AI secara bertanggung jawab, mencakup keadilan, transparansi, privasi, dan akuntabilitas.
+
+Tata Kelola AI
+Kerangka kebijakan, regulasi, dan prosedur yang mengatur penggunaan AI dalam organisasi untuk memastikan penggunaan yang etis dan bertanggung jawab.
+
+Produktivitas AI
+Peningkatan efisiensi dan efektivitas kerja yang dihasilkan dari penggunaan alat dan platform berbasis AI dalam alur kerja sehari-hari.
+
+Next-Gen ASN
+Konsep ASN generasi berikutnya yang memanfaatkan teknologi terkini termasuk AI untuk meningkatkan kualitas layanan publik dan tata kelola pemerintahan.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Next-Gen_ASN_Leading_with_AI
+========================================

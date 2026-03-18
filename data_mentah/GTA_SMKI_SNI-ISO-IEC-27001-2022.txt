@@ -1,0 +1,389 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: SISTEM MANAJEMEN KEAMANAN INFORMASI SNI ISO/IEC 27001:2022
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN SISTEM MANAJEMEN KEAMANAN INFORMASI SNI ISO/IEC 27001:2022?
+Pelatihan ini bertujuan untuk meningkatkan kemampuan peserta dalam menyusun dokumentasi SNI ISO/IEC 27001:2022 pada organisasi. Peserta diharapkan dapat menyusun dokumentasi mengacu Sistem Manajemen Keamanan Informasi dengan pendekatan berbasis risiko dan menitikberatkan pada penjagaan terhadap Kerahasiaan (Confidentiality), Integritas (Integrity), dan Ketersediaan (Availability) informasi.
+
+---
+
+APA TUJUAN PELATIHAN SMKI SNI ISO/IEC 27001:2022?
+1. Pemahaman mengenai standar secara umum.
+2. Pemahaman mengenai Sistem Manajemen Keamanan Informasi.
+3. Penyusunan mengenai konteks organisasi SMKI.
+4. Penyusunan mengenai kepemimpinan SMKI.
+5. Penyusunan mengenai perencanaan SMKI.
+6. Penyusunan mengenai dukungan untuk SMKI.
+7. Penyusunan mengenai pengoperasian SMKI.
+8. Penyusunan mengenai evaluasi kinerja SMKI.
+9. Penyusunan mengenai peningkatan SMKI.
+10. Penyusunan mengenai tahapan penerapan dan sertifikasi SMKI.
+11. Pemahaman konsep sistem dokumentasi berdasarkan ISO 10013:2021.
+12. Penyusunan dokumen panduan mutu.
+13. Penyusunan prosedur, instruksi kerja, dan formulir.
+14. Penyusunan dokumen SMKI SNI ISO/IEC 27001:2022.
+
+---
+
+BERAPA DURASI PELATIHAN SMKI SNI ISO/IEC 27001:2022?
+Pelatihan berlangsung selama 50 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN SMKI?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Pembelajaran dilakukan secara daring, diawali dengan asynchronous (self-paced learning) melalui LMS, dilanjutkan dengan synchronous bersama Pengajar melalui live sessions menggunakan video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN SMKI SNI ISO/IEC 27001:2022?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Warga Negara Indonesia.
+2. Usia saat mendaftar maksimal 53 tahun.
+3. Pendidikan minimal D3, diutamakan jurusan Ilmu Komputer / Teknik Informatika / Sistem Informasi / Teknologi Informasi.
+4. Status Pekerjaan: ASN K/L/D, dibuktikan dengan Surat Tugas / Surat Izin Atasan / Surat Keterangan bekerja dari tempat bekerja.
+5. Kemampuan analisis yang baik.
+6. Kemampuan komunikasi yang baik.
+7. Kemampuan mengoperasikan aplikasi perkantoran.
+8. Pengalaman di bidang pengelolaan IT minimal 1 tahun.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA SMKI?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 2 GB (4 GB direkomendasikan).
+3. Terinstall aplikasi video conference (Zoom, Webex).
+4. Terinstall web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, dll.
+5. Resolusi layar minimal 1024x768.
+6. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN SMKI?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan.
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN SMKI?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+BERAPA HARI PERTEMUAN PELATIHAN SMKI?
+- Online (Daring) : 8 hari pertemuan
+- Offline (Luring) : 5 hari pertemuan
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN SMKI?
+Pelatihan terdiri dari 17 mata pelatihan dengan total 50 JP:
+
+1. Orientasi & Building Learning Commitment (BLC) (2 JP)
+   Materi:
+   - Program pelatihan
+   - Komitmen belajar
+
+2. Pengantar SMKI (2 JP)
+   Materi:
+   - Apa itu Sistem Manajemen Keamanan Informasi?
+   - Manfaat Penerapan SMKI
+   - Struktur SNI ISO/IEC 27001:2022
+   - Tahapan Penerapan SNI ISO/IEC 27001:2022
+   - Keuntungan dan Tantangan Penerapan SNI ISO/IEC 27001:2022
+
+3. Klausul 4 – Konteks Organisasi (2 JP)
+   Materi:
+   - Klausul 4.1 Memahami Organisasi dan konteksnya
+   - Klausul 4.2 Memahami kebutuhan dan ekspektasi dari pihak yang berkepentingan
+   - Klausul 4.3 Menentukan ruang lingkup SMKI
+   - Klausul 4.4 Sistem manajemen keamanan informasi
+
+4. Klausul 5 – Kepemimpinan (2 JP)
+   Materi:
+   - Klausul 5.1 Kepemimpinan dan komitmen
+   - Klausul 5.2 Kebijakan
+   - Klausul 5.3 Peran organisasi, tanggung jawab dan wewenang organisasional
+
+5. Klausul 6 – Perencanaan (3 JP)
+   Materi:
+   - Klausul 6.1 Tindakan untuk menangani risiko dan peluang
+   - Klausul 6.2 Sasaran keamanan informasi dan perencanaan untuk mencapainya
+   - Klausul 6.3 Perencanaan perubahan
+
+6. Klausul 7 – Dukungan (3 JP)
+   Materi:
+   - Klausul 7.1 Sumber daya
+   - Klausul 7.2 Kompetensi
+   - Klausul 7.3 Kesadaran
+   - Klausul 7.4 Komunikasi
+   - Klausul 7.5 Informasi terdokumentasi
+
+7. Klausul 8 – Operasi (6 JP)
+   Materi:
+   - Klausul 8.1 Perencanaan dan pengontrolan operasional
+   - Klausul 8.2 Asesmen risiko keamanan informasi
+   - Klausul 8.3 Penanganan risiko keamanan informasi
+
+8. Klausul 9 – Evaluasi Kinerja (1 JP)
+   Materi:
+   - Klausul 9.1 Pemonitoran, pengukuran, analisis, dan evaluasi
+   - Klausul 9.2 Audit internal
+   - Klausul 9.3 Reviu manajemen
+
+9. Klausul 10 – Peningkatan (1 JP)
+   Materi:
+   - Klausul 10.1 Peningkatan berkelanjutan
+   - Klausul 10.2 Ketidaksesuaian dan tindakan korektif
+
+10. Proses Penerapan dan Sertifikasi SNI ISO/IEC 27001:2022 (1 JP)
+    Materi:
+    - Tahapan proses penerapan SNI ISO/IEC 27001:2022
+    - Proses Sertifikasi penerapan SNI ISO/IEC 27001:2022
+
+11. Pengantar Sistem Dokumentasi (2 JP)
+    Materi:
+    - Sistem Dokumentasi berdasarkan ISO 10013:2021
+
+12. Master List Dokumen (1 JP)
+    Materi:
+    - Master List Dokumen
+
+13. Pedoman Mutu, Kebijakan dan Sasaran dalam SMKI (2 JP)
+    Materi:
+    - Panduan Mutu, Kebijakan dan Sasaran SMKI
+
+14. Prosedur Kerja SMKI (3 JP)
+    Materi:
+    - Konsep prosedur
+    - Penyusunan dokumen prosedur
+
+15. Instruksi Kerja SMKI (2 JP)
+    Materi:
+    - Konsep instruksi kerja
+    - Penyusunan dokumen instruksi kerja
+
+16. Formulir SMKI (1 JP)
+    Materi:
+    - Konsep formulir
+    - Penyusunan dokumen formulir
+
+17. Penyusunan, Revisi, dan Distribusi Dokumen SMKI (16 JP)
+    Materi:
+    - Penyusunan, Revisi, dan Distribusi Dokumen SMKI
+
+Exam:
+    - Pre-Test dan Post-Test : Mengerjakan pada LMS
+    - Presentasi Tugas Akhir Pelatihan
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN SMKI?
+1. Ceramah
+2. Tanya Jawab
+3. Diskusi
+4. Latihan
+5. Penugasan
+6. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING SMKI (8 HARI PELAKSANAAN)?
+
+Hari ke-1:
+- 08.00 – 08.30 : Pembukaan (Penyelenggara)
+- 08.30 – 10.00 : Orientasi, Building Learning Commitment (BLC), Pre-test (2 JP) – Pengajar
+- 10.00 – 10.15 : Break
+- 10.15 – 11.45 : Pengantar SMKI (2 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (2 JP)
+
+Hari ke-2:
+- 08.00 – 09.30 : Klausul 4 Konteks Organisasi (2 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 5 Kepemimpinan (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Klausul 5 Kepemimpinan (1 JP) – Pengajar
+- 11.15 – 12.00 : Klausul 6 Perencanaan (1 JP) – Pengajar
+
+Hari ke-3:
+- 08.00 – 09.30 : Klausul 6 Perencanaan (2 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 7 Dukungan (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Klausul 7 Dukungan (2 JP) – Pengajar
+
+Hari ke-4:
+- 08.00 – 10.15 : Klausul 8 Operasi (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.15 – 12.00 : Klausul 8 Operasi (2 JP) – Pengajar
+
+Hari ke-5:
+- 08.00 – 08.45 : Klausul 8 Operasi (1 JP) – Pengajar
+- 08.45 – 09.30 : Klausul 9 Evaluasi Kinerja (1 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 10 Peningkatan (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Proses Penerapan dan Sertifikasi SMKI (1 JP) – Pengajar
+- 11.15 – 12.00 : Pengantar Sistem Dokumentasi (1 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (3 JP)
+
+Hari ke-6:
+- 08.00 – 08.45 : Pengantar Sistem Dokumentasi (1 JP) – Pengajar
+- 08.45 – 09.30 : Panduan Mutu, Kebijakan, Sasaran (1 JP) – Pengajar
+- 09.30 – 10.15 : Pemahaman dan penyusunan Panduan Mutu, Kebijakan, Sasaran (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Pemahaman dan penyusunan Prosedur (2 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (3 JP)
+
+Hari ke-7:
+- 08.00 – 08.45 : Pemahaman dan penyusunan Prosedur (1 JP) – Pengajar
+- 08.45 – 10.15 : Pemahaman dan penyusunan Instruksi Kerja (2 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Pemahaman dan penyusunan Formulir Kerja & Revisi dan Distribusi (1 JP) – Pengajar
+- 11.15 – 12.00 : Penyusunan Master List (1 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (3 JP)
+
+Hari ke-8:
+- 08.00 – 12.00 : Presentasi Akhir & Post Test (5 JP) – Pengajar
+
+TOTAL JP: 50 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING SMKI (5 HARI PELAKSANAAN)?
+
+Hari ke-1:
+- 08.00 – 09.30 : Orientasi, Building Learning Commitment (BLC), Pre-test (2 JP) – Pengajar
+- 09.30 – 10.15 : Pengantar SMKI (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Pengantar SMKI (1 JP) – Pengajar
+- 11.15 – 12.00 : Klausul 4 Konteks Organisasi (1 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 13.45 : Klausul 4 Konteks Organisasi (1 JP) – Pengajar
+- 13.45 – 15.15 : Klausul 5 Kepemimpinan (2 JP) – Pengajar
+- 15.15 – 16.00 : Klausul 6 Perencanaan (1 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (2 JP)
+
+Hari ke-2:
+- 08.00 – 09.30 : Klausul 6 Perencanaan (2 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 7 Dukungan (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Klausul 7 Dukungan (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Klausul 8 Operasi (4 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (3 JP)
+
+Hari ke-3:
+- 08.00 – 09.30 : Klausul 8 Operasi (2 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 9 Evaluasi Kinerja (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Klausul 10 Peningkatan (1 JP) – Pengajar
+- 11.15 – 12.00 : Proses Penerapan dan Sertifikasi SMKI (1 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 13.45 : Proses Penerapan dan Sertifikasi SMKI (1 JP) – Pengajar
+- 13.45 – 14.30 : Pengantar Sistem Dokumentasi (1 JP) – Pengajar
+- 14.45 – 15.15 : Penyusunan Master List (1 JP) – Pengajar
+- 15.15 – 16.00 : Panduan Mutu, Kebijakan, Sasaran (1 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (3 JP)
+
+Hari ke-4:
+- 08.00 – 08.45 : Pemahaman dan penyusunan Panduan Mutu, Kebijakan, Sasaran (1 JP) – Pengajar
+- 08.45 – 09.30 : Pemahaman dan penyusunan Prosedur (1 JP) – Pengajar
+- 09.30 – 10.15 : Pemahaman dan penyusunan Prosedur (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Pemahaman dan penyusunan Prosedur (1 JP) – Pengajar
+- 11.45 – 12.00 : Pemahaman dan penyusunan Instruksi Kerja (1 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 13.45 : Pemahaman dan penyusunan Instruksi Kerja (1 JP) – Pengajar
+- 13.45 – 14.30 : Pemahaman dan penyusunan Formulir Kerja (1 JP) – Pengajar
+- Mandiri       : Pengayaan Materi (3 JP)
+
+Hari ke-5:
+- 08.00 – 11.45 : Presentasi dan Post Test (5 JP) – Pengajar
+- Penutupan     : Penyelenggara
+
+TOTAL JP: 50 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SMKI (Sistem Manajemen Keamanan Informasi)
+Sistem manajemen yang digunakan untuk melindungi informasi melalui pendekatan berbasis risiko, berfokus pada Kerahasiaan (Confidentiality), Integritas (Integrity), dan Ketersediaan (Availability) informasi.
+
+SNI ISO/IEC 27001:2022
+Standar internasional yang diadopsi sebagai Standar Nasional Indonesia (SNI) untuk Sistem Manajemen Keamanan Informasi, versi terbaru tahun 2022.
+
+ISO 10013:2021
+Standar internasional yang memberikan panduan untuk penyusunan dokumentasi sistem manajemen.
+
+Klausul (Clause)
+Bagian dari struktur standar ISO/IEC 27001:2022 yang mengatur aspek tertentu dari SMKI, mencakup Klausul 4 hingga 10.
+
+Risiko Keamanan Informasi
+Potensi ancaman yang dapat memanfaatkan kerentanan aset informasi dan mengakibatkan kerugian bagi organisasi.
+
+Asesmen Risiko
+Proses identifikasi, analisis, dan evaluasi risiko keamanan informasi dalam organisasi.
+
+Master List Dokumen
+Daftar induk yang mencatat seluruh dokumen yang berlaku dalam sistem manajemen, termasuk status revisi dan distribusinya.
+
+Panduan Mutu (Quality Manual)
+Dokumen tingkat teratas dalam hierarki dokumentasi sistem manajemen yang menggambarkan kebijakan dan sasaran organisasi.
+
+Prosedur Kerja
+Dokumen yang menjelaskan cara melaksanakan suatu proses atau kegiatan secara langkah demi langkah.
+
+Instruksi Kerja
+Dokumen yang memberikan petunjuk teknis lebih rinci tentang bagaimana suatu tugas spesifik harus dilakukan.
+
+Formulir
+Dokumen yang digunakan untuk merekam data atau hasil suatu kegiatan sebagai bukti pelaksanaan.
+
+Sertifikasi SMKI
+Proses penilaian oleh lembaga sertifikasi independen untuk memverifikasi bahwa SMKI organisasi telah memenuhi persyaratan SNI ISO/IEC 27001:2022.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_SMKI_SNI-ISO-IEC-27001-2022
+========================================

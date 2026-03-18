@@ -1,0 +1,372 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: SISTEM MANAJEMEN LAYANAN TEKNOLOGI INFORMASI (SMLTI)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : BSN, dll
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN SISTEM MANAJEMEN LAYANAN TI (SMLTI)?
+Pelatihan Sistem Manajemen Layanan TI terdiri dari 2 silabus, yaitu:
+1. Pelatihan Pemahaman SMLTI: Memberikan peningkatan pemahaman mengenai Standar Manajemen Layanan (SML), khususnya SNI ISO/IEC 20000-1:2018. Peserta memahami istilah dan definisi, konteks organisasi, kepemimpinan, perencanaan, dukungan, pengoperasian, evaluasi kinerja dan peningkatan SML melalui konten interaktif dengan banyak simulasi.
+2. Pelatihan Dokumentasi SMLTI: Memberikan peningkatan keterampilan dalam menyusun dokumen SMLTI. Peserta memahami dan menyusun dokumen-dokumen yang diperlukan dalam penerapan dan persiapan sertifikasi SMLTI.
+
+---
+
+APA TUJUAN PELATIHAN SMLTI?
+
+Tujuan Pemahaman SMLTI:
+1. Pemahaman mengenai standar secara umum.
+2. Pemahaman mengenai service management.
+3. Pemahaman mengenai konteks organisasi SML.
+4. Pemahaman mengenai kepemimpinan SML.
+5. Pemahaman mengenai perencanaan SML.
+6. Pemahaman mengenai dukungan untuk SML.
+7. Pemahaman mengenai pengoperasian SML.
+8. Pemahaman mengenai evaluasi kinerja SML.
+9. Pemahaman mengenai peningkatan SML.
+
+Tujuan Dokumentasi SMLTI:
+1. Pemahaman konsep sistem dokumentasi berdasarkan ISO 10013:2021.
+2. Pemahaman Panduan Mutu.
+3. Pemahaman mengenai penyusunan dokumen panduan mutu.
+4. Pemahaman mengenai prosedur, instruksi kerja, formulir.
+5. Pemahaman mengenai penyusunan prosedur, instruksi kerja, dan formulir.
+
+---
+
+BERAPA DURASI PELATIHAN SMLTI?
+- Pemahaman Sistem Manajemen Layanan Teknologi Informasi : 24 JP
+- Dokumentasi Sistem Manajemen Layanan Teknologi Informasi : 16 JP
+- Total keseluruhan : 40 JP
+- Metode Online : 35 JP synchronous + 5 JP asynchronous
+- Metode Offline : 36 JP synchronous + 4 JP asynchronous
+(1 JP = 45 menit)
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN SMLTI?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Pembelajaran diawali dengan asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, kemudian dilanjutkan synchronous bersama Pengajar melalui live sessions menggunakan video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN SMLTI?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia maksimal 50 tahun pada saat mendaftar.
+3. Pendidikan minimal D3.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Mengerti Bahasa Inggris Dasar.
+6. Khususnya bagi peserta penyandang disabilitas, wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+CATATAN KHUSUS: Batas usia pelatihan ini adalah maksimal 50 tahun, lebih muda dibanding sebagian besar pelatihan GTA lainnya yang umumnya maksimal 53 tahun.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA SMLTI?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Windows atau MacOS.
+2. Web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, dll.
+3. Terinstall aplikasi Webex, Zoom.
+4. Dapat melakukan browsing dengan lancar.
+5. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN SMLTI?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session / hadir di kelas) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+Untuk metode Self-Paced Learning (SPL):
+Ketentuan kelulusan mengacu kepada informasi di LMS.
+
+---
+
+KAPAN JADWAL PELATIHAN SMLTI?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN SMLTI?
+
+BAGIAN 1: PEMAHAMAN SISTEM MANAJEMEN LAYANAN TI
+
+1. Orientasi & Building Learning Commitment (BLC) (1 JP)
+   Output: Pemahaman tentang program pelatihan dan komitmen belajar
+
+2. Pengantar Standar (1 JP)
+   Output: Pemahaman mengenai standar secara umum
+
+3. Pengantar Service Management (async)
+   Output: Pemahaman mengenai service management
+
+4. Klausul 4 – Konteks Organisasi (2 JP)
+   Materi:
+   - Memahami Organisasi dan Konteksnya
+   - Memahami Kebutuhan dan Ekspektasi Para Pihak yang berkepentingan
+   - Menentukan Ruang Lingkup dari Sistem Manajemen Layanan
+   - Sistem Manajemen Layanan
+
+5. Klausul 5 – Kepemimpinan (1 JP)
+   Materi:
+   - Kepemimpinan dan Komitmen
+   - Kebijakan
+   - Peran, Tanggung Jawab dan Otoritas Keorganisasian
+
+6. Klausul 6 – Perencanaan (3 JP)
+   Materi:
+   - Tindakan untuk menangani Risiko dan Peluang
+   - Sasaran Manajemen Layanan dan Perencanaan untuk mencapainya
+
+7. Klausul 7 – Dukungan Untuk Sistem Manajemen Layanan (3 JP)
+   Materi:
+   - Sumber Daya
+   - Kompetensi
+   - Kesadaran
+   - Komunikasi
+   - Informasi Terdokumentasi
+   - Pengetahuan
+
+8. Klausul 8 – Pengoperasian Sistem Manajemen Layanan (7 JP)
+   Materi:
+   - Perencanaan dan Kendali Operasional
+   - Portofolio Layanan
+   - Hubungan dan Perjanjian
+   - Penawaran dan Permintaan
+   - Desain, Pembuatan dan Transisi Layanan
+   - Penyelesaian dan Pemenuhan
+   - Jaminan Layanan
+
+9. Klausul 9 – Evaluasi Kinerja (2 JP)
+   Materi:
+   - Pemantauan, Pengukuran, Analisa dan Evaluasi
+   - Audit Internal
+   - Tinjauan Manajemen
+   - Pelaporan Layanan
+
+10. Klausul 10 – Peningkatan (1 JP)
+    Materi:
+    - Ketidaksesuaian dan Tindakan Perbaikan
+    - Peningkatan Berkelanjutan
+
+BAGIAN 2: DOKUMENTASI SISTEM MANAJEMEN LAYANAN TI
+
+1. Pengantar Sistem Dokumentasi berdasarkan ISO 10013:2021 (1 JP)
+   Output: Pemahaman mengenai Sistem Dokumentasi
+
+2. Konsep Panduan Mutu SMLTI & Penyusunan Master List Dokumen (1 JP)
+   Output: Pemahaman Panduan Mutu SMLTI dan penyusunan master list dokumen
+
+3. Konsep Prosedur, Instruksi Kerja dan Formulir (2 JP)
+   Output: Pemahaman tentang konsep pembuatan prosedur, instruksi kerja dan formulir
+
+4. Penyusunan Dokumen Prosedur, Instruksi Kerja dan Formulir (5 JP)
+   Output: Pemahaman tentang penyusunan dokumen prosedur, instruksi kerja dan formulir
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+   - Presentasi Tugas Akhir Pelatihan (5 JP)
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING SMLTI (8 HARI PELAKSANAAN)?
+
+Hari ke-1:
+- 08.00 – 08.30 : Pengarahan Program, Pembukaan dan Pre Test (PIC)
+- 08.30 – 09.45 : Building Learning Commitment (BLC) (1 JP) – Pengajar
+- 09.45 – 10.30 : Pengantar Standar – Sinkronus Virtual Classroom (1 JP) – Pengajar
+- 10.30 – 10.45 : Break
+- 10.45 – 12.15 : Klausul 4 Konteks Organisasi – Sinkronus Virtual Classroom (2 JP) – Pengajar
+- 12.15 – 12.45 : Tugas Mandiri Klausul 4 (Asinkronus / Belajar mandiri) (1 JP)
+
+Hari ke-2:
+- 08.00 – 08.45 : Klausul 5 Kepemimpinan – Sinkronus Virtual Classroom (1 JP) – Pengajar
+- 08.45 – 10.15 : Klausul 6 Perencanaan – Sinkronus Virtual Classroom (2 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Klausul 6 Perencanaan – Sinkronus Virtual Classroom (1 JP)
+- 11.15 – 12.00 : Tugas Mandiri Klausul 5 dan 6 (Asinkronus / Belajar mandiri) (1 JP)
+
+Hari ke-3:
+- 08.00 – 10.15 : Klausul 7 Dukungan – Sinkronus Live Classroom (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Klausul 8 Operasi 8.1 – Sinkronus Live Classroom (1 JP)
+- 11.15 – 12.00 : Tugas Mandiri Klausul 7 dan 8.1 (Asinkronus / Belajar mandiri) (1 JP)
+
+Hari ke-4:
+- 08.00 – 09.30 : Klausul 8 Operasi 8.2 – Sinkronus Live Classroom (2 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 8 Operasi 8.3 – Sinkronus Live Classroom (1 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Klausul 8 Operasi 8.4 – Sinkronus Live Classroom (1 JP)
+- 11.15 – 12.00 : Tugas Mandiri Klausul 8.2, 8.3 & 8.4 (Asinkronus / Belajar mandiri) (1 JP)
+
+Hari ke-5:
+- 08.00 – 08.45 : Klausul 8 Operasi 8.5 – Sinkronus Live Classroom (1 JP) – Pengajar
+- 08.45 – 09.30 : Klausul 8 Operasi 8.6 & 8.7 – Sinkronus Live Classroom (1 JP)
+- 09.30 – 10.15 : Klausul 9 Evaluasi – Sinkronus Live Classroom (1 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Klausul 9 Evaluasi – Sinkronus Live Classroom (1 JP)
+- 11.15 – 12.00 : Klausul 10 Perbaikan – Sinkronus Live Classroom (1 JP)
+
+Hari ke-6:
+- 08.00 – 08.45 : Pengantar Sistem Dokumentasi – Sinkronus Live Classroom (1 JP) – Pengajar
+- 08.45 – 09.30 : Master List Dokumen – Sinkronus Live Classroom (1 JP)
+- 09.30 – 09.45 : Break
+- 09.45 – 11.15 : Panduan Mutu, Kebijakan dan Sasaran – Sinkronus Live Classroom (2 JP)
+- 11.15 – 12.00 : Tugas Mandiri (Asinkronus / Belajar mandiri) (1 JP)
+
+Hari ke-7:
+- 08.00 – 09.30 : Prosedur – Sinkronus Live Classroom (2 JP) – Pengajar
+- 09.30 – 10.15 : Instruksi Kerja Form – Sinkronus Live Classroom (1 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Praktek Kerja Instruksi Form – Sinkronus Live Classroom (1 JP)
+- 11.15 – 12.00 : Revisi Distribusi – Sinkronus Live Classroom (1 JP)
+
+Hari ke-8:
+- 08.00 – 10.15 : Presentasi – Sinkronus Live Classroom (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Presentasi – Sinkronus Live Classroom (2 JP)
+- 12.00 – 12.30 : Penutupan
+
+TOTAL Sinkronus / Live Classroom : 35 JP @ 45 Menit
+TOTAL Asinkronus / Belajar Mandiri : 5 JP @ 45 Menit
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING SMLTI (5 HARI PELAKSANAAN)?
+
+Hari ke-1:
+- 08.00 – 08.30 : Pengarahan Program, Pembukaan dan Pre Test (PIC)
+- 08.30 – 09.45 : Building Learning Commitment (BLC) (1 JP) – Pengajar
+- 09.45 – 10.30 : Pengantar SMLTI – InClassroom (1 JP) – Pengajar
+- 10.30 – 10.45 : Break
+- 10.45 – 12.15 : Klausul 4 Konteks Organisasi – InClassroom (2 JP) – Pengajar
+- 12.15 – 13.00 : Break
+- 13.00 – 13.45 : Klausul 5 Kepemimpinan – InClassroom (1 JP) – Pengajar
+- 13.45 – 15.15 : Klausul 6 Perencanaan – InClassroom (1 JP) – Pengajar
+
+Hari ke-2:
+- 08.00 – 08.45 : Klausul 7 Dukungan – InClassroom (1 JP) – Pengajar
+- 08.45 – 09.30 : Klausul 7 Dukungan – InClassroom (1 JP) – Pengajar
+- 09.30 – 10.15 : Klausul 8.1 Perencanaan dan Kendali Operasional – InClassroom (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Klausul 8.2 Portofolio Layanan – InClassroom (2 JP) – Pengajar
+- 12.00 – 13.00 : Break
+- 13.00 – 14.30 : Klausul 8.3 Hubungan dan Perjanjian – InClassroom (2 JP) – Pengajar
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Klausul 8.4 Penawaran dan Permintaan – InClassroom (1 JP) – Pengajar
+- 15.30 – 16.15 : Belajar mandiri (Asinkronus) (1 JP)
+
+Hari ke-3:
+- 08.00 – 10.15 : Klausul 8.5 Desain, Pembuatan dan Transisi Layanan – InClassroom (3 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Klausul 8.6 Penyelesaian dan Pemenuhan – InClassroom (1 JP) – Pengajar
+- 11.15 – 12.00 : Klausul 8.7 Jaminan Layanan – InClassroom (1 JP) – Pengajar
+- 12.00 – 13.00 : Break
+- 13.00 – 13.45 : Klausul 8.7 Jaminan Layanan – InClassroom (1 JP) – Pengajar
+- 13.45 – 14.30 : Klausul 9 Evaluasi Kinerja – InClassroom (1 JP) – Pengajar
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Klausul 10 Peningkatan – InClassroom (1 JP) – Pengajar
+- 15.30 – 16.15 : Belajar mandiri (Asinkronus) (1 JP)
+
+Hari ke-4:
+- 08.00 – 08.45 : Pengantar Sistem Dokumentasi – InClassroom (1 JP) – Pengajar
+- 08.45 – 09.30 : Penyusunan Master List Dokumen – InClassroom (1 JP) – Pengajar
+- 09.30 – 10.15 : Penyusunan Panduan SMLTI – InClassroom (1 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 11.15 : Penyusunan Panduan SMLTI – InClassroom (1 JP) – Pengajar
+- 11.15 – 12.00 : Penyusunan Prosedur – InClassroom (1 JP) – Pengajar
+- 12.00 – 13.00 : Break
+- 13.00 – 13.45 : Penyusunan Prosedur – InClassroom (1 JP) – Pengajar
+- 13.45 – 14.30 : Penyusunan Instruksi Kerja – InClassroom (1 JP) – Pengajar
+- 14.30 – 14.45 : Break
+- 14.45 – 15.30 : Penyusunan Formulir – InClassroom (1 JP) – Pengajar
+- 15.30 – 17.00 : Belajar mandiri (Asinkronus) (2 JP)
+
+Hari ke-5:
+- 08.00 – 08.45 : Penyusunan Formulir – InClassroom (1 JP) – Pengajar
+- 08.45 – 10.15 : Presentasi Tugas Akhir – InClassroom (2 JP) – Pengajar
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Presentasi Tugas Akhir – InClassroom (2 JP) – Pengajar
+
+TOTAL Sinkronus / In-Classroom : 36 JP @ 45 Menit
+TOTAL Asinkronus / Belajar Mandiri : 4 JP @ 45 Menit
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SMLTI (Sistem Manajemen Layanan Teknologi Informasi)
+Sistem manajemen yang digunakan untuk mengelola layanan TI secara terstruktur mengacu pada standar SNI ISO/IEC 20000-1:2018.
+
+SNI ISO/IEC 20000-1:2018
+Standar internasional yang diadopsi sebagai Standar Nasional Indonesia untuk Sistem Manajemen Layanan TI.
+
+ISO 10013:2021
+Standar internasional yang memberikan panduan untuk penyusunan dokumentasi sistem manajemen.
+
+Service Management (Manajemen Layanan)
+Kemampuan organisasi dalam merencanakan, menyampaikan, mengoperasikan, dan mengendalikan layanan TI untuk memberikan nilai bagi pelanggan.
+
+Portofolio Layanan
+Kumpulan lengkap layanan yang dikelola oleh penyedia layanan, mencakup layanan yang sedang berjalan, dalam pengembangan, maupun yang telah dihentikan.
+
+Klausul (Clause)
+Bagian dari struktur standar ISO/IEC 20000-1:2018 yang mengatur aspek tertentu dari SMLTI, mencakup Klausul 4 hingga 10.
+
+Master List Dokumen
+Daftar induk yang mencatat seluruh dokumen yang berlaku dalam sistem manajemen, termasuk status revisi dan distribusinya.
+
+Panduan Mutu (Quality Manual)
+Dokumen tingkat teratas dalam hierarki dokumentasi sistem manajemen yang menggambarkan kebijakan dan sasaran organisasi.
+
+Prosedur Kerja
+Dokumen yang menjelaskan cara melaksanakan suatu proses atau kegiatan secara langkah demi langkah.
+
+Instruksi Kerja
+Dokumen yang memberikan petunjuk teknis lebih rinci tentang bagaimana suatu tugas spesifik harus dilakukan.
+
+Formulir
+Dokumen yang digunakan untuk merekam data atau hasil suatu kegiatan sebagai bukti pelaksanaan.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_SMLTI_SNI-ISO-IEC-20000-1-2018
+========================================

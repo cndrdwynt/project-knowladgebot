@@ -1,8 +1,17 @@
-chroma_db/
-*.sqlite3
-chat_history.db
-.env
+# Environments
+venv/
+env/
+
+# Python caches
 __pycache__/
 *.pyc
-venv/
-.venv/
+
+# Database lokal (Jangan di-push agar data user aman)
+chat_history.db
+
+# Vector Database (Ukurannya terlalu besar untuk GitHub)
+database_chroma/
+storage/
+
+# Mac OS junk
+.DS_Store

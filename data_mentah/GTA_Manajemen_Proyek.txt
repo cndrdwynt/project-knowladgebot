@@ -1,0 +1,328 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: MANAJEMEN PROYEK
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 22 Januari 2025
+
+---
+
+APA ITU PELATIHAN MANAJEMEN PROYEK?
+Pelatihan Manajemen Proyek memberikan kompetensi kepada peserta untuk mengelola proyek dan/atau program secara lengkap melalui penerapan metodologi hingga penyusunan dokumen manajemen proyek berdasarkan best practice manajemen proyek yang berlaku.
+
+Output yang dihasilkan peserta mencakup:
+- Memahami gambaran terkait proyek dan manajemen proyek baik proyek agile maupun tradisional.
+- Menerapkan tahapan analisis alternatif proyek sebelum ditentukan melalui analisis usulan proyek.
+- Menerapkan proses inisiasi proyek melalui penyusunan dokumen charter proyek.
+- Menerapkan perencanaan proyek.
+- Menganalisis pelaksanaan proyek.
+- Mengevaluasi proyek melalui pemantauan dan pengendalian proyek berdasarkan perencanaan proyek yang telah dibuat.
+- Mengevaluasi penutupan proyek melalui dokumen penutupan proyek.
+- Menciptakan dokumen manajemen proyek sesuai dengan kebutuhan proyek.
+
+---
+
+APA TUJUAN PELATIHAN MANAJEMEN PROYEK?
+Peserta pelatihan dapat:
+1. Memahami gambaran terkait proyek dan manajemen proyek baik proyek agile maupun tradisional.
+2. Menerapkan tahapan analisis alternatif proyek sebelum ditentukan melalui analisis usulan proyek.
+3. Menerapkan proses inisiasi proyek melalui penyusunan dokumen charter proyek.
+4. Menerapkan perencanaan proyek.
+5. Menganalisis pelaksanaan proyek.
+6. Mengevaluasi proyek melalui pemantauan dan pengendalian proyek berdasarkan perencanaan proyek yang telah dibuat.
+7. Mengevaluasi penutupan proyek melalui dokumen penutupan proyek.
+8. Menciptakan dokumen manajemen proyek sesuai dengan kebutuhan proyek.
+
+---
+
+BERAPA DURASI PELATIHAN MANAJEMEN PROYEK?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam tiga metode:
+1. Full Online (Daring): Pembelajaran dilakukan secara synchronous bersama Pengajar melalui live session menggunakan aplikasi video conference, dilanjutkan peserta belajar mandiri melalui LMS Kementerian Komdigi.
+2. Full Offline (Luring): Pembelajaran dilakukan secara tatap muka (offline) bersama Pengajar pada kelas pelatihan di lokasi terpilih, dilanjutkan peserta belajar mandiri melalui LMS Kementerian Komdigi.
+3. Self-Paced Learning (SPL): Pembelajaran dilaksanakan secara mandiri melalui bahan pembelajaran yang tersedia di LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN MANAJEMEN PROYEK?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: Aparatur Sipil Negara / Non-ASN yang bekerja di Instansi Pemerintahan Pusat, Daerah dan Desa serta TNI, Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal S1 semua bidang.
+4. Menyiapkan rencana judul kegiatan/proyek yang akan dijadikan contoh kasus dalam pelatihan.
+5. Mendapatkan Surat Penugasan dari Pejabat yang Berwenang.
+6. Mampu menyediakan laptop/komputer.
+7. Menguasai aplikasi perkantoran.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Windows atau MacOS.
+2. Web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, atau sejenisnya.
+3. Terinstall aplikasi MS. Word/sejenis, MS. Excel/sejenis, dan Zoom.
+4. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti 5 hari pelatihan sebanyak 40 jam pelajaran substansi dengan paling banyak tidak mengikuti 1x pertemuan Live Session pada pembelajaran Daring (online), atau paling banyak tidak mengikuti 5 JP pada pembelajaran Luring (offline).
+2. Menyelesaikan Pre-Test dan Post-Test.
+3. Mengerjakan penugasan.
+4. Menyelesaikan tugas akhir.
+5. Mendapatkan total nilai lebih dari 65.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 9 mata pelatihan:
+
+1. Building Learning Commitment (1 JP)
+   Materi:
+   - Orientasi Program
+   - Pengelompokan Peserta
+
+2. Konsep Manajemen Proyek (5 JP)
+   Materi:
+   - Konsep Proyek dan Operasional
+   - Konsep Pengelolaan Proyek
+   - Konsep Pengelolaan Proyek berbasis Agile
+
+3. Pra-Inisiasi Proyek (5 JP)
+   Materi:
+   - Proses Pra-Inisiasi
+   - Identifikasi dan Analisis Alternatif Usulan Proyek
+
+4. Inisiasi Proyek (5 JP)
+   Materi:
+   - Proses Inisiasi
+
+5. Perencanaan Proyek (5 JP)
+   Materi:
+   - Perencanaan Proyek
+
+6. Pelaksanaan Proyek (5 JP)
+   Materi:
+   - Pelaksanaan Proyek
+
+7. Pemantauan dan Pengendalian Proyek (4 JP)
+   Materi:
+   - Pemantauan dan Pengendalian Proyek
+
+8. Penutupan Proyek (4 JP)
+   Materi:
+   - Penutupan Proyek
+
+9. Penyusunan Dokumen Manajemen Proyek (6 JP)
+   Materi:
+   - Penyusunan Dokumen Manajemen Proyek berdasarkan Knowledge Area pada PMBOK
+
+Exam:
+   - Pre-Test dan Post-Test : Mengerjakan pada LMS
+   - Presentasi Tugas Akhir  : Presentasi dan Learning feedback
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN DARING (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan & Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Building Learning Commitment (1 JP) – Synchronous, Pengajar
+- 09.30 – 09.45 : Istirahat
+- 09.45 – 12.00 : Konsep Manajemen Proyek (3 JP) – Synchronous, Pengajar
+- 12.00 – 12.45 : Pra-Inisiasi Proyek (1 JP) – Synchronous, Pengajar
+- 12.45 – 13.45 : Ishoma
+- 13.45 – 15.15 : Konsep Manajemen Proyek (2 JP) – Asynchronous, Belajar Mandiri
+- 15.15 – 16.45 : Pra-Inisiasi Proyek (2 JP) – Asynchronous, Belajar Mandiri
+- 16.45 – 17.00 : Istirahat
+- 17.00 – 17.45 : Inisiasi Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 17.45 – 18.30 : Perencanaan Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Kedua:
+- 08.00 – 09.30 : Pra-Inisiasi Proyek (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Inisiasi Proyek (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Inisiasi Proyek (1 JP) – Synchronous, Pengajar
+- 11.15 – 12.00 : Perencanaan Proyek (1 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Inisiasi Proyek (2 JP) – Asynchronous, Belajar Mandiri
+- 14.30 – 16.00 : Perencanaan Proyek (2 JP) – Asynchronous, Belajar Mandiri
+- 16.00 – 16.45 : Pelaksanaan Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Ketiga:
+- 08.00 – 08.45 : Perencanaan Proyek (1 JP) – Synchronous, Pengajar
+- 08.45 – 10.15 : Pelaksanaan Proyek (2 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Pelaksanaan Proyek (2 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Pemantauan dan Pengendalian Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 13.45 – 14.30 : Penutupan Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 14.30 – 15.15 : Penyusunan Dokumen Manajemen Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Keempat:
+- 08.00 – 09.30 : Pemantauan dan Pengendalian Proyek (2 JP) – Synchronous, Pengajar
+- 09.30 – 10.15 : Penutupan Proyek (1 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Penutupan Proyek (1 JP) – Synchronous, Pengajar
+- 11.15 – 12.00 : Penyusunan Dokumen Manajemen Proyek (1 JP) – Synchronous, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Pemantauan dan Pengendalian Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 13.45 – 15.15 : Penutupan Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 15.15 – 16.00 : Penyusunan Dokumen Manajemen Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Kelima:
+- 08.00 – 10.15 : Penyusunan Dokumen Manajemen Proyek (3 JP) – Synchronous, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Post-Test & Penutupan (Penyelenggara)
+
+TOTAL JP SYNCHRONOUS  : 23 JP
+TOTAL JP ASYNCHRONOUS : 17 JP
+TOTAL JP              : 40 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN LURING (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.45 : Pembukaan & Pre-Test (Penyelenggara)
+- 08.45 – 09.30 : Building Learning Commitment (1 JP) – Tatap Muka, Pengajar
+- 09.30 – 09.45 : Istirahat
+- 09.45 – 12.00 : Konsep Manajemen Proyek (3 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Konsep Manajemen Proyek (2 JP) – Tatap Muka, Pengajar
+- 14.30 – 16.00 : Pra-Inisiasi Proyek (2 JP) – Tatap Muka, Pengajar
+- 16.00 – 16.15 : Istirahat
+- 16.15 – 17.00 : Pra-Inisiasi Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 17.00 – 17.45 : Inisiasi Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Kedua:
+- 08.00 – 09.30 : Pra-Inisiasi Proyek (2 JP) – Tatap Muka, Pengajar
+- 09.30 – 10.15 : Inisiasi Proyek (1 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Inisiasi Proyek (2 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Inisiasi Proyek (1 JP) – Tatap Muka, Pengajar
+- 13.45 – 15.15 : Perencanaan Proyek (2 JP) – Tatap Muka, Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 16.15 : Pelaksanaan Proyek (1 JP) – Asynchronous, Belajar Mandiri
+- 16.15 – 17.00 : Pemantauan dan Pengendalian Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Ketiga:
+- 08.00 – 10.15 : Perencanaan Proyek (3 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Pelaksanaan Proyek (2 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 14.30 : Pelaksanaan Proyek (2 JP) – Tatap Muka, Pengajar
+- 14.30 – 15.15 : Pemantauan dan Pengendalian Proyek (1 JP) – Tatap Muka, Pengajar
+- 15.15 – 15.30 : Istirahat
+- 15.30 – 16.15 : Penyusunan Dokumen Manajemen Proyek (1 JP) – Asynchronous, Belajar Mandiri
+
+Hari Keempat:
+- 08.00 – 09.30 : Pemantauan dan Pengendalian Proyek (2 JP) – Tatap Muka, Pengajar
+- 09.30 – 10.15 : Penutupan Proyek (1 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 12.00 : Penutupan Proyek (2 JP) – Tatap Muka, Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 13.45 : Penutupan Proyek (1 JP) – Tatap Muka, Pengajar
+- 13.45 – 15.15 : Penyusunan Dokumen Manajemen Proyek (2 JP) – Tatap Muka, Pengajar
+- 15.15 – 15.30 : Istirahat
+
+Hari Kelima:
+- 08.00 – 10.15 : Penyusunan Dokumen Manajemen Proyek (3 JP) – Tatap Muka, Pengajar
+- 10.15 – 10.30 : Istirahat
+- 10.30 – 11.15 : Post-Test & Penutupan (Penyelenggara)
+
+TOTAL JP TATAP MUKA        : 35 JP
+TOTAL JP SELF-PACED LEARNING: 5 JP
+TOTAL JP                   : 40 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Manajemen Proyek
+Penerapan pengetahuan, keterampilan, alat, dan teknik pada aktivitas proyek untuk memenuhi persyaratan proyek.
+
+Proyek
+Usaha sementara yang diambil untuk menciptakan produk, layanan, atau hasil yang unik, dengan awal dan akhir yang jelas.
+
+Agile
+Pendekatan manajemen proyek yang bersifat iteratif dan inkremental, menekankan fleksibilitas, kolaborasi, dan respons cepat terhadap perubahan.
+
+Pra-Inisiasi Proyek
+Tahap sebelum proyek resmi dimulai, mencakup identifikasi dan analisis alternatif usulan proyek untuk menentukan kelayakan.
+
+Inisiasi Proyek
+Fase pertama siklus hidup proyek yang mencakup pendefinisian tujuan, ruang lingkup, dan pembuatan dokumen charter proyek.
+
+Charter Proyek
+Dokumen resmi yang mengesahkan keberadaan proyek dan memberikan manajer proyek wewenang untuk menggunakan sumber daya organisasi.
+
+Perencanaan Proyek
+Fase manajemen proyek yang mencakup penyusunan rencana kerja, jadwal, anggaran, dan sumber daya yang diperlukan untuk mencapai tujuan proyek.
+
+Pelaksanaan Proyek
+Fase manajemen proyek di mana rencana proyek dijalankan dan deliverable proyek dihasilkan.
+
+Pemantauan dan Pengendalian Proyek
+Proses melacak, meninjau, dan mengatur kemajuan proyek serta kinerja untuk memenuhi rencana manajemen proyek.
+
+Penutupan Proyek
+Fase akhir manajemen proyek yang mencakup penyelesaian semua aktivitas, penyerahan hasil proyek, dan pendokumentasian pelajaran yang dipetik.
+
+PMBOK (Project Management Body of Knowledge)
+Panduan standar manajemen proyek yang diterbitkan oleh Project Management Institute (PMI), mencakup knowledge area dan proses manajemen proyek.
+
+Knowledge Area (PMBOK)
+Bidang kompetensi manajemen proyek yang dikelompokkan berdasarkan fungsi, seperti manajemen ruang lingkup, waktu, biaya, kualitas, dan risiko.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Manajemen_Proyek
+========================================

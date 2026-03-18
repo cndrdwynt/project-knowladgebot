@@ -1,5 +1,7 @@
 import re
 import urllib.parse
+import pickle
+import os
 from fastapi import FastAPI, HTTPException, Header
 from fastapi.responses import JSONResponse, StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -11,8 +13,22 @@ from modules.database import init_db, simpan_log, get_session, save_session
 from modules.rag import init_rag_pipeline
 
 init_db()
-print("Sedang memuat otak AI...")
+print("Sedang memuat otak AI (ChromaDB + LlamaIndex)...")
 query_engine = init_rag_pipeline()
+
+# ==========================================
+# 1. MEMUAT OTAK KIRI (DATA STATIS PICKLE)
+# ==========================================
+DATA_STATIS = {}
+PICKLE_FILE = 'data_statis_blsdm_final.pkl'
+
+if os.path.exists(PICKLE_FILE):
+    with open(PICKLE_FILE, 'rb') as file:
+        DATA_STATIS = pickle.load(file)
+    print("✅ Data Statis (Pickle) berhasil dimuat sebagai Jalur Cepat!")
+else:
+    print(f"⚠️ Peringatan: File {PICKLE_FILE} tidak ditemukan!")
+
 print("Siap melayani!")
 
 app = FastAPI()
@@ -41,6 +57,43 @@ def check_rate_limit(session_id: str) -> bool:
     rate_limit_store[session_id].append(now)
     return True
 
+# ==========================================
+# 2. LOGIKA GATEKEEPER (ROUTER)
+# ==========================================
+def gatekeeper_jawaban_statis(pertanyaan: str) -> str:
+    """Mengecek apakah pertanyaan bisa dijawab instan pakai Pickle"""
+    if not DATA_STATIS:
+        return ""
+        
+    p = pertanyaan.lower()
+    
+    # Kategori: Kontak & Profil
+    if "alamat" in p or "lokasi" in p or ("dimana" in p and "kantor" in p):
+        return f"🏢 Alamat kantor kami berada di: **{DATA_STATIS.get('profil_dan_kontak', {}).get('alamat', '')}**"
+    if "kepala" in p and ("balai" in p or "blsdm" in p):
+        return f"👨‍💼 Kepala BLSDM Komdigi Surabaya saat ini adalah Bapak **{DATA_STATIS.get('profil_dan_kontak', {}).get('nama_kepala', '')}**."
+    if "jam buka" in p or "jam operasional" in p or "jam pelayanan" in p:
+        return f"⏰ Jam operasional pelayanan publik kami adalah **{DATA_STATIS.get('profil_dan_kontak', {}).get('jam_operasional_publik', '')}**."
+    
+    # Kategori: Rekrutmen & CPNS
+    if "lowongan kerja" in p or "loker" in p or "rekrutmen" in p or ("cara" in p and "kerja" in p):
+        return (f"💼 **{DATA_STATIS.get('info_rekrutmen_kerja', {}).get('status_rekrutmen_mandiri', '')}**.\n\n"
+                f"Satu-satunya jalur resmi untuk bekerja di instansi kami adalah melalui seleksi CPNS nasional yang bisa dipantau di {DATA_STATIS.get('info_rekrutmen_kerja', {}).get('jalur_resmi', '')}.")
+    
+    # Kategori: Magang
+    if "durasi magang" in p or "berapa lama magang" in p:
+        return f"⏳ Durasi pelaksanaan magang di BLSDM Komdigi Surabaya adalah **{DATA_STATIS.get('info_magang', {}).get('durasi_magang', '')}**."
+
+    # Kategori: Spesifikasi Laptop & Syarat Silabus
+    if "spesifikasi" in p or "spek" in p or "laptop" in p or "syarat" in p:
+        for kode, detail in DATA_STATIS.get('silabus_gta_detail', {}).items():
+            nama_pelatihan = detail.get('kepanjangan', '').lower()
+            if kode.lower() in p or nama_pelatihan in p:
+                return f"💻 Spesifikasi laptop/persyaratan khusus untuk pelatihan **{detail.get('kepanjangan', kode)}** adalah: \n\n**{detail.get('spek_laptop', 'Standar')}**."
+                
+    # Jika tidak ada yang cocok, kembalikan string kosong
+    return ""
+
 @app.post("/chat")
 async def chat(request: ChatRequest, x_api_key: str = Header(None), user_agent: str = Header(None)):
     if x_api_key != API_KEY:
@@ -57,20 +110,25 @@ async def chat(request: ChatRequest, x_api_key: str = Header(None), user_agent: 
         state = {'step': 0, 'data': {'nama': 'User', 'kontak': '-'}}
         save_session(sid, state)
 
+    # State 0 -> 1: Tanya Nama
     if state['step'] == 0:
         state['step'] = 1
         save_session(sid, state)
         return JSONResponse({"type": "json", "message": "Halo Sobat Inovator! Rumino siap membantu. 🤖\n\nSiapa nama Kakak?", "quick_replies": []})
+    
+    # State 1 -> 2: Tanya Kontak
     elif state['step'] == 1:
         state['data']['nama'] = msg
         state['step'] = 2
         save_session(sid, state)
         return JSONResponse({"type": "json", "message": f"Halo Kak {msg}! 👋\n\nBoleh minta Email/WA untuk jaga-jaga?", "quick_replies": []})
+    
+    # State 2 -> 3: Selesai onboarding, masuk mode chat
     elif state['step'] == 2:
         state['data']['kontak'] = msg
         state['step'] = 3
         save_session(sid, state)
-        return JSONResponse({"type": "json", "message": "Siap! Silakan tanya apa saja tentang UPT BLSDM Komdigi Surabaya.", "quick_replies": quick_replies})
+        return JSONResponse({"type": "json", "message": "Siap! Silakan tanya apa saja tentang layanan atau program pelatihan BLSDM Komdigi Surabaya. ✨", "quick_replies": quick_replies})
 
     user_nama = state['data']['nama']
     print(f">> {user_nama}: {msg}")
@@ -80,6 +138,7 @@ async def chat(request: ChatRequest, x_api_key: str = Header(None), user_agent: 
         full_response = ""
 
         try:
+            # Pengecekan Intent 1: Hubungi Admin / Kontak
             substring_keywords = [
                 "hubungi", "contact", "kontak", "whatsapp",
                 "customer service", "nomor hp", "nomor telp", "nomor telepon"
@@ -92,6 +151,12 @@ async def chat(request: ChatRequest, x_api_key: str = Header(None), user_agent: 
                 any(re.search(rf'\b{kw}\b', msg_lower) for kw in whole_word_keywords)
             )
 
+            # Pengecekan Intent 2: Gatekeeper Pickle (Jawaban Instan)
+            jawaban_instan = gatekeeper_jawaban_statis(msg)
+
+            # --- EKSEKUSI RESPON ---
+            
+            # 1. Jika User Ingin Menghubungi Admin
             if wants_contact:
                 full_response = (
                     "Baik! Berikut informasi kontak BLSDM Komdigi Surabaya:\n\n"
@@ -103,7 +168,7 @@ async def chat(request: ChatRequest, x_api_key: str = Header(None), user_agent: 
                 yield full_response
 
                 pesan_wa = urllib.parse.quote(f"Halo Admin, saya {user_nama}. Saya ingin bertanya tentang BLSDM Komdigi.")
-                link_wa = f"https://wa.me/6281234567890?text={pesan_wa}"
+                link_wa = f"https://wa.me/6282331841722?text={pesan_wa}"
 
                 yield (
                     '\n\n<div style="margin-top: 16px; padding: 12px; background: linear-gradient(135deg, #25D366 0%, #128C7E 100%); border-radius: 12px; box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);">'
@@ -119,6 +184,16 @@ async def chat(request: ChatRequest, x_api_key: str = Header(None), user_agent: 
                 simpan_log(sid, user_nama, state['data']['kontak'], msg,
                            full_response + " [WA Button]", response_time, user_agent or "")
 
+            # 2. Jika Pertanyaan Terdeteksi oleh Gatekeeper (Pickle)
+            elif jawaban_instan != "":
+                yield jawaban_instan
+                
+                response_time = (datetime.now() - start_time).total_seconds()
+                simpan_log(sid, user_nama, state['data']['kontak'], msg,
+                           jawaban_instan + " [Dijawab oleh Pickle]", response_time, user_agent or "")
+                print(f"⚡ Dijawab kilat oleh Pickle dalam {response_time:.2f} detik!")
+
+            # 3. Lempar ke Ollama + ChromaDB Jika Tidak Ada di Gatekeeper
             else:
                 response = query_engine.query(msg)
 

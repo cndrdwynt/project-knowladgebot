@@ -1,67 +1,50 @@
 import os
+import chromadb
 from llama_index.core import (
     VectorStoreIndex,
-    SimpleDirectoryReader,
-    StorageContext,
-    load_index_from_storage,
     PromptTemplate,
 )
+from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core.postprocessor import SimilarityPostprocessor
 
 from .config import setup_llm
 
-DATA_DIR    = "./data"
-STORAGE_DIR = "./storage"
+CHROMA_DIR = "./database_chroma"
+COLLECTION_NAME = "pengetahuan_blsdm"
 
 def get_index() -> VectorStoreIndex:
-    if os.path.exists(STORAGE_DIR) and os.listdir(STORAGE_DIR):
-        print("📂 Memuat index dari cache...")
-        storage_context = StorageContext.from_defaults(persist_dir=STORAGE_DIR)
-        index = load_index_from_storage(storage_context)
-    else:
-        print("🔨 Membangun index baru dari ./data ...")
-        if not os.path.exists(DATA_DIR):
-            raise FileNotFoundError(f"Folder '{DATA_DIR}' tidak ditemukan.")
-
-        documents = SimpleDirectoryReader(
-            input_dir=DATA_DIR,
-            recursive=True,
-            required_exts=[".txt"],
-        ).load_data()
-
-        if not documents:
-            raise ValueError(f"Tidak ada file .txt di folder '{DATA_DIR}'.")
-
-        print(f"✅ {len(documents)} dokumen berhasil dimuat.")
-        index = VectorStoreIndex.from_documents(documents, show_progress=True)
-        index.storage_context.persist(persist_dir=STORAGE_DIR)
-        print(f"💾 Index disimpan ke '{STORAGE_DIR}'.")
-
+    print(f"📂 Menghubungkan ke ChromaDB di folder {CHROMA_DIR}...")
+    
+    # 1. Inisialisasi koneksi ke database Chroma yang sudah kita buat sebelumnya
+    db = chromadb.PersistentClient(path=CHROMA_DIR)
+    chroma_collection = db.get_collection(COLLECTION_NAME)
+    
+    # 2. Jadikan koleksi Chroma tersebut sebagai Vector Store untuk LlamaIndex
+    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+    
+    # 3. Load index dari vector store (Sangat cepat karena tidak baca file teks lagi)
+    index = VectorStoreIndex.from_vector_store(vector_store)
+    
+    print("✅ Berhasil memuat index dari ChromaDB!")
     return index
 
 def build_query_engine(index: VectorStoreIndex):
-    qa_prompt_tmpl = (
-        "Anda adalah Rumino. Gunakan dokumen referensi berikut HANYA sebagai sumber jawabanmu.\n"
+    qa_prompt_tmpl_str = (
+        "Konteks informasi ada di bawah ini.\n"
         "---------------------\n"
         "{context_str}\n"
         "---------------------\n"
-        "ATURAN MUTLAK:\n"
-        "1. JANGAN PERNAH menyalin atau mengetik ulang isi dokumen referensi di atas! \n"
-        "2. LANGSUNG jawab pertanyaan User berdasarkan intisarinya saja. Jangan bertele-tele.\n"
-        "3. Sapa dengan ramah (Halo Kak!) dan gunakan emoji.\n"
-        "4. Jika menjelaskan prosedur, buat dalam bentuk list angka (1, 2, 3).\n\n"
-        "Pesan User: {query_str}\n"
-        "Balasan Rumino:\n"
+        "Berdasarkan konteks tersebut, jawab pertanyaan ini: {query_str}\n"
     )
-    qa_prompt = PromptTemplate(qa_prompt_tmpl)
+    qa_prompt = PromptTemplate(qa_prompt_tmpl_str)
 
     query_engine = index.as_query_engine(
-        streaming=True,
-        similarity_top_k=5,
+        similarity_top_k=3,
         text_qa_template=qa_prompt,
         node_postprocessors=[
             SimilarityPostprocessor(similarity_cutoff=0.1) 
         ],
+        streaming=True
     )
     return query_engine
 
@@ -98,12 +81,5 @@ def init_rag_pipeline() -> SafeQueryEngine:
     setup_llm()
     index = get_index()
     engine = build_query_engine(index)
-    print("🤖 Rumino RAG siap digunakan.")
+    print("🤖 Rumino RAG siap digunakan dengan ChromaDB (Opsi A Selesai!).")
     return SafeQueryEngine(engine)
-
-def reindex() -> SafeQueryEngine:
-    import shutil
-    if os.path.exists(STORAGE_DIR):
-        shutil.rmtree(STORAGE_DIR)
-        print(f"🗑️  Cache lama di '{STORAGE_DIR}' dihapus.")
-    return init_rag_pipeline()

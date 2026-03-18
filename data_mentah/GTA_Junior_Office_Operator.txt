@@ -1,0 +1,222 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: JUNIOR OFFICE OPERATOR
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : UPT (Unit Pelaksana Teknis)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN JUNIOR OFFICE OPERATOR?
+Pelatihan Junior Office Operator membekali peserta dengan pengetahuan dan teknik yang dibutuhkan untuk mengoperasikan aplikasi perkantoran (office) tingkat dasar, mengoperasikan aplikasi internet dan media sosial, serta memastikan keamanan informasi pengguna.
+
+Pelatihan ini mencakup 30% pengetahuan atau wawasan dan 70% praktik yang bertujuan untuk membentuk keterampilan penggunaan aplikasi perkantoran tingkat dasar.
+
+Output yang dihasilkan peserta mencakup:
+- Menggunakan Peralatan Peripheral.
+- Mengoperasikan Perangkat Lunak Pengolah Kata Tingkat Dasar.
+- Mengoperasikan Perangkat Lunak Lembar Sebar (Spreadsheet) Tingkat Dasar.
+- Mengoperasikan Perangkat Lunak Presentasi Tingkat Dasar.
+- Menggunakan Aplikasi Berbasis Internet dan Media Sosial.
+- Mengidentifikasi Aspek Keamanan Informasi Pengguna.
+
+---
+
+APA TUJUAN PELATIHAN JUNIOR OFFICE OPERATOR?
+Setelah mengikuti pelatihan, diharapkan peserta mampu dan kompeten dalam:
+1. Menggunakan Peralatan Peripheral.
+2. Mengoperasikan Perangkat Lunak Pengolah Kata Tingkat Dasar.
+3. Mengoperasikan Perangkat Lunak Lembar Sebar (Spreadsheet) Tingkat Dasar.
+4. Mengoperasikan Perangkat Lunak Presentasi Tingkat Dasar.
+5. Menggunakan Aplikasi Berbasis Internet dan Media Sosial.
+6. Mengidentifikasi Aspek Keamanan Informasi Pengguna.
+
+---
+
+BERAPA DURASI PELATIHAN JUNIOR OFFICE OPERATOR?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam tiga metode:
+1. Full Online (Daring): Diawali pembelajaran secara online asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, dilanjutkan pembelajaran secara online synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+3. Self-Paced Learning (SPL): Pembelajaran dilaksanakan secara mandiri dengan mengakses bahan pembelajaran yang ada di LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN JUNIOR OFFICE OPERATOR?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal lulusan SMA/Sederajat.
+4. Administrasi: Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan tidak sedang menjalani pendidikan.
+6. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Memiliki aplikasi meeting online (Zoom) bagi peserta online.
+4. Resolusi layar minimal 1024x768.
+5. Memiliki internet browser.
+6. Terinstall aplikasi Microsoft Office Word, Excel, dan PowerPoint minimal tahun 2010.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk full online / hadir di kelas untuk full offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+Untuk metode Self-Paced Learning (SPL):
+Ketentuan kelulusan mengacu kepada informasi di LMS EKK.
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 6 mata pelatihan dengan total 40 JP:
+
+Pre-Test (1 JP)
+
+1. Peralatan Peripheral (3 JP)
+   Outcome: Peserta mampu:
+   - Mempersiapkan peralatan peripheral
+   - Menggunakan printer
+   - Menggunakan scanner
+   - Mematikan peralatan
+
+2. Perangkat Lunak Pengolah Kata Tingkat Dasar – Microsoft Word (10 JP)
+   Outcome: Peserta mampu:
+   - Membuat dokumen
+   - Menyesuaikan pengaturan dasar tata letak dokumen
+   - Mengatur dokumen
+   - Membuat tabel dan gambar pada dokumen
+   - Menggunakan Mail Merge
+   - Mencetak dokumen
+
+3. Perangkat Lunak Lembar Sebar (Spreadsheet) Tingkat Dasar – Microsoft Excel (10 JP)
+   Outcome: Peserta mampu:
+   - Membuat dokumen Spreadsheet
+   - Melakukan pengubahan (editing) sederhana pada dokumen Spreadsheet
+   - Menggunakan formula/fungsi sesuai kebutuhan pada dokumen Spreadsheet
+   - Mencetak dokumen Spreadsheet
+
+4. Perangkat Lunak Presentasi Tingkat Dasar – Microsoft PowerPoint (8 JP)
+   Outcome: Peserta mampu:
+   - Membuat file presentasi
+   - Melakukan editing sederhana
+   - Menggunakan template presentasi
+   - Menggunakan gambar, tabel, shape, video, audio untuk presentasi
+   - Mencetak file presentasi
+   - Menjalankan presentasi
+
+5. Aplikasi Berbasis Internet dan Media Sosial (5 JP)
+   Outcome: Peserta mampu:
+   - Mengidentifikasi koneksi internet telah tersambung
+   - Menjalankan aplikasi berbasis internet (aplikasi google)
+   - Membuat dan mengirim surat elektronik
+   - Melampirkan dokumen saat membuat surat elektronik
+   - Membuka, membalas, dan meneruskan surat elektronik
+   - Menggunakan media sosial (Instagram, Twitter, Facebook)
+
+6. Aspek Keamanan Informasi Pengguna (2 JP)
+   Outcome: Peserta mampu:
+   - Mengidentifikasi ancaman keamanan informasi pengguna
+   - Mengidentifikasi aspek CIA (Confidentiality, Integrity, Availability)
+
+Post-Test (1 JP)
+
+TOTAL JP: 40 JP
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Mempelajari bahan tayang dan bahan pelatihan lainnya secara mandiri.
+2. Live sessions atau klasikal tatap muka (Synchronous).
+3. Penugasan.
+4. Penugasan Akhir.
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Peralatan Peripheral
+Perangkat keras tambahan yang terhubung ke komputer untuk menambah fungsi, seperti printer, scanner, keyboard, dan mouse.
+
+Microsoft Word
+Perangkat lunak pengolah kata dari Microsoft yang digunakan untuk membuat, mengedit, dan memformat dokumen teks.
+
+Microsoft Excel
+Perangkat lunak lembar sebar (spreadsheet) dari Microsoft yang digunakan untuk pengolahan data, perhitungan, dan pembuatan grafik.
+
+Microsoft PowerPoint
+Perangkat lunak presentasi dari Microsoft yang digunakan untuk membuat slide presentasi dengan teks, gambar, animasi, dan multimedia.
+
+Mail Merge
+Fitur pada Microsoft Word yang memungkinkan pembuatan banyak dokumen sekaligus dengan konten yang dipersonalisasi dari sumber data.
+
+Spreadsheet
+Lembar kerja digital yang terdiri dari baris dan kolom untuk menyimpan, mengolah, dan menganalisis data secara tabular.
+
+Internet Browser
+Perangkat lunak yang digunakan untuk mengakses dan menampilkan halaman web di internet, seperti Google Chrome, Mozilla Firefox, dan Microsoft Edge.
+
+Media Sosial
+Platform digital yang memungkinkan pengguna membuat, berbagi, dan berinteraksi melalui konten, seperti Instagram, Twitter, dan Facebook.
+
+CIA (Confidentiality, Integrity, Availability)
+Tiga prinsip utama keamanan informasi: Kerahasiaan (Confidentiality), Integritas (Integrity), dan Ketersediaan (Availability) data.
+
+Keamanan Informasi
+Praktik melindungi informasi dari akses, penggunaan, pengungkapan, gangguan, modifikasi, atau penghancuran yang tidak sah.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+SPL (Self-Paced Learning)
+Metode pembelajaran mandiri di mana peserta belajar sesuai kecepatan masing-masing melalui materi yang tersedia di LMS.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Junior_Office_Operator
+========================================

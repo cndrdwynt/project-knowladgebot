@@ -1,0 +1,303 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: JUNIOR NETWORK ADMINISTRATOR
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Berbagai Kementerian dan Lembaga Negara
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN JUNIOR NETWORK ADMINISTRATOR?
+Pelatihan Junior Network Administrator meningkatkan pemahaman peserta mengenai konsep jaringan sampai dengan konfigurasi dasar peralatan jaringan yang akan diterapkan pada lokasi kerja masing-masing.
+
+Pelatihan ini mencakup kompetensi:
+- Merancang pengalamatan jaringan komputer sehingga jaringan bekerja dengan baik.
+- Memasang jaringan nirkabel.
+- Mengkonfigurasi switch pada jaringan.
+- Mengkonfigurasi routing pada perangkat jaringan dalam satu autonomous system.
+- Mengkonfigurasi routing pada perangkat jaringan antar autonomous system.
+
+---
+
+APA TUJUAN PELATIHAN JUNIOR NETWORK ADMINISTRATOR?
+Peserta memiliki kompetensi digital dalam pengelolaan jaringan yang diindikasikan dengan pengetahuan, sikap dan keterampilan dalam:
+1. Merancang pengalamatan jaringan komputer sehingga jaringan bekerja dengan baik.
+2. Memasang jaringan nirkabel.
+3. Mengkonfigurasi switch pada jaringan.
+4. Mengkonfigurasi routing pada perangkat jaringan yang berada pada satu autonomous system.
+5. Mengkonfigurasi routing pada perangkat jaringan antar autonomous system.
+
+---
+
+BERAPA DURASI PELATIHAN JUNIOR NETWORK ADMINISTRATOR?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Daring (Online): Diawali dengan pembelajaran synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference selama 3 JP, dilanjutkan peserta belajar mandiri (self-paced learning/asynchronous) melalui LMS Kementerian Komdigi selama 5 JP.
+2. Luring (Offline): Pembelajaran dilakukan secara tatap muka synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih selama 8 JP per hari.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN JUNIOR NETWORK ADMINISTRATOR?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: Aparatur Sipil Negara (ASN) / Pegawai Perangkat Daerah.
+2. Usia: Maksimal 53 tahun.
+3. Pendidikan: Minimal SMA dan sederajat.
+4. Tidak buta warna.
+5. Diutamakan dari unsur Teknisi Jaringan dari Perangkat Daerah di Pemkab/Pemkot.
+6. Mendapatkan Surat Penugasan dari Sekretaris Daerah / BKD / Kepala Perangkat Daerah.
+7. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah).
+8. Bersedia mengikuti pelatihan sesuai jadwal yang ditentukan oleh panitia GTA DTS Kominfo.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Sistem Operasi: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB.
+3. Memiliki aplikasi meeting online (Zoom, Webex).
+4. Memiliki konektivitas WiFi dengan akses Internet Dedicated 512 kbps per peserta per perangkat.
+5. Memiliki Webcam dan Microphone.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk daring / hadir di kelas untuk luring) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 5 mata pelatihan:
+
+1. Merancang Pengalamatan Jaringan
+   Materi:
+   - Menjelaskan tentang IP Address
+   - Melakukan Subnetting pada alokasi IP yang diberikan
+   Durasi Daring  : 3 JP sync + 5 JP async
+   Durasi Luring  : 8 JP
+
+2. Memasang Jaringan Nirkabel
+   Materi:
+   - Menjelaskan tahap-tahap pembuatan kabel jaringan
+   - Menjelaskan teknologi WiFi
+   - Melakukan setting Access Point
+   Durasi Daring  : 3 JP sync + 5 JP async
+   Durasi Luring  : 8 JP
+
+3. Mengkonfigurasi Switch pada Jaringan
+   Materi:
+   - Menentukan spesifikasi switch
+   - Memilih switch yang tepat
+   - Memasang switch
+   - Menguji switch pada jaringan
+   Durasi Daring  : 3 JP sync + 5 JP async
+   Durasi Luring  : 8 JP
+
+4. Mengkonfigurasi Routing pada Perangkat Jaringan dalam Satu Autonomous System
+   Materi:
+   - Menjelaskan pengenalan dan komponen dari perangkat router
+   - Melakukan konfigurasi perangkat router
+   Durasi Daring  : 3 JP sync + 5 JP async
+   Durasi Luring  : 8 JP
+
+5. Mengkonfigurasi Routing pada Perangkat Jaringan Antar Autonomous System
+   Materi:
+   - Menjelaskan mengenai Autonomous System (AS)
+   - Menjelaskan mengenai Border Gateway Protocol (BGP)
+   - Melakukan konfigurasi router antar Autonomous System (AS)
+   Durasi Daring  : 3 JP sync + 5 JP async
+   Durasi Luring  : 8 JP
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+
+---
+
+BAGAIMANA JADWAL PELATIHAN LURING (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.30 : Pembukaan dan Pengarahan Program (Panitia)
+- 08.30 – 09.00 : Pre-Test
+- 09.00 – 09.45 : Merancang Pengalamatan Jaringan (1 JP) – Pengajar
+- 09.45 – 10.00 : Coffee Break
+- 10.00 – 12.15 : Merancang Pengalamatan Jaringan (3 JP) – Pengajar
+- 12.15 – 13.00 : Ishoma
+- 13.00 – 15.15 : Merancang Pengalamatan Jaringan (3 JP) – Pengajar
+- 15.15 – 15.30 : Coffee Break
+- 15.30 – 16.15 : Merancang Pengalamatan Jaringan (1 JP) – Pengajar
+
+Hari Kedua:
+- 08.00 – 09.30 : Memasang Jaringan Nirkabel (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Memasang Jaringan Nirkabel (1 JP) – Pengajar
+- 10.30 – 12.00 : Memasang Jaringan Nirkabel (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Memasang Jaringan Nirkabel (3 JP) – Pengajar
+
+Hari Ketiga:
+- 08.00 – 09.30 : Konfigurasi Switch (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Konfigurasi Switch (1 JP) – Pengajar
+- 10.30 – 12.00 : Konfigurasi Switch (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konfigurasi Switch (3 JP) – Pengajar
+
+Hari Keempat:
+- 08.00 – 09.30 : Konfigurasi Routing 1 AS (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Konfigurasi Routing 1 AS (1 JP) – Pengajar
+- 10.30 – 12.00 : Konfigurasi Routing 1 AS (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konfigurasi Routing 1 AS (3 JP) – Pengajar
+
+Hari Kelima:
+- 08.00 – 09.30 : Konfigurasi Routing Antar AS (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Konfigurasi Routing Antar AS (1 JP) – Pengajar
+- 10.30 – 12.00 : Konfigurasi Routing Antar AS (2 JP) – Pengajar
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konfigurasi Routing Antar AS (3 JP) – Pengajar
+- 15.15 – 15.30 : Coffee Break
+- 15.30 – 16.15 : Post-Test dan Evaluasi Penyelenggaraan (PIC)
+- 16.15 – 16.45 : Penutupan (Panitia)
+
+TOTAL JP: 40 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN DARING (HARI PER HARI)?
+
+Hari Pertama:
+- 08.00 – 08.30 : Pembukaan / Pre-Test (PIC)
+- 08.30 – 10.00 : Merancang Pengalamatan Jaringan (2 JP) – Pengajar
+- 10.00 – 10.15 : Coffee Break
+- 10.15 – 11.00 : Merancang Pengalamatan Jaringan (1 JP) – Pengajar
+- 11.00 – 11.45 : Merancang Pengalamatan Jaringan – Belajar Mandiri (1 JP)
+- 11.45 – 12.45 : Ishoma
+- 12.45 – 15.00 : Merancang Pengalamatan Jaringan – Belajar Mandiri (3 JP)
+- 15.00 – 15.15 : Coffee Break
+- 15.15 – 16.00 : Merancang Pengalamatan Jaringan – Belajar Mandiri (1 JP)
+
+Hari Kedua:
+- 08.00 – 09.30 : Memasang Jaringan Nirkabel (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Memasang Jaringan Nirkabel (1 JP) – Pengajar
+- 10.30 – 12.00 : Memasang Jaringan Nirkabel – Belajar Mandiri (2 JP)
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Memasang Jaringan Nirkabel – Belajar Mandiri (3 JP)
+
+Hari Ketiga:
+- 08.00 – 09.30 : Konfigurasi Switch (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Konfigurasi Switch (1 JP) – Pengajar
+- 10.30 – 12.00 : Konfigurasi Switch – Belajar Mandiri (2 JP)
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konfigurasi Switch – Belajar Mandiri (3 JP)
+
+Hari Keempat:
+- 08.00 – 09.30 : Konfigurasi Routing 1 AS (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Konfigurasi Routing 1 AS (1 JP) – Pengajar
+- 10.30 – 12.00 : Konfigurasi Routing 1 AS – Belajar Mandiri (2 JP)
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konfigurasi Routing 1 AS – Belajar Mandiri (3 JP)
+
+Hari Kelima:
+- 08.00 – 09.30 : Konfigurasi Routing Antar AS (2 JP) – Pengajar
+- 09.30 – 09.45 : Coffee Break
+- 09.45 – 10.30 : Konfigurasi Routing Antar AS (1 JP) – Pengajar
+- 10.30 – 12.00 : Konfigurasi Routing Antar AS – Belajar Mandiri (2 JP)
+- 12.00 – 13.00 : Ishoma
+- 13.00 – 15.15 : Konfigurasi Routing Antar AS – Belajar Mandiri (3 JP)
+- 15.15 – 15.30 : Coffee Break
+- 15.30 – 16.15 : Post-Test dan Evaluasi Penyelenggaraan (PIC)
+- 16.15 – 16.45 : Penutupan (Panitia)
+
+TOTAL JP SYNCHRONOUS  : 15 JP
+TOTAL JP ASYNCHRONOUS : 25 JP
+TOTAL JP              : 40 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+IP Address
+Alamat numerik unik yang diberikan kepada setiap perangkat yang terhubung ke jaringan komputer menggunakan protokol Internet.
+
+Subnetting
+Proses membagi jaringan IP menjadi sub-jaringan yang lebih kecil untuk meningkatkan efisiensi dan keamanan jaringan.
+
+WiFi
+Teknologi jaringan nirkabel yang memungkinkan perangkat terhubung ke internet atau jaringan lokal tanpa menggunakan kabel fisik.
+
+Access Point
+Perangkat jaringan yang memungkinkan perangkat nirkabel untuk terhubung ke jaringan kabel menggunakan WiFi.
+
+Switch
+Perangkat jaringan yang menghubungkan beberapa perangkat dalam satu jaringan lokal (LAN) dan mengarahkan data hanya ke perangkat tujuan.
+
+Router
+Perangkat jaringan yang meneruskan paket data antar jaringan komputer, menghubungkan berbagai jaringan termasuk internet.
+
+Autonomous System (AS)
+Kumpulan jaringan IP dan router yang berada di bawah kendali satu atau lebih operator jaringan yang memiliki kebijakan routing yang seragam.
+
+Border Gateway Protocol (BGP)
+Protokol routing yang digunakan untuk bertukar informasi routing antar Autonomous System di internet.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Junior_Network_Administrator
+========================================

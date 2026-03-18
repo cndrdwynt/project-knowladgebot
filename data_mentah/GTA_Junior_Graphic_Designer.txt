@@ -1,0 +1,277 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: JUNIOR GRAPHIC DESIGNER (JGD)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 22 Januari 2025
+
+---
+
+APA ITU PELATIHAN JUNIOR GRAPHIC DESIGNER?
+Pelatihan Junior Graphic Designer membekali peserta dengan pengetahuan dan teknik yang dibutuhkan untuk mengaplikasikan prinsip dasar desain, menerapkan prinsip dasar komunikasi, menerapkan desain brief, mengoperasikan perangkat lunak desain, dan menciptakan karya desain.
+
+Output yang dihasilkan peserta:
+- Mampu mendesain solusi komunikasi visual melalui program identitas, informasi, dan persuasi yang sesuai tujuan penyedia kegiatan kepada khalayaknya.
+
+---
+
+APA TUJUAN PELATIHAN JUNIOR GRAPHIC DESIGNER?
+Mampu mendesain solusi komunikasi visual melalui program identitas, informasi, dan persuasi yang sesuai tujuan penyedia kegiatan kepada khalayaknya.
+
+---
+
+BERAPA DURASI PELATIHAN JUNIOR GRAPHIC DESIGNER?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran asynchronous mandiri melalui LMS Kementerian Komdigi, dilanjutkan sesi synchronous (tatap muka virtual) bersama Pengajar melalui aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous (tatap muka) bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN JUNIOR GRAPHIC DESIGNER?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal SMA/Sederajat.
+4. Diutamakan dari unsur bagian Publikasi dan Dokumentasi.
+5. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. Komputer dengan 32/64-bit processor.
+3. RAM sebesar 8 GB.
+4. Resolusi layar minimal 1024 x 768.
+5. Mempunyai internet browser.
+6. Koneksi jaringan internet yang stabil (dedicated 256 kbps).
+7. Terinstall perangkat lunak Adobe Photoshop dan Adobe Illustrator.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk online / hadir di kelas untuk offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test   : 5%
+- Tugas      : 65%
+- Post-Test  : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Oktober 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 6 mata pelatihan:
+
+1. Prinsip Dasar Desain (8 JP)
+   Materi:
+   - Prinsip dasar desain
+   - Pengetahuan dasar seni rupa
+
+2. Prinsip Dasar Komunikasi (8 JP)
+   Materi:
+   - Pengetahuan dasar komunikasi
+   - Komponen komunikasi
+   - Pengetahuan dasar komunikasi visual
+
+3. Design Brief (8 JP)
+   Materi:
+   - Dasar-dasar design brief
+   - Penyusunan design brief
+   - Pembuatan design brief
+
+4. Perangkat Lunak Desain – Adobe Illustrator & Adobe Photoshop (8 JP)
+   Materi:
+   - Pemilihan jenis perangkat lunak
+   - Penetapan perangkat lunak
+
+5. Karya Desain (5 JP)
+   Materi:
+   - Identifikasi design brief atau project brief
+   - Sketsa karya desain
+
+6. Editor Design Canva (3 JP)
+   Materi:
+   - Pengembangan wujud karya desain
+   - Penciptaan purwarupa karya desain
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Studi Kasus
+8. Penugasan
+9. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08:00–08:45 : Pembukaan Pelatihan, Pengarahan Program, Pre-Test (Penyelenggara)
+- 08:45–10:15 : Prinsip Dasar Desain – Synchronous, Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Prinsip Dasar Desain (lanjutan) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Prinsip Dasar Komunikasi – Synchronous, Pengajar
+- 13:45–16:00 : Lanjutan Prinsip Dasar Desain dan Prinsip Dasar Komunikasi – Mandiri (LMS)
+
+Hari Kedua:
+- 08:00–10:15 : Design Brief – Synchronous, Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Design Brief (lanjutan) – Synchronous, Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Design Brief – Mandiri (LMS)
+
+Hari Ketiga:
+- 08:00–10:15 : Penggunaan Perangkat Lunak Desain (Adobe Illustrator & Adobe Photoshop) – Synchronous, Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Penggunaan Perangkat Lunak Desain (AI & PS) (lanjutan) – Synchronous, Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Penggunaan Perangkat Lunak Desain (AI & PS) – Mandiri (LMS)
+
+Hari Keempat:
+- 08:00–10:15 : Penggunaan Perangkat Lunak Desain (AI & PS) – Synchronous, Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Penggunaan Perangkat Lunak Desain (AI & PS) (lanjutan) – Synchronous, Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Penggunaan Perangkat Lunak Desain (AI & PS) – Mandiri (LMS)
+
+Hari Kelima:
+- 07:30–09:45 : Menciptakan Karya Desain – Synchronous, Pengajar
+- 09:45–10:00 : Rehat
+- 10:00–11:30 : Menciptakan Karya Desain (lanjutan) – Synchronous, Pengajar
+- 11:30–13:30 : Ishoma
+- 13:30–14:15 : Editor Design Online – Canva – Synchronous, Pengajar
+- 14:15–15:00 : Post-Test
+- 15:00–15:30 : Penutupan (Panitia)
+
+TOTAL JP SYNCHRONOUS  : 26 JP
+TOTAL JP ASYNCHRONOUS : 14 JP
+TOTAL JP              : 40 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08:00–08:45 : Pembukaan Pelatihan, Pengarahan Program, Pre-Test (Penyelenggara)
+- 08:45–10:15 : Prinsip Dasar Desain – Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Prinsip Dasar Desain (lanjutan) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Prinsip Dasar Komunikasi – Pengajar
+- 13:45–16:00 : Lanjutan Prinsip Dasar Desain dan Prinsip Dasar Komunikasi – Pengajar
+
+Hari Kedua:
+- 08:00–10:15 : Design Brief – Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Design Brief (lanjutan) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Design Brief – Pengajar
+
+Hari Ketiga:
+- 08:00–10:15 : Penggunaan Perangkat Lunak Desain (Adobe Illustrator & Adobe Photoshop) – Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Penggunaan Perangkat Lunak Desain (AI & PS) (lanjutan) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Penggunaan Perangkat Lunak Desain (AI & PS) – Pengajar
+
+Hari Keempat:
+- 08:00–10:15 : Penggunaan Perangkat Lunak Desain (AI & PS) – Pengajar
+- 10:15–10:30 : Rehat
+- 10:30–12:00 : Penggunaan Perangkat Lunak Desain (AI & PS) (lanjutan) – Pengajar
+- 12:00–13:00 : Istirahat
+- 13:00–15:15 : Lanjutan Penggunaan Perangkat Lunak Desain (AI & PS) – Pengajar
+
+Hari Kelima:
+- 07:30–09:45 : Menciptakan Karya Desain – Pengajar
+- 09:45–10:00 : Rehat
+- 10:00–11:30 : Menciptakan Karya Desain (lanjutan) – Pengajar
+- 11:30–13:30 : Ishoma
+- 13:30–14:15 : Editor Design Online – Canva – Pengajar
+- 14:15–15:00 : Post-Test
+- 15:00–15:30 : Penutupan (Panitia)
+
+TOTAL JP: 40 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Junior Graphic Designer (JGD)
+Profesi desainer grafis tingkat pemula yang mampu menerapkan prinsip dasar desain dan komunikasi visual untuk menciptakan karya desain yang sesuai tujuan dan khalayak sasaran.
+
+Prinsip Dasar Desain
+Kaidah-kaidah fundamental dalam desain grafis yang mencakup elemen seperti keseimbangan, kontras, repetisi, alignment, dan hierarki visual.
+
+Komunikasi Visual
+Penyampaian pesan atau informasi melalui elemen-elemen visual seperti gambar, tipografi, warna, dan ilustrasi kepada khalayak.
+
+Design Brief
+Dokumen panduan yang berisi tujuan, target audiens, pesan utama, dan spesifikasi teknis dari sebuah proyek desain. Menjadi acuan utama bagi desainer dalam berkarya.
+
+Adobe Illustrator (AI)
+Perangkat lunak desain grafis berbasis vektor dari Adobe yang digunakan untuk membuat ilustrasi, logo, ikon, dan berbagai elemen grafis.
+
+Adobe Photoshop (PS)
+Perangkat lunak pengolahan gambar berbasis raster dari Adobe yang digunakan untuk mengedit foto, manipulasi gambar, dan desain berbasis bitmap.
+
+Canva
+Platform desain grafis berbasis web yang menyediakan berbagai template dan alat desain yang mudah digunakan untuk membuat berbagai konten visual.
+
+Purwarupa (Prototype)
+Versi awal atau model dari karya desain yang dibuat untuk diuji dan dievaluasi sebelum diproduksi secara final.
+
+Seni Rupa
+Cabang ilmu seni yang berkaitan dengan penciptaan karya yang dapat dinikmati melalui indera penglihatan, menjadi landasan teori dalam proses desain grafis.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Junior_Graphic_Designer
+========================================

@@ -1,0 +1,231 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: AI PRAKTIS UNTUK PRODUKTIVITAS (AIP)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Google Indonesia, Dicoding
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 27 Agustus 2025
+
+---
+
+APA ITU PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS (AIP)?
+Pelatihan ini membekali peserta dengan pemahaman mengenai pemanfaatan AI dalam peningkatan produktivitas. Peserta mampu memanfaatkan AI secara efektif, etis, dan strategis untuk meningkatkan produktivitas serta beradaptasi pada era AI.
+
+---
+
+APA TUJUAN PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+Mampu memanfaatkan AI secara efektif, etis, dan strategis untuk meningkatkan produktivitas serta beradaptasi pada era AI.
+
+---
+
+BERAPA DURASI PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+Pelatihan Kelas Wajib : 22 JP (Self-paced Learning)
+Kelas Bonus (bagi lulusan kelas wajib) : 40 JP (Self-paced Learning)
+Kelas Luring (bagi peserta terpilih) : 8 JP
+(1 JP = 45 menit)
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+Pelatihan menggunakan metode Self-Paced Learning (Pembelajaran mandiri):
+- Pembelajaran dilaksanakan secara mandiri dengan mengakses bahan pembelajaran yang tersedia di LMS.
+- Platform pembelajaran menggunakan Dicoding (bermitra dengan Google Indonesia).
+
+CATATAN KHUSUS: Pelatihan AIP BERBEDA dengan pelatihan GTA lainnya. Metodenya murni Self-Paced Learning (tidak ada Full Online synchronous atau Full Offline kelas reguler). Kelas luring hanya tersedia bagi peserta terpilih berdasarkan hasil seleksi.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN Kementerian Komunikasi dan Digital (Pejabat Pimpinan Tinggi Pratama dan Ketua Tim Kerja pada Satuan Kerja di Komdigi didorong untuk mengikuti).
+2. Usia maksimal 55 tahun pada saat mendaftar.
+3. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang, dibuktikan dengan Surat Rekomendasi Peserta yang ditandatangani oleh Pimpinan.
+4. Berkomitmen mengikuti seluruh aktivitas pembelajaran pada LMS, dibuktikan dengan Surat Komitmen Peserta.
+5. Familiar menggunakan komputer untuk pekerjaan sehari-hari.
+
+CATATAN KHUSUS:
+- Pelatihan AIP KHUSUS untuk ASN Kementerian Komunikasi dan Digital, berbeda dengan pelatihan GTA lainnya yang terbuka untuk semua ASN/TNI/Polri lintas instansi.
+- Batas usia maksimal 55 tahun, lebih tinggi dibanding pelatihan GTA lainnya yang umumnya maksimal 53 tahun.
+- Tidak ada persyaratan pendidikan minimal yang disebutkan.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA AI PRAKTIS UNTUK PRODUKTIVITAS?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS yang terinstall aplikasi Web Browser (Google Chrome atau Mozilla Firefox).
+2. RAM: 2 GB (rekomendasi 4 GB).
+3. Resolusi layar: 1366x768 (rekomendasi Full HD 1920x1080).
+4. Koneksi jaringan internet yang stabil (dedicated 256 kbps).
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+
+Untuk metode Self-Paced Learning:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Menyelesaikan seluruh pembelajaran (materi bacaan, video, kuis).
+2. Menyelesaikan Pre-test dan Post-test.
+
+---
+
+KAPAN JADWAL PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+- Periode Belajar Daring (Kelas Wajib)        : 13 Oktober – 22 Oktober 2025
+- Batas Waktu Kelas Wajib                     : 22 Oktober 2025
+- Kelas Bonus untuk Lulusan Kelas Wajib       : 23 Oktober – 6 November 2025
+- Seleksi Peserta Pelatihan Luring             : 3 – 7 November 2025
+- Pengumuman Peserta Pelatihan Luring          : 14 November 2025
+- Pelatihan Luring Periode Pertama             : 17 – 21 November 2025
+- Pelatihan Luring Periode Kedua               : 24 – 28 November 2025
+- Pelatihan Luring Periode Ketiga              : 1 – 5 Desember 2025
+
+Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA REWARDS BAGI LULUSAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+Peserta yang berhasil lulus kelas wajib akan mendapatkan:
+1. Kelas bonus berdurasi 40 JP berjudul "Belajar Penggunaan Generative AI" (bersifat daring dan mandiri / self-paced learning).
+2. Kesempatan untuk diseleksi menjadi peserta pelatihan luring berdurasi 8 JP dengan topik antara lain "Praktik langsung membuat karya AI: menerapkan studi kasus yang aplikatif selaras dengan kebutuhan Komdigi."
+
+---
+
+BAGAIMANA KRITERIA PEMILIHAN PESERTA KELAS LURING AI PRAKTIS UNTUK PRODUKTIVITAS?
+Pemilihan kandidat penerima kelas luring berdasarkan 3 aspek:
+1. Skor tes seleksi yang diraih lulusan kelas wajib (semakin tinggi skor, semakin berpotensi mendapatkan kelas luring).
+2. Peserta yang lulus dari kelas bonus akan lebih diprioritaskan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+Pelatihan terdiri dari 5 mata pelatihan dengan total 22 JP:
+
+1. Pengenalan AI (7,3 JP)
+   Detail: Pemanfaatan AI untuk menyelesaikan tugas tertentu dalam kehidupan sehari-hari.
+
+2. Memaksimalkan Produktivitas dengan Alat AI (4 JP)
+   Detail: Menggunakan alat AI untuk membantu meningkatkan produktivitas berbagai tugas dan konteks pekerjaan.
+
+3. Temukan Seni dalam Prompt Engineering (5 JP)
+   Detail: Merancang dan mengoptimalkan prompt secara efektif untuk berbagai kebutuhan.
+
+4. Ketika AI Tidak Sempurna (2,8 JP)
+   Detail: Merencanakan strategi penggunaan AI yang bertanggung jawab dengan mempertimbangkan prinsip etika, keamanan, dan regulasi sesuai prinsip AI yang berlaku.
+
+5. Tetap Unggul di Era AI (2,9 JP)
+   Detail: Membuat strategi pengembangan keterampilan diri agar dapat beradaptasi terhadap kemajuan AI.
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+1. Self-paced Learning (Asynchronous) – belajar mandiri
+2. Diskusi
+3. Curah Pendapat (Brainstorming)
+4. Latihan
+5. Studi Kasus
+
+---
+
+BAGAIMANA LINIMASA / TIMELINE PELATIHAN AI PRAKTIS UNTUK PRODUKTIVITAS?
+
+Oktober 2025 – Minggu ke-2:
+- 13 Oktober 2025 : Sesi Onboarding Peserta via Zoom & Periode Belajar dimulai
+- 14 Oktober 2025 : Pengiriman Email Akses Belajar Dicoding oleh Tim Dicoding
+- 17 Oktober 2025 : Batas Waktu Redeem Token Dicoding
+
+Oktober 2025 – Minggu ke-3:
+- 22 Oktober 2025 : Batas Waktu Menyelesaikan Kelas Wajib "AI Praktis untuk Produktivitas"
+- 23 Oktober 2025 : Distribusi Akses dan Periode Belajar Kelas Bonus dimulai untuk Lulusan Kelas Wajib
+
+Oktober 2025 – Minggu ke-4:
+- 27 – 31 Oktober 2025 : Periode Belajar Kelas Bonus untuk Lulusan Kelas Wajib
+
+November 2025 – Minggu ke-1:
+- 3 – 6 November 2025  : Seleksi Peserta Pelatihan Offline dimulai
+- 7 November 2025      : Seleksi Peserta Pelatihan Offline dimulai
+
+November 2025 – Minggu ke-2:
+- 14 November 2025 : Tim Dicoding Membagikan Data Peserta Pelatihan Offline kepada Komdigi
+- 14 November 2025 : Pengumuman Peserta Pelatihan Luring
+
+November 2025 – Minggu ke-3:
+- 17 – 21 November 2025 : Pelatihan Luring Periode Pertama (4-6 gelombang)
+
+November 2025 – Minggu ke-4:
+- 24 – 28 November 2025 : Pelatihan Luring Periode Kedua
+
+Desember 2025 – Minggu ke-1:
+- 1 – 5 Desember 2025 : Pelatihan Luring Periode Ketiga
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+AI (Artificial Intelligence / Kecerdasan Buatan)
+Teknologi yang memungkinkan mesin atau komputer untuk meniru kemampuan kognitif manusia seperti belajar, memahami bahasa, dan mengambil keputusan.
+
+Generative AI
+Jenis AI yang mampu menghasilkan konten baru seperti teks, gambar, audio, dan video berdasarkan data pelatihan yang dimilikinya.
+
+Prompt Engineering
+Teknik merancang dan mengoptimalkan instruksi (prompt) secara efektif agar AI menghasilkan output yang akurat dan relevan.
+
+Produktivitas
+Kemampuan seseorang atau organisasi dalam menghasilkan output yang optimal dengan sumber daya yang tersedia secara efektif dan efisien.
+
+Etika AI
+Prinsip-prinsip moral yang mengatur penggunaan AI secara bertanggung jawab, termasuk menghindari bias, menjaga privasi, dan transparansi.
+
+Self-Paced Learning (SPL)
+Metode pembelajaran mandiri di mana peserta belajar sesuai kecepatan masing-masing melalui materi yang tersedia di platform digital.
+
+Dicoding
+Platform pembelajaran teknologi digital Indonesia yang menjadi platform belajar untuk pelatihan AIP, bermitra dengan Google Indonesia.
+
+Google Indonesia
+Cabang Google di Indonesia yang menjadi mitra pelatihan AI Praktis untuk Produktivitas bersama Dicoding.
+
+Kelas Wajib
+Kelas utama dalam pelatihan AIP berdurasi 22 JP yang harus diselesaikan oleh seluruh peserta.
+
+Kelas Bonus
+Kelas tambahan berdurasi 40 JP yang diberikan kepada peserta yang lulus kelas wajib, berisi materi "Belajar Penggunaan Generative AI."
+
+Kelas Luring
+Pelatihan tatap muka berdurasi 8 JP yang hanya diperuntukkan bagi peserta terpilih berdasarkan hasil seleksi dari kelas wajib dan kelas bonus.
+
+Pejabat Pimpinan Tinggi Pratama
+Jabatan struktural eselon II dalam birokrasi pemerintahan Indonesia, setara dengan kepala biro atau direktur.
+
+Ketua Tim Kerja
+Jabatan fungsional yang memimpin suatu tim kerja dalam satuan kerja pemerintahan.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_AIP_AI-Praktis-untuk-Produktivitas
+========================================

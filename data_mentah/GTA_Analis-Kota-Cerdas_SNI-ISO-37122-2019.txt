@@ -1,0 +1,265 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: ANALIS KOTA CERDAS SNI ISO 37122:2019
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Pelatihan ini bertujuan mewujudkan keterampilan Aparat Sipil Negara (ASN) yang terlibat dalam tim kota cerdas, sebagai analis kota cerdas. Secara khusus, pelatihan ini ditujukan bagi para ASN dari dinas yang terlibat dalam pengembangan kota cerdas (smart city). Materi pelatihan mencakup 7 unit kompetensi mulai dari konsep kota cerdas hingga analisis indikator 6 dimensi kota cerdas berdasarkan SNI ISO 37122:2019. Bahan ajar tersedia dalam Bahasa Indonesia.
+
+---
+
+APA TUJUAN PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Peserta memiliki keterampilan dalam melakukan analisis indikator kota cerdas SNI ISO 37122:2019 pada 6 dimensi:
+1. Smart Governance
+2. Smart People
+3. Smart Economy
+4. Smart Living
+5. Smart Mobility
+6. Smart Environment
+
+---
+
+BERAPA DURASI PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Pelatihan berlangsung selama 22 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+- Metode Online  : 3 hari (sinkronus + asinkronus)
+- Metode Offline : 3 hari (tatap muka klasikal)
+- Metode Blended : 3 hari (gabungan online dan offline)
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Pelatihan tersedia dalam tiga metode:
+1. Full Online (Daring): Peserta belajar secara langsung dari Pengajar melalui live sessions dan belajar secara mandiri (Self-paced Learning) dengan memanfaatkan bahan ajar di platform LMS Kementerian Komdigi.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous dengan Pengajar pada kelas pelatihan di lokasi terpilih.
+3. Blended (Gabungan Online dan Offline): Peserta belajar secara langsung dari Pengajar melalui pertemuan tatap muka di lokasi yang ditentukan serta belajar secara mandiri (Self-paced Learning) dengan memanfaatkan bahan ajar di LMS.
+
+CATATAN: Pelatihan Analis Kota Cerdas adalah salah satu pelatihan GTA yang menyediakan metode Blended / Hybrid, tidak hanya Full Online dan Full Offline.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Warga Negara Indonesia, dibuktikan dengan KTP/KK.
+2. Usia maksimal 53 tahun.
+3. Pendidikan minimal D3 dari semua jurusan.
+4. Status pekerjaan: ASN pemerintah kota/kabupaten, dibuktikan dengan Surat Tugas / Surat Izin Atasan / Surat Keterangan bekerja.
+5. Diutamakan dari dinas yang menangani pengembangan kota cerdas (smart city).
+
+CATATAN KHUSUS: Pelatihan ini KHUSUS untuk ASN pemerintah kota/kabupaten, tidak terbuka untuk ASN K/L (kementerian/lembaga) atau TNI/Polri. Ini berbeda dari sebagian besar pelatihan GTA lainnya.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 2 GB (4 GB direkomendasikan).
+3. Memiliki aplikasi meeting online (Zoom, Webex).
+4. Memiliki konektivitas internet yang stabil.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+
+Untuk semua metode (Full Online, Full Offline, Blended):
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mempelajari materi dari seluruh bahan ajar.
+2. Mengerjakan Pre-test.
+3. Mengerjakan Post-test.
+4. Menyelesaikan seluruh tugas.
+5. Mengikuti seluruh aktivitas pembelajaran dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+6. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+7. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Pelatihan dijadwalkan berlangsung pada periode Mei – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+CATATAN: Jadwal pelatihan ini dimulai lebih lambat (Mei 2025) dibanding pelatihan GTA lainnya yang umumnya mulai Februari 2025.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+Pelatihan terdiri dari 7 unit kompetensi dengan total 22 JP:
+
+1. Konsep Kota Cerdas (3 JP)
+   Materi:
+   - Memahami ruang lingkup kota cerdas
+   - Memahami framework kota cerdas
+   - Memahami dimensi kota cerdas
+   - Memahami SNI ISO 37122:2019
+
+2. Indikator Kota Cerdas Dimensi Smart Governance (3 JP)
+   Materi:
+   - Indikator Kota Cerdas Dimensi Smart Government
+   - Data indikator kota cerdas
+
+3. Indikator Kota Cerdas Dimensi Smart People (2 JP)
+   Materi:
+   - Indikator Kota Cerdas Dimensi Smart People
+   - Data indikator kota cerdas
+
+4. Indikator Kota Cerdas Dimensi Smart Economy (3 JP)
+   Materi:
+   - Indikator Kota Cerdas Dimensi Smart Economy
+   - Data indikator kota cerdas
+
+5. Indikator Kota Cerdas Dimensi Smart Living (3 JP)
+   Materi:
+   - Indikator Kota Cerdas Dimensi Smart Living
+   - Data indikator kota cerdas
+
+6. Indikator Kota Cerdas Dimensi Smart Mobility (3 JP)
+   Materi:
+   - Indikator Kota Cerdas Dimensi Smart Mobility
+   - Data indikator kota cerdas
+
+7. Indikator Kota Cerdas Dimensi Smart Environment (5 JP)
+   Materi:
+   - Indikator Kota Cerdas Dimensi Smart Environment
+   - Data indikator kota cerdas
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN ANALIS KOTA CERDAS SNI ISO 37122:2019?
+1. Live Sessions atau Pertemuan Tatap Muka (Synchronous)
+2. Mempelajari bahan ajar (Asynchronous / Mandiri)
+3. Menjawab kuis
+4. Mengerjakan tugas
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING ANALIS KOTA CERDAS (3 HARI PELAKSANAAN)?
+
+Hari 1:
+- UK 1 : Konsep Kota Cerdas – Tatap Muka Klasikal (3 JP)
+- UK 2 : Indikator SNI 37122:2019 Dimensi Smart Governance – Tatap Muka Klasikal (3 JP)
+
+Hari 2:
+- UK 3 : Indikator SNI 37122:2019 Dimensi Smart People – Tatap Muka Klasikal (2 JP)
+- UK 4 : Indikator SNI 37122:2019 Dimensi Smart Economy – Tatap Muka Klasikal (3 JP)
+- UK 5 : Indikator SNI 37122:2019 Dimensi Smart Living – Tatap Muka Klasikal (3 JP)
+
+Hari 3:
+- UK 6 : Indikator SNI 37122:2019 Dimensi Smart Mobility – Tatap Muka Klasikal (3 JP)
+- UK 7 : Indikator SNI 37122:2019 Dimensi Smart Environment – Tatap Muka Klasikal (5 JP)
+
+TOTAL JP: 22 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN BLENDED ANALIS KOTA CERDAS (3 HARI PELAKSANAAN)?
+(Tersedia 2 pilihan: Pilihan A = 1 Hari Online + 2 Hari Offline, Pilihan B = 2 Hari Online + 1 Hari Offline)
+
+Hari 1:
+- UK 1 : Konsep Kota Cerdas – Synchronous Live Session (3 JP)
+- UK 2 : Indikator SNI 37122:2019 Dimensi Smart Governance – Synchronous Live Session (3 JP)
+
+Hari 2:
+- UK 3 : Indikator SNI 37122:2019 Dimensi Smart People – Synchronous Live Session / Tatap Muka Klasikal (2 JP)
+- UK 4 : Indikator SNI 37122:2019 Dimensi Smart Economy – Synchronous Live Session / Tatap Muka Klasikal (3 JP)
+- UK 5 : Indikator SNI 37122:2019 Dimensi Smart Living – Synchronous Live Session / Tatap Muka Klasikal (3 JP)
+
+Hari 3:
+- UK 6 : Indikator SNI 37122:2019 Dimensi Smart Mobility – Tatap Muka Klasikal (3 JP)
+- UK 7 : Indikator SNI 37122:2019 Dimensi Smart Environment – Tatap Muka Klasikal (5 JP)
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING ANALIS KOTA CERDAS (3 HARI PELAKSANAAN)?
+
+Hari 1:
+- UK 1 : Konsep Kota Cerdas – Synchronous Live Session (2 JP) + Asinkronus Mandiri (1 JP)
+- UK 2 : Indikator SNI 37122:2019 Dimensi Smart Governance – Synchronous Live Session (2 JP) + Asinkronus Mandiri (1 JP)
+
+Hari 2:
+- UK 3 : Indikator SNI 37122:2019 Dimensi Smart People – Synchronous Live Session (2 JP)
+- UK 4 : Indikator SNI 37122:2019 Dimensi Smart Economy – Synchronous Live Session (2 JP) + Asinkronus Mandiri (1 JP)
+- UK 5 : Indikator SNI 37122:2019 Dimensi Smart Living – Synchronous Live Session (2 JP) + Asinkronus Mandiri (1 JP)
+
+Hari 3:
+- UK 6 : Indikator SNI 37122:2019 Dimensi Smart Mobility – Synchronous Live Session (2 JP) + Asinkronus Mandiri (1 JP)
+- UK 7 : Indikator SNI 37122:2019 Dimensi Smart Environment – Synchronous Live Session (4 JP) + Asinkronus Mandiri (1 JP)
+
+TOTAL JP: 22 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Kota Cerdas (Smart City)
+Konsep pengelolaan kota yang memanfaatkan teknologi informasi dan komunikasi untuk meningkatkan efisiensi layanan publik, kualitas hidup warga, dan keberlanjutan lingkungan.
+
+SNI ISO 37122:2019
+Standar Nasional Indonesia yang diadopsi dari ISO 37122:2019, berisi indikator-indikator untuk mengukur dan membandingkan kinerja kota cerdas.
+
+Analis Kota Cerdas
+Profesi yang bertugas menganalisis data dan indikator kota cerdas berdasarkan standar SNI ISO 37122:2019 untuk mendukung pengembangan kota.
+
+Smart Governance
+Dimensi kota cerdas yang berkaitan dengan tata kelola pemerintahan berbasis teknologi, transparansi, dan partisipasi publik.
+
+Smart People
+Dimensi kota cerdas yang berkaitan dengan sumber daya manusia, pendidikan, kreativitas, dan partisipasi masyarakat dalam kehidupan kota.
+
+Smart Economy
+Dimensi kota cerdas yang berkaitan dengan daya saing ekonomi, inovasi, kewirausahaan, dan produktivitas ekonomi berbasis teknologi.
+
+Smart Living
+Dimensi kota cerdas yang berkaitan dengan kualitas hidup warga, fasilitas kesehatan, keamanan, dan ketersediaan perumahan layak.
+
+Smart Mobility
+Dimensi kota cerdas yang berkaitan dengan sistem transportasi terintegrasi, aksesibilitas, dan mobilitas yang efisien dan berkelanjutan.
+
+Smart Environment
+Dimensi kota cerdas yang berkaitan dengan pengelolaan lingkungan hidup, energi terbarukan, dan keberlanjutan ekologi kota.
+
+Indikator Kota Cerdas
+Parameter atau ukuran kuantitatif maupun kualitatif yang digunakan untuk menilai tingkat kecerdasan atau kemajuan suatu kota dalam setiap dimensi.
+
+Framework Kota Cerdas
+Kerangka kerja yang menjadi acuan dalam perencanaan, implementasi, dan evaluasi pengembangan kota cerdas.
+
+Blended Learning
+Metode pembelajaran yang menggabungkan pertemuan tatap muka (offline) dengan pembelajaran online, baik synchronous maupun asynchronous.
+
+Unit Kompetensi (UK)
+Satuan kompetensi dalam pelatihan yang mencakup pengetahuan, keterampilan, dan sikap kerja tertentu yang dapat didemonstrasikan.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_Analis-Kota-Cerdas_SNI-ISO-37122-2019
+========================================

@@ -1,0 +1,267 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: AUDIT KEAMANAN SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : Badan Siber dan Sandi Negara (BSSN)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : (tidak tercantum versi tanggal pada silabus ini)
+
+---
+
+APA ITU PELATIHAN AUDIT KEAMANAN SPBE?
+Pelatihan Audit Keamanan Sistem Pemerintahan Berbasis Elektronik (SPBE) dirancang untuk memberikan pemahaman yang mendalam kepada para pemangku kepentingan terkait audit keamanan SPBE. Audit Keamanan SPBE dilakukan untuk menilai kepatuhan terhadap penerapan kebijakan, peraturan, atau standar keamanan SPBE yang telah ditetapkan. Audit Keamanan SPBE dapat membantu mengidentifikasi area-area yang perlu diperbaiki dan memastikan kepatuhan terhadap regulasi dan standar keamanan yang berlaku.
+
+---
+
+APA TUJUAN PELATIHAN AUDIT KEAMANAN SPBE?
+Peserta dapat:
+1. Memahami segmentasi dan kebijakan Audit Keamanan SPBE
+2. Menerapkan standar dan tata cara audit keamanan SPBE
+3. Menerapkan kriteria dan konsep instrumen audit keamanan SPBE
+4. Mengaplikasikan evaluasi kepatuhan penerapan standar keamanan SPBE
+
+---
+
+BERAPA DURASI PELATIHAN AUDIT KEAMANAN SPBE?
+Pelatihan berlangsung selama 36 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran asynchronous mandiri (self-paced learning) melalui LMS Kementerian Kominfo, dilanjutkan sesi synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar di kelas pelatihan pada lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN AUDIT KEAMANAN SPBE?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal S1.
+4. Administrasi: Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Diutamakan: Pegawai yang melaksanakan tugas bidang pengelolaan Sistem Informasi / Teknologi Informasi / Keamanan Informasi di instansi; memiliki latar belakang pendidikan SI/TI/Keamanan Informasi; Jabatan Fungsional rumpun Kekomputeran, auditor; dan/atau bekerja pada unit yang memiliki fungsi pengawasan / inspektorat.
+6. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Terinstall aplikasi office.
+4. Terinstall web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, atau sejenisnya).
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk online / hadir di kelas untuk offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Oktober 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 6 mata pelatihan:
+
+1. Building Learning Commitment / BLC (1 JP)
+   Materi:
+   - Pengenalan program pelatihan
+   - Komitmen belajar
+
+2. Segmentasi dan Kebijakan Audit TIK SPBE (8 JP)
+   Materi:
+   - Regulasi dan Kebijakan Audit TIK SPBE (Audit Aplikasi, Audit Infrastruktur, dan Audit Keamanan SPBE)
+   - Spesifik Kebijakan Audit Keamanan SPBE
+   - Penilaian Kategorisasi Sistem Elektronik (SE)
+
+3. Standar dan Tata Cara Audit Keamanan (9 JP)
+   Materi:
+   - Standar dan tata cara audit keamanan SPBE
+   - Keterkaitan audit keamanan SPBE dengan Indeks SPBE
+
+4. Kriteria dan Konsep Instrumen Audit Keamanan SPBE (9 JP)
+   Materi:
+   - Instrumen Indeks Keamanan Informasi (KAMI)
+   - Instrumen Cyber Security Maturity (CSM)
+   - Keterkaitan Instrumen Indeks Keamanan Informasi (KAMI) dan CSM terhadap Audit Keamanan SPBE
+
+5. Tahapan Pelaksanaan Audit Keamanan SPBE (5 JP)
+   Materi:
+   - Tahapan pelaksanaan Audit Keamanan SPBE pada aplikasi SPBE
+   - Tahapan pelaksanaan audit keamanan SPBE pada infrastruktur SPBE
+
+6. Evaluasi Kepatuhan Penerapan Standar Keamanan SPBE (4 JP)
+   Materi:
+   - Instrumen evaluasi penerapan standar keamanan SPBE menggunakan Checklist Standar Keamanan SPBE (Perban No. 4 Tahun 2021) untuk mendukung Audit Keamanan SPBE
+   - Pelaksanaan audit keamanan SPBE
+
+Exam:
+   - Pre-Test dan Post-Test
+   - Tugas Akhir: Mengerjakan Pre-test, Post-test, dan Tugas Akhir pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+2. Diskusi
+3. Curah Pendapat (Brainstorming)
+4. Praktik
+5. Latihan
+6. Penugasan
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Pembukaan Pelatihan (Panitia)
+- 08:45–09:30 : Orientasi & BLC (1 JP) – Pengajar
+- 09:30–10:15 : Segmentasi dan Kebijakan Audit TIK SPBE (1 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Segmentasi dan Kebijakan Audit TIK SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Segmentasi dan Kebijakan Audit TIK SPBE (3 JP) – Pengajar
+- 15:15–16:45 : Segmentasi dan Kebijakan Audit TIK SPBE (2 JP) – Pengajar
+
+Hari 2:
+- 08:00–10:15 : Standar dan tata cara audit keamanan SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Standar dan tata cara audit keamanan SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Standar dan tata cara audit keamanan SPBE (3 JP) – Pengajar
+- 15:15–16:00 : Standar dan tata cara audit keamanan SPBE (1 JP) – Pengajar
+
+Hari 3:
+- 08:00–10:15 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (3 JP) – Pengajar
+- 15:15–16:00 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (1 JP) – Pengajar
+
+Hari 4:
+- 08:00–10:15 : Tahapan pelaksanaan audit keamanan SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Tahapan pelaksanaan audit keamanan SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Evaluasi Kepatuhan Penerapan Standar Keamanan SPBE (3 JP) – Pengajar
+- 15:15–15:30 : Istirahat
+- 15:30–16:15 : Evaluasi Kepatuhan Penerapan Standar Keamanan SPBE (1 JP) – Pengajar
+- 16:15–17:00 : Post-Test dan Penutupan
+
+TOTAL JP TATAP MUKA: 36 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Pembukaan Pelatihan (Panitia)
+- 08:45–09:30 : Orientasi & BLC (1 JP) – Pengajar
+- 09:30–10:15 : Segmentasi dan Kebijakan Audit TIK SPBE (1 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Segmentasi dan Kebijakan Audit TIK SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Segmentasi dan Kebijakan Audit TIK SPBE (2 JP) – Mandiri (Asynchronous)
+
+Hari 2:
+- 08:00–10:15 : Segmentasi dan Kebijakan Audit TIK SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Standar dan tata cara audit keamanan SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–16:00 : Standar dan tata cara audit keamanan SPBE (4 JP) – Mandiri (Asynchronous)
+
+Hari 3:
+- 08:00–10:15 : Standar dan tata cara audit keamanan SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (2 JP) – Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–15:15 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (3 JP) – Mandiri (Asynchronous)
+
+Hari 4:
+- 08:00–10:15 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–11:15 : Kriteria dan Konsep Instrumen Audit Keamanan SPBE (1 JP) – Pengajar
+- 11:15–12:45 : Tahapan pelaksanaan audit keamanan SPBE (2 JP) – Pengajar
+- 12:45–13:45 : Ishoma
+- 13:45–16:00 : Tahapan pelaksanaan audit keamanan SPBE (3 JP) – Mandiri (Asynchronous)
+
+Hari 5:
+- 08:00–10:15 : Evaluasi Kepatuhan Penerapan Standar Keamanan SPBE (3 JP) – Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Evaluasi Kepatuhan Penerapan Standar Keamanan SPBE (1 JP) – Pengajar
+- 11:15–13:00 : Ishoma
+- 13:00–13:45 : Penutupan (Panitia)
+
+TOTAL JP TATAP MUKA (SYNCHRONOUS): 24 JP
+TOTAL JP MANDIRI (ASYNCHRONOUS) : 12 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Audit Keamanan SPBE
+Proses penilaian sistematis terhadap kepatuhan penerapan kebijakan, peraturan, atau standar keamanan SPBE pada instansi pemerintah.
+
+Indeks SPBE
+Ukuran keberhasilan penerapan SPBE pada instansi pemerintah yang mencakup berbagai aspek termasuk keamanan informasi.
+
+Indeks Keamanan Informasi (KAMI)
+Instrumen yang digunakan untuk mengukur tingkat kematangan dan kelengkapan penerapan keamanan informasi di suatu instansi pemerintah, dikembangkan oleh BSSN.
+
+Cyber Security Maturity (CSM)
+Instrumen penilaian kematangan keamanan siber suatu organisasi pemerintah.
+
+Sistem Elektronik (SE)
+Sistem elektronik yang digunakan dalam penyelenggaraan SPBE, dikategorisasikan berdasarkan tingkat dampak dan risikonya.
+
+Kategorisasi Sistem Elektronik
+Proses penilaian dan pengelompokan sistem elektronik berdasarkan tingkat dampak apabila terjadi gangguan keamanan informasi.
+
+Perban No. 4 Tahun 2021
+Peraturan Badan Siber dan Sandi Negara Nomor 4 Tahun 2021 tentang Pedoman Manajemen Keamanan Informasi Sistem Pemerintahan Berbasis Elektronik, sebagai acuan checklist standar keamanan SPBE.
+
+Audit TIK SPBE
+Audit yang mencakup tiga area: Audit Aplikasi, Audit Infrastruktur, dan Audit Keamanan SPBE.
+
+BSSN (Badan Siber dan Sandi Negara)
+Lembaga pemerintah yang bertanggung jawab atas keamanan siber dan sandi negara, menjadi mitra pelatihan dalam program ini.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Audit_Keamanan_SPBE
+========================================

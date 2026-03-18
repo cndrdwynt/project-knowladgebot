@@ -1,0 +1,270 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: ARTIFICIAL INTELLIGENCE (AI) FOR CONTENT CREATION
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan ini diharapkan dapat meningkatkan kapasitas ASN dalam memanfaatkan teknologi Artificial Intelligence (AI) untuk menghasilkan konten kreatif yang berkualitas dan relevan bagi masyarakat. Pelatihan ini membekali keterampilan peserta dalam membuat konten kreatif menggunakan kecerdasan buatan.
+
+---
+
+APA TUJUAN PELATIHAN AI FOR CONTENT CREATION?
+1. Memahami Artificial Intelligence (AI) di dunia kreatif.
+2. Menggunakan tools berbasis Artificial Intelligence (AI) untuk content creation.
+3. Membuat konten dengan Artificial Intelligence (AI).
+
+---
+
+BERAPA DURASI PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan berlangsung selama 22 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+- Metode Online  : Synchronous = 19 JP, Asynchronous = 3 JP, Total = 22 JP (4 hari)
+- Metode Offline : 22 JP Synchronous (3 hari)
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan tersedia dalam tiga metode:
+1. Full Online (Daring): Pembelajaran diawali secara asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, kemudian dilanjutkan online synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+3. Self-Paced Learning (SPL): Pembelajaran dilaksanakan secara mandiri dengan mengakses bahan pembelajaran yang ada di LMS.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN AI FOR CONTENT CREATION?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN / TNI / POLRI atau pegawai yang bekerja di Instansi pemerintahan.
+2. Diutamakan bagi pengelola media sosial Instansi ataupun yang bekerja di bidang kehumasan dan komunikasi publik.
+3. Pendidikan minimal SMA.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan tidak sedang menjalani pendidikan.
+6. Khususnya bagi peserta penyandang disabilitas, wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+7. Dapat mengoperasikan aplikasi office tingkat dasar dan memiliki media sosial.
+
+CATATAN KHUSUS: Pelatihan ini hanya mensyaratkan pendidikan minimal SMA, lebih rendah dibanding sebagian besar pelatihan GTA lainnya yang mensyaratkan minimal D3.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA AI FOR CONTENT CREATION?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Ruang penyimpanan kosong minimal 1,5 GB.
+4. Resolusi layar minimal 1024x768.
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN AI FOR CONTENT CREATION?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Mengikuti Presentasi Tugas Akhir Pelatihan (jika ada).
+5. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+Untuk metode Self-Paced Learning (SPL):
+Ketentuan kelulusan mengacu kepada informasi di LMS.
+
+---
+
+KAPAN JADWAL PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN AI FOR CONTENT CREATION?
+Pelatihan terdiri dari 3 mata pelatihan dengan total 22 JP:
+
+1. Pengenalan Artificial Intelligence (AI) di Dunia Kreatif (4 JP)
+   Materi:
+   - Konsep dasar AI dan penerapannya dalam komunikasi publik
+   - Ruang lingkup pembuatan konten di media sosial
+   - Etika penggunaan AI dalam pembuatan konten publik
+   - Perencanaan konten berbasis AI
+
+2. Penggunaan Tools Berbasis Artificial Intelligence (AI) untuk Content Creation (12 JP)
+   Materi:
+   a. Penulisan Konten:
+      - Alat bantu penulisan konten berbasis AI
+      - Membuat berbagai jenis konten
+      - Tips menulis prompt yang efektif
+   b. Desain Grafis:
+      - Alat desain berbasis AI
+      - Membuat desain infografis, poster, dan visual lainnya
+   c. Pembuatan Video:
+      - Alat pembuatan video berbasis AI
+   d. Pembuatan Audio:
+      - Alat pembuatan musik berbasis AI
+      - Alat pembuatan suara berbasis AI
+
+3. Pembuatan Konten dengan Artificial Intelligence (AI) (6 JP)
+   Materi:
+   - Editing Konten
+   - Optimasi Konten
+   - Publikasi konten di media sosial
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN AI FOR CONTENT CREATION?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+9. Learning Feedback
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING AI FOR CONTENT CREATION (3 HARI PELAKSANAAN)?
+
+Hari 1:
+- 08.00 – 08.15 : Pembukaan
+- 08.15 – 08.45 : Pengarahan Program dan Pre-test
+- 08.45 – 10.15 : Pengenalan AI di dunia kreatif – Sinkronus Live Classroom (2 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Pengenalan AI di dunia kreatif – Sinkronus Live Classroom (2 JP)
+- 12.00 – 13.00 : Break
+- 13.00 – 14.30 : Penggunaan tools AI content creation – Sinkronus Live Classroom (2 JP)
+- 14.30 – 14.45 : Break
+- 14.45 – 16.15 : Penggunaan tools AI content creation – Sinkronus Live Classroom (2 JP)
+
+Hari 2:
+- 08.00 – 10.15 : Penggunaan tools AI content creation – Sinkronus Live Classroom (3 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Penggunaan tools AI content creation – Sinkronus Live Classroom (2 JP)
+- 12.00 – 13.00 : Break
+- 13.00 – 14.30 : Penggunaan tools AI content creation – Sinkronus Live Classroom (2 JP)
+- 14.30 – 14.45 : Break
+- 14.45 – 16.15 : Pembuatan Konten dengan AI – Sinkronus Live Classroom (2 JP)
+
+Hari 3:
+- 08.00 – 10.15 : Pembuatan Konten dengan AI – Sinkronus Live Classroom (3 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Pembuatan Konten dengan AI – Sinkronus Live Classroom (2 JP)
+- 12.00 – 13.00 : Break
+- 13.00 – 13.30 : Penutupan dan Post Test
+
+TOTAL JP: 22 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING AI FOR CONTENT CREATION (4 HARI PELAKSANAAN)?
+
+Hari 1:
+- 08.00 – 08.15 : Pembukaan
+- 08.15 – 08.45 : Pengarahan Program dan Pre-test
+- 08.45 – 10.15 : Pengenalan AI di dunia kreatif – Sinkronus Live Classroom (2 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Pengenalan AI di dunia kreatif – Sinkronus Live Classroom (2 JP)
+
+Hari 2:
+- 08.00 – 10.15 : Penggunaan tools AI content creation – Sinkronus Live Classroom (3 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Penggunaan tools AI content creation – Sinkronus Live Classroom (2 JP)
+- 12.00 – 13.00 : Break
+- 13.00 – 14.30 : Penggunaan tools AI content creation – Asinkronus Self Learning (2 JP)
+
+Hari 3:
+- 08.00 – 10.15 : Penggunaan tools AI content creation – Sinkronus Live Classroom (3 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Penggunaan tools AI content creation – Sinkronus Live Classroom (2 JP)
+- 12.00 – 13.00 : Break
+- 13.00 – 13.45 : Pembuatan Konten dengan AI – Asinkronus Self Learning (1 JP)
+
+Hari 4:
+- 08.00 – 10.15 : Pembuatan Konten dengan AI – Sinkronus Live Classroom (3 JP)
+- 10.15 – 10.30 : Break
+- 10.30 – 12.00 : Pembuatan Konten dengan AI – Sinkronus Live Classroom (2 JP)
+- 12.00 – 13.00 : Break
+- 13.00 – 13.30 : Post Test dan Penutupan
+
+TOTAL Synchronous  : 19 JP
+TOTAL Asynchronous : 3 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+AI (Artificial Intelligence / Kecerdasan Buatan)
+Teknologi yang memungkinkan mesin atau komputer untuk meniru kemampuan kognitif manusia seperti belajar, memahami bahasa, dan mengambil keputusan.
+
+Generative AI
+Jenis AI yang mampu menghasilkan konten baru seperti teks, gambar, audio, dan video berdasarkan data pelatihan yang dimilikinya.
+
+Content Creation
+Proses pembuatan konten digital seperti tulisan, gambar, video, dan audio untuk dipublikasikan di platform digital atau media sosial.
+
+Prompt
+Instruksi atau perintah teks yang diberikan kepada sistem AI untuk menghasilkan output yang diinginkan.
+
+Prompt Engineering
+Teknik merancang dan mengoptimalkan instruksi (prompt) secara efektif agar AI menghasilkan output yang akurat dan relevan.
+
+Infografis
+Representasi visual informasi atau data menggunakan gambar, ikon, dan teks ringkas untuk memudahkan pemahaman.
+
+Content Planning Template
+Dokumen perencanaan konten yang memuat jadwal, topik, format, dan platform distribusi konten secara terstruktur.
+
+Optimasi Konten
+Proses meningkatkan kualitas, relevansi, dan keterjangkauan konten agar lebih efektif menjangkau target audiens.
+
+Etika AI
+Prinsip-prinsip moral yang mengatur penggunaan AI secara bertanggung jawab, termasuk menghindari bias, menjaga privasi, dan transparansi.
+
+Media Sosial
+Platform berbasis internet yang memungkinkan pengguna membuat, berbagi, dan berinteraksi melalui konten digital, seperti Instagram, Twitter/X, Facebook, dan TikTok.
+
+Komunikasi Publik
+Kegiatan penyampaian informasi dari instansi pemerintah kepada masyarakat luas melalui berbagai saluran komunikasi.
+
+Kehumasan (Public Relations)
+Fungsi manajemen yang bertugas membangun dan memelihara hubungan yang baik antara organisasi dengan publiknya.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+SPL (Self-Paced Learning)
+Metode pembelajaran mandiri di mana peserta belajar sesuai kecepatan masing-masing melalui materi yang tersedia di LMS.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_AI-for-Content-Creation
+========================================

@@ -1,0 +1,328 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: DATA SCIENCE FUNDAMENTAL
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : UPT (Unit Pelaksana Teknis)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN DATA SCIENCE FUNDAMENTAL?
+Pelatihan Data Science Fundamental memberikan kompetensi kepada peserta mengenai penerapan model algoritma data science untuk mendapatkan wawasan dan pengetahuan yang relevan guna mendukung pengambilan keputusan organisasi berbasis data.
+
+Output yang dihasilkan peserta mencakup:
+- Business Understanding: Menjelaskan analisis kebutuhan bisnis dan tujuan dilakukannya data science.
+- Data Understanding: Menjelaskan pengumpulan data sesuai dengan tujuan bisnis.
+- Learning Method: Menjelaskan learning method yang tepat untuk tujuan bisnis dan dataset yang dimiliki.
+- Etika Data Science: Menjelaskan etika penggunaan data dalam proses Data Science.
+- Data Preprocessing: Mempraktikkan penyiapan data set untuk dimasukkan ke dalam model.
+- Membangun Model: Mempraktikkan model data science yang tepat dan hasil evaluasi yang baik.
+- Evaluasi: Mempraktikkan penilaian hasil evaluasi model.
+- Proyek Data Science: Membangun proyek Data Science dengan sistematika yang tepat.
+
+---
+
+APA TUJUAN PELATIHAN DATA SCIENCE FUNDAMENTAL?
+1. Kemampuan analisa proses penentuan objektif bisnis, serta penentuan tujuan dan rencana proyek.
+2. Kemampuan menjelaskan proses pengumpulan, penelaahan, pemvalidasian, pembersihan, pengkonstruksian, penentuan label serta mengintegrasikan data.
+3. Kemampuan menjelaskan learning method pada algoritma data science.
+4. Kemampuan menjelaskan etika data science.
+5. Kemampuan membangun model dengan algoritma dan mengevaluasi model:
+   a. Estimasi
+   b. Forecasting
+   c. Klasifikasi
+   d. Clustering
+   e. Asosiasi
+6. Kemampuan membangun proyek Data Science.
+
+---
+
+BERAPA DURASI PELATIHAN DATA SCIENCE FUNDAMENTAL?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran asynchronous mandiri melalui LMS Kementerian Komdigi, dilanjutkan sesi synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN DATA SCIENCE FUNDAMENTAL?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3.
+4. Administrasi: Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Tidak sedang menempuh pendidikan formal (perkuliahan/sekolah), dibuktikan dengan surat pernyataan tidak sedang menjalani pendidikan.
+6. Khusus peserta penyandang disabilitas: wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+7. Dapat mengoperasikan Ms. Excel tingkat dasar.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 4 GB (8 GB direkomendasikan).
+3. Ruang penyimpanan kosong minimal 1.5 GB.
+4. Resolusi layar minimal 1024x768.
+5. Terinstall aplikasi RapidMiner (https://my.rapidminer.com/nexus/account/index.html#downloads).
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk online / hadir di kelas untuk offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, Post-test, dan seluruh penugasan di LMS.
+3. Mengikuti Presentasi Tugas Akhir Pelatihan.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test   : 5%
+- Post-Test  : 30%
+- Penugasan  : 65%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 10 mata pelatihan:
+
+1. Business Understanding & Data Understanding (4 JP)
+   Materi:
+   - Perkembangan Data Science
+   - Business and Data Understanding
+
+2. Data Preprocessing (3 JP)
+   Materi:
+   - Pengenalan tools (RapidMiner)
+   - Data Preprocessing
+
+3. Learning Method (5 JP)
+   Materi:
+   - Peran Data Science
+   - Supervised Learning
+   - Unsupervised Learning
+   - Semi Supervised Learning
+
+4. Etika Data Science (3 JP)
+   Materi:
+   - Etika data science
+
+5. Model Estimasi dan Evaluasi (4 JP)
+   Materi:
+   - Model Estimasi
+   - Evaluasi model Estimasi
+
+6. Model Forecasting dan Evaluasi (4 JP)
+   Materi:
+   - Model Forecasting
+   - Evaluasi model Forecasting
+
+7. Model Klasifikasi dan Evaluasi (4 JP)
+   Materi:
+   - Model Klasifikasi
+   - Evaluasi model Klasifikasi
+
+8. Model Clustering dan Evaluasi (4 JP)
+   Materi:
+   - Model Clustering
+   - Evaluasi model Clustering
+
+9. Model Asosiasi dan Evaluasi (4 JP)
+   Materi:
+   - Model Asosiasi
+   - Evaluasi model Asosiasi
+
+10. Proyek Data Science (5 JP)
+    Materi:
+    - Tahapan Proyek Data Science
+    - Penyajian Proyek Data Science
+
+Exam:
+    - Pre-Test dan Post-Test: Mengerjakan pada LMS
+    - Presentasi Tugas Akhir Pelatihan: Presentasi dan Learning feedback
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08:00–08:45 : Pembukaan (Panitia)
+- 08:45–09:30 : Pre-test – Synchronous (Peserta)
+- 09:30–10:15 : Business Understanding & Data Understanding (1 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Data Preprocessing (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Learning Method (2 JP) – Synchronous, Pengajar
+- 14:30–17:30 : Pendalaman Materi & Tugas (4 JP) – Asynchronous, Peserta
+
+Hari Kedua:
+- 08:00–08:45 : Etika Data Science (1 JP) – Synchronous, Pengajar
+- 08:45–10:15 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–16:00 : Pendalaman Materi & Tugas (4 JP) – Asynchronous, Peserta
+
+Hari Ketiga:
+- 08:00–10:15 : Model Algoritma Data Science (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–16:00 : Pendalaman Materi & Tugas (4 JP) – Asynchronous, Peserta
+
+Hari Keempat:
+- 08:00–10:15 : Model Algoritma Data Science (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–16:45 : Pendalaman Materi & Tugas (3 JP) – Asynchronous, Peserta
+
+Hari Kelima:
+- 08:00–10:15 : Proyek Data Science – Presentasi (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Proyek Data Science – Presentasi (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Post-test – Synchronous/LMS (Peserta)
+- 13:45–14:15 : Penutupan (Panitia)
+
+TOTAL JP SYNCHRONOUS  : 25 JP
+TOTAL JP ASYNCHRONOUS : 15 JP
+TOTAL JP              : 40 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 07:30–08:30 : Pembukaan (Panitia)
+- 08:30–09:00 : Pre-test – Synchronous/LMS (Peserta)
+- 09:00–10:30 : Business Understanding & Data Understanding (2 JP) – Synchronous, Pengajar
+- 10:30–10:45 : Istirahat
+- 10:45–12:15 : Business Understanding & Data Understanding (2 JP) – Synchronous, Pengajar
+- 12:15–13:15 : Ishoma
+- 13:15–15:30 : Data Preprocessing (3 JP) – Synchronous, Pengajar
+- 15:30–17:00 : Learning Method (2 JP) – Synchronous, Pengajar
+
+Hari Kedua:
+- 08:00–10:15 : Learning Method (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Etika Data Science (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Etika Data Science (1 JP) – Synchronous, Pengajar
+- 13:00–16:00 : Model Algoritma Data Science (4 JP) – Synchronous, Pengajar
+
+Hari Ketiga:
+- 08:00–10:15 : Model Algoritma Data Science (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–16:00 : Model Algoritma Data Science (4 JP) – Synchronous, Pengajar
+
+Hari Keempat:
+- 08:00–10:15 : Model Algoritma Data Science (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Model Algoritma Data Science (2 JP) – Synchronous, Pengajar
+- 14:30–16:00 : Proyek Data Science – Persiapan Tugas/Diskusi (2 JP) – Synchronous, Peserta
+
+Hari Kelima:
+- 08:00–10:15 : Proyek Data Science – Presentasi (3 JP) – Synchronous, Pengajar
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Proyek Data Science – Presentasi (2 JP) – Synchronous, Pengajar
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Post-test – Synchronous/LMS (Peserta)
+- 13:45–14:15 : Penutupan (Panitia)
+
+TOTAL JP: 40 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+Data Science
+Bidang ilmu yang menggabungkan statistik, matematika, pemrograman komputer, dan keahlian domain untuk mengekstrak pengetahuan dan wawasan dari data.
+
+Business Understanding
+Fase pertama dalam proyek data science yang mencakup pemahaman mendalam tentang tujuan dan persyaratan proyek dari perspektif bisnis.
+
+Data Understanding
+Proses pengumpulan data awal dan eksplorasi untuk memahami karakteristik, kualitas, dan pola dalam data yang akan digunakan.
+
+Data Preprocessing
+Proses persiapan data mentah sebelum dimasukkan ke dalam model, meliputi pembersihan data, transformasi, normalisasi, dan seleksi fitur.
+
+RapidMiner
+Platform perangkat lunak analitik data yang digunakan dalam pelatihan ini untuk membangun dan mengevaluasi model data science.
+
+Supervised Learning
+Metode pembelajaran mesin di mana model dilatih menggunakan data yang sudah berlabel (memiliki output yang diketahui), mencakup estimasi, forecasting, dan klasifikasi.
+
+Unsupervised Learning
+Metode pembelajaran mesin di mana model mencari pola dalam data tanpa label, mencakup clustering dan asosiasi.
+
+Semi Supervised Learning
+Metode pembelajaran mesin yang menggabungkan data berlabel dan tidak berlabel dalam proses pelatihan model.
+
+Model Estimasi
+Model data science yang digunakan untuk memperkirakan nilai numerik berdasarkan input tertentu.
+
+Model Forecasting
+Model data science yang digunakan untuk memprediksi nilai di masa depan berdasarkan data historis.
+
+Model Klasifikasi
+Model data science yang digunakan untuk mengkategorikan data ke dalam kelas-kelas yang telah ditentukan.
+
+Model Clustering
+Model data science yang digunakan untuk mengelompokkan data ke dalam kelompok-kelompok berdasarkan kemiripan karakteristiknya tanpa label yang telah ditentukan sebelumnya.
+
+Model Asosiasi
+Model data science yang digunakan untuk menemukan aturan hubungan (association rules) di antara variabel dalam dataset yang besar.
+
+Etika Data Science
+Prinsip-prinsip moral yang harus dipatuhi dalam penggunaan dan pengelolaan data, mencakup privasi, keadilan, transparansi, dan akuntabilitas.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Data_Science_Fundamental
+========================================

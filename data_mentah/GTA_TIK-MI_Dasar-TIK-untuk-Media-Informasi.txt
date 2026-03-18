@@ -1,0 +1,321 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: DASAR TEKNOLOGI INFORMASI DAN KOMUNIKASI UNTUK MEDIA INFORMASI (TIK-MI)
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 22 Januari 2025
+
+---
+
+APA ITU PELATIHAN DASAR TIK UNTUK MEDIA INFORMASI (TIK-MI)?
+Pelatihan ini membekali peserta dengan pemahaman mengenai aplikasi perkantoran sampai dengan keamanan informasi pengguna yang akan diterapkan pada lokasi kerja masing-masing. Pelatihan berfokus pada kemampuan praktis menggunakan perangkat komputer dan aplikasi digital untuk mendukung tugas publikasi dan dokumentasi di lingkungan pemerintahan.
+
+Output yang diharapkan:
+Peserta mampu menggunakan peralatan komputer dan aplikasi perkantoran sampai dengan keamanan informasi pengguna yang akan diterapkan pada masing-masing unit kerja.
+
+---
+
+APA TUJUAN PELATIHAN TIK-MI?
+Mampu menggunakan peralatan komputer dan aplikasi perkantoran sampai dengan keamanan informasi pengguna yang akan diterapkan pada masing-masing unit kerja.
+
+Tujuan per mata pelatihan:
+1. Menggunakan Peralatan Peripheral Komputer (2 JP).
+2. Menggunakan Perangkat Lunak Pengolah Kata Tingkat Dasar (9 JP).
+3. Menggunakan Perangkat Lunak Presentasi Tingkat Dasar (9 JP).
+4. Menggunakan Perangkat Lunak Pengolah Gambar Tingkat Dasar (9 JP).
+5. Menggunakan Aplikasi Berbasis Internet (6 JP).
+6. Mengidentifikasi Aspek Keamanan Informasi Pengguna (3 JP).
+7. Mengenalkan Konsep Isu dan Opini Publik (2 JP).
+
+---
+
+BERAPA DURASI PELATIHAN TIK-MI?
+Pelatihan berlangsung selama 40 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+- Metode Online : Synchronous = 15 JP, Asynchronous = 25 JP
+- Metode Offline : 40 JP synchronous (5 hari)
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN TIK-MI?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Pembelajaran diawali secara online asynchronous (self-paced learning) melalui LMS Kementerian Komdigi, kemudian dilanjutkan online synchronous (tatap muka virtual) bersama Pengajar melalui aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous (tatap muka) bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN TIK-MI?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia maksimal 53 tahun pada saat mendaftar.
+3. Diutamakan dari unsur bagian Publikasi dan Dokumentasi.
+4. Memperoleh surat penugasan dari pimpinan atau pejabat yang berwenang.
+5. Khususnya bagi peserta penyandang disabilitas, wajib menyediakan sarana dan prasarana pendukung pelatihan secara mandiri.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA TIK-MI?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. Processor 32/64-bit.
+3. RAM sebesar 8 GB.
+4. Koneksi jaringan internet yang stabil (dedicated 256 kbps).
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN TIK-MI?
+
+Untuk metode Full Online dan Full Offline:
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session / hadir di kelas) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test  : 5%
+- Tugas     : 65%
+- Post-Test : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN TIK-MI?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Oktober 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+CATATAN: Jadwal TIK-MI berakhir lebih awal (Oktober 2025) dibanding sebagian besar pelatihan GTA lainnya yang umumnya berlangsung hingga Desember 2025.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN DALAM PELATIHAN TIK-MI?
+Pelatihan terdiri dari 7 mata pelatihan dengan total 40 JP:
+
+1. Peralatan Peripheral Komputer (2 JP)
+   Materi:
+   - Peralatan input dan output komputer
+   - Penggunaan peralatan input dan output komputer
+
+2. Perangkat Lunak Pengolah Kata Tingkat Dasar (9 JP)
+   Materi:
+   - Pembuatan dokumen
+   - Penyesuaian pengaturan dasar untuk memenuhi tata letak dokumen
+   - Pengaturan dokumen
+   - Pembuatan tabel
+   - Penambahan gambar
+   - Penggunaan mail merge
+   - Pencetakan dokumen
+
+3. Perangkat Lunak Presentasi Tingkat Dasar (9 JP)
+   Materi:
+   - Pembuatan file presentasi
+   - Editing sederhana
+   - Penggunaan template presentasi
+   - Pencetakan file presentasi
+   - Menjalankan presentasi
+
+4. Perangkat Lunak Pengolah Gambar Tingkat Dasar (9 JP)
+   Materi:
+   - Pengenalan aplikasi pengolah gambar
+   - Penggunaan aplikasi pengolah gambar (Canva)
+
+5. Penggunaan Aplikasi Berbasis Internet (6 JP)
+   Materi:
+   - Pengoperasian aplikasi berbasis internet
+   - Pembuatan surat elektronik
+   - Pengiriman surat elektronik
+   - Pemilihan media sosial (Instagram, Twitter, Facebook)
+   - Pengelolaan akun di media sosial
+   - Pengiriman informasi di media sosial
+
+6. Identifikasi Aspek Keamanan Informasi Pengguna (3 JP)
+   Materi:
+   - Cara mengidentifikasi ancaman keamanan informasi pengguna
+   - Cara mengidentifikasi aspek CIA (Confidentiality, Integrity, Availability)
+   - Identifikasi aplikasi keamanan data dan informasi
+   - Konsep internet sehat
+
+7. Pengenalan Konsep Isu dan Opini Publik (2 JP)
+   Materi:
+   - Konsep isu dan opini publik
+   - Identifikasi UU ITE dan menangkal hoax
+
+Exam:
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN TIK-MI?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Studi Kasus
+8. Penugasan
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE / DARING TIK-MI (5 HARI PELAKSANAAN)?
+
+CATATAN: Metode online TIK-MI menggunakan banyak porsi asynchronous/mandiri (25 JP dari total 40 JP).
+
+Hari 1:
+- 08.00 – 08.45 : Pembukaan Pelatihan, Pengarahan Program, Pre Test (Penyelenggara)
+- 08.45 – 09.30 : Menggunakan Peralatan Peripheral Komputer (1 JP) – Pengajar
+- 09.30 – 10.15 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (1 JP) – Pengajar
+- 11.15 – 12.00 : Menggunakan Peralatan Peripheral Komputer (1 JP) – Mandiri (LMS)
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (4 JP) – Mandiri (LMS)
+
+Hari 2:
+- 08.00 – 10.15 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (2 JP) – Mandiri (LMS)
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 15.15 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (3 JP) – Mandiri (LMS)
+
+Hari 3:
+- 08.00 – 10.15 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 11.15 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (1 JP) – Mandiri (LMS)
+- 11.15 – 12.00 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (1 JP) – Mandiri (LMS)
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 15.15 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (3 JP) – Mandiri (LMS)
+
+Hari 4:
+- 08.00 – 10.15 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (2 JP) – Mandiri (LMS)
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 15.15 : Aplikasi Berbasis Internet (3 JP) – Mandiri (LMS)
+
+Hari 5:
+- 08.00 – 08.45 : Aplikasi Berbasis Internet (1 JP) – Pengajar
+- 08.45 – 09.30 : Mengidentifikasi Aspek Keamanan Informasi Pengguna (1 JP) – Pengajar
+- 09.30 – 10.15 : Mengenalkan Konsep Isu dan Opini Publik (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Aplikasi Berbasis Internet (2 JP) – Mandiri (LMS)
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 14.30 : Mengidentifikasi Aspek Keamanan Informasi Pengguna (2 JP) – Mandiri (LMS)
+- 14.30 – 15.15 : Mengenalkan Konsep Isu dan Opini Publik (1 JP) – Mandiri (LMS)
+- Post Test & Penutupan (Penyelenggara)
+
+TOTAL Synchronous  : 15 JP
+TOTAL Asynchronous : 25 JP
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE / LURING TIK-MI (5 HARI PELAKSANAAN)?
+
+Hari 1:
+- 08.00 – 08.45 : Pembukaan Pelatihan, Pengarahan Program, Pre Test (Penyelenggara)
+- 08.45 – 10.15 : Menggunakan Peralatan Peripheral Komputer (2 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 14.30 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (2 JP) – Pengajar
+
+Hari 2:
+- 08.00 – 10.15 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Menggunakan Perangkat Lunak Pengolah Kata tingkat Dasar (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (4 JP) – Pengajar
+
+Hari 3:
+- 08.00 – 10.15 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Menggunakan Perangkat Lunak Presentasi tingkat Dasar (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (4 JP) – Pengajar
+
+Hari 4:
+- 08.00 – 10.15 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (3 JP) – Pengajar
+- 10.15 – 10.30 : Coffeebreak
+- 10.30 – 12.00 : Menggunakan Perangkat Lunak Pengolah Gambar tingkat Dasar (2 JP) – Pengajar
+- 12.00 – 13.00 : ISHOMA
+- 13.00 – 16.00 : Aplikasi Berbasis Internet (4 JP) – Pengajar
+
+Hari 5:
+- 08.00 – 09.30 : Aplikasi Berbasis Internet (2 JP) – Pengajar
+- 09.30 – 10.15 : Mengidentifikasi Aspek Keamanan Informasi Pengguna (1 JP) – Pengajar
+- 10.15 – 10.30 : Coffee Break
+- 10.30 – 12.00 : Mengidentifikasi Aspek Keamanan Informasi Pengguna (2 JP) – Pengajar
+- 12.00 – 13.30 : ISHOMA
+- 13.30 – 15.00 : Mengenalkan Konsep Isu dan Opini Publik (2 JP) – Pengajar
+- Post Test & Penutupan (Penyelenggara)
+
+TOTAL JP: 40 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+TIK (Teknologi Informasi dan Komunikasi)
+Seperangkat teknologi yang digunakan untuk mengelola, memproses, dan mengkomunikasikan informasi secara digital.
+
+Media Informasi
+Sarana penyampaian informasi kepada publik, baik melalui platform digital, media sosial, maupun media cetak di lingkungan pemerintahan.
+
+Peralatan Peripheral Komputer
+Perangkat keras tambahan yang terhubung ke komputer sebagai alat input (keyboard, mouse, scanner) maupun output (printer, monitor, proyektor).
+
+Perangkat Lunak Pengolah Kata
+Aplikasi komputer yang digunakan untuk membuat, mengedit, memformat, dan mencetak dokumen teks, seperti Microsoft Word atau LibreOffice Writer.
+
+Perangkat Lunak Presentasi
+Aplikasi komputer yang digunakan untuk membuat dan menampilkan materi presentasi dalam bentuk slide, seperti Microsoft PowerPoint atau Google Slides.
+
+Perangkat Lunak Pengolah Gambar
+Aplikasi komputer yang digunakan untuk membuat atau mengedit gambar dan desain grafis, seperti Canva, Adobe Photoshop, atau GIMP.
+
+Mail Merge
+Fitur pada aplikasi pengolah kata yang memungkinkan pembuatan banyak dokumen sekaligus dengan konten personalisasi dari sumber data, seperti daftar nama dan alamat.
+
+CIA (Confidentiality, Integrity, Availability)
+Tiga prinsip dasar keamanan informasi: Kerahasiaan (hanya pihak berwenang yang dapat mengakses), Integritas (data akurat dan tidak dimanipulasi), dan Ketersediaan (data dapat diakses saat dibutuhkan).
+
+Internet Sehat
+Konsep penggunaan internet secara bijak, aman, dan bertanggung jawab sesuai norma hukum dan etika yang berlaku.
+
+UU ITE (Undang-Undang Informasi dan Transaksi Elektronik)
+Peraturan perundang-undangan Indonesia yang mengatur tentang informasi elektronik dan transaksi elektronik, termasuk sanksi pelanggaran di dunia digital.
+
+Hoax
+Informasi palsu atau bohong yang disebarluaskan dengan sengaja untuk menipu publik.
+
+Opini Publik
+Pandangan atau sikap kolektif masyarakat terhadap suatu isu atau topik tertentu yang tercermin melalui konten dan interaksi di berbagai platform.
+
+Media Sosial
+Platform berbasis internet yang memungkinkan pengguna membuat, berbagi, dan berinteraksi melalui konten digital, seperti Instagram, Twitter/X, Facebook, dan TikTok.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_TIK-MI_Dasar-TIK-untuk-Media-Informasi
+========================================

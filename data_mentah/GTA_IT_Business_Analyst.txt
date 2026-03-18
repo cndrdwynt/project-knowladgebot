@@ -1,0 +1,332 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: INFORMATION TECHNOLOGY BUSINESS ANALYST
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : -
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 01 Januari 2025
+
+---
+
+APA ITU PELATIHAN INFORMATION TECHNOLOGY BUSINESS ANALYST?
+Pelatihan Information Technology Business Analyst (ITBA) bertujuan untuk meningkatkan kompetensi ASN dalam mengembangkan pengetahuan dan teknik yang dibutuhkan dalam mengidentifikasi kebutuhan bisnis, menentukan solusi untuk masalah bisnis organisasi dengan memanfaatkan teknologi informasi, serta mampu menjadi "jembatan" antara pengguna dan pengambil keputusan.
+
+---
+
+APA TUJUAN PELATIHAN INFORMATION TECHNOLOGY BUSINESS ANALYST?
+1. Memahami konsep dasar IT Business Analyst.
+2. Memahami konsep perencanaan kerja IT Business Analyst.
+3. Menerapkan keterampilan melakukan perencanaan kerja IT Business Analyst.
+4. Memahami konsep elisitasi dan kolaborasi.
+5. Menerapkan keterampilan dalam elisitasi dan kolaborasi.
+6. Memahami konsep pengelolaan siklus persyaratan.
+7. Menerapkan keterampilan dalam pengelolaan siklus persyaratan.
+8. Memahami konsep analisis strategi.
+9. Menerapkan keterampilan dalam analisis strategi.
+10. Memahami konsep analisis persyaratan dan definisi rancangan.
+11. Menerapkan keterampilan dalam melakukan analisis persyaratan dan definisi rancangan.
+12. Memahami konsep evaluasi solusi.
+13. Menerapkan keterampilan dalam melakukan evaluasi solusi.
+14. Memahami konsep business case.
+15. Menerapkan keterampilan dalam menyusun business case.
+
+---
+
+BERAPA DURASI PELATIHAN INFORMATION TECHNOLOGY BUSINESS ANALYST?
+Pelatihan berlangsung selama 68 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam dua metode:
+1. Full Online (Daring): Diawali pembelajaran asynchronous mandiri melalui LMS Kementerian Komdigi, dilanjutkan sesi synchronous bersama Pengajar melalui live sessions menggunakan aplikasi video conference.
+2. Full Offline (Luring): Pembelajaran dilakukan secara offline synchronous bersama Pengajar pada kelas pelatihan di lokasi terpilih.
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN INFORMATION TECHNOLOGY BUSINESS ANALYST?
+Peserta harus memenuhi seluruh persyaratan berikut:
+1. Status kepegawaian: ASN / Pegawai Pemerintah Non-ASN / TNI / Polri.
+2. Usia: Maksimal 53 tahun pada saat mendaftar.
+3. Pendidikan: Minimal D3 semua bidang.
+4. Diutamakan memiliki pengalaman di bidang pengelolaan IT minimal 1 tahun.
+5. Sanggup menyediakan perangkat pelatihan sesuai dengan persyaratan.
+6. Mendapatkan Surat Penugasan dari Pejabat yang Berwenang.
+7. Gambaran umum pengetahuan dan kemampuan dasar (basic knowledge and skills) yang mendukung:
+   a. Kemampuan analisis yang baik.
+   b. Kemampuan komunikasi yang baik.
+   c. Kemampuan mengoperasikan aplikasi perkantoran.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki perangkat dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 2 GB (4 GB direkomendasikan).
+3. Terinstall aplikasi video conference (Zoom, Webex).
+4. Terinstall web browser: Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, dll.
+5. Memiliki konektivitas internet yang stabil.
+6. Dapat mengakses layanan office berbagi pakai (contoh: Google Docs).
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir live session untuk online / hadir di kelas untuk offline) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test, tugas, dan Post-test.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS.
+4. Menyelesaikan dan mengumpulkan produk pembelajaran berupa Business Case.
+5. Mengikuti Presentasi Business Case.
+6. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test   : 5%
+- Tugas      : 65%
+- Post-Test  : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 9 mata pelatihan ditambah sesi exam:
+
+1. Orientasi & Building Learning Commitment (2 JP)
+   Materi:
+   - Orientasi & Building Learning Commitment
+
+2. Pengantar ITBA (4 JP)
+   Materi:
+   - Pedoman IT Business Analyst
+   - Peran dan Tugas IT Business Analyst
+   - Kompetensi IT Business Analyst
+
+3. Perencanaan Kerja Analisis Bisnis di Lingkungan TI (9 JP)
+   Materi:
+   - Rencana Pendekatan Analisis Bisnis/Pengguna
+   - Analisa Pemangku Kepentingan
+   - Rencana Kegiatan dan Komunikasi Analisis Bisnis
+   - Rencana Proses Manajemen Persyaratan
+
+4. Elisitasi dan Kolaborasi (7 JP)
+   Materi:
+   - Persiapan Elisitasi dan Kolaborasi
+   - Pelaksanaan Elisitasi dan Kolaborasi
+
+5. Pengelolaan Siklus Persyaratan (9 JP)
+   Materi:
+   - Pengelolaan Persyaratan TI dan Lingkup Solusi
+   - Pengelolaan Hubungan dan Kebergantungan Antar Persyaratan
+   - Identifikasi dan Pengaturan Persyaratan
+   - Pemodelan Persyaratan
+   - Penetapan Asumsi dan Batasan
+   - Verifikasi dan Validasi Persyaratan
+
+6. Analisis Strategi (8 JP)
+   Materi:
+   - Tentukan Kebutuhan Bisnis/Pengguna
+   - Kesenjangan Kemampuan
+   - Pendekatan Solusi
+   - Lingkup Solusi
+   - Project Benefits dan B/C Ratio
+   - Domain Pengguna
+   - Bisnis Baru Pengguna
+
+7. Analisis Persyaratan dan Definisi Rancangan (8 JP)
+   Materi:
+   - Persyaratan Bisnis
+   - Evaluasi Dampak dari Persyaratan Teknis
+   - Solusi Teknis
+   - Persyaratan Solusi Bisnis
+   - Analisis Dampak Solusi Teknis
+   - Rencana Implementasi Solusi Bisnis
+   - Validasi Solusi Bisnis
+
+8. Evaluasi Solusi (9 JP)
+   Materi:
+   - Penilaian Solusi yang Diusulkan
+   - Penilaian Kesiapan Organisasi
+   - Pendefinisian Persyaratan Transisi
+   - Validasi dan Kinerja Solusi
+
+9. Business Case (8 JP)
+   Materi:
+   - Business Case
+
+Exam (4 JP):
+   - Pre-Test dan Post-Test: Mengerjakan pada LMS
+   - Presentasi Tugas Akhir Pelatihan dan Learning Feedback
+
+---
+
+APA SAJA AKTIVITAS PEMBELAJARAN?
+1. Self-paced Learning (Asynchronous) – belajar mandiri melalui LMS
+2. Tatap Muka / Live Session (Synchronous) – ceramah dan tanya jawab
+3. Diskusi
+4. Curah Pendapat (Brainstorming)
+5. Praktik
+6. Latihan
+7. Penugasan
+8. Presentasi
+
+---
+
+BAGAIMANA JADWAL PELATIHAN ONLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08:00–08:30 : Pembukaan (Penyelenggara)
+- 08:30–10:00 : Orientasi & Building Learning Commitment (BLC) – Virtual Classroom, 2 JP, Pengajar
+- 10:00–10:15 : Break
+- 10:15–11:45 : Pengantar ITBA – Virtual Classroom, 2 JP, Pengajar
+- Mandiri       : Pre-Test – Asinkronus
+- Mandiri       : Pengantar ITBA – Asinkronus, 2 JP, Self Study
+
+Hari Kedua:
+- 08:00–10:15 : Perencanaan Aktivitas Analisis Bisnis di Lingkungan TI – Virtual Classroom, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Perencanaan Aktivitas Analisis Bisnis di Lingkungan TI (lanjutan) – Virtual Classroom, 2 JP, Pengajar
+- Mandiri       : Perencanaan Aktivitas Analisis Bisnis di Lingkungan TI – Asinkronus, 4 JP, Self Study
+
+Hari Ketiga:
+- 08:00–10:15 : Elisitasi dan Kolaborasi – Virtual Classroom, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–11:15 : Elisitasi dan Kolaborasi (lanjutan) – Virtual Classroom, 1 JP, Pengajar
+- 11:15–12:00 : Pengelolaan Siklus Persyaratan – Virtual Classroom, 1 JP, Pengajar
+- Mandiri       : Elisitasi dan Kolaborasi – Asinkronus, 3 JP, Self Study
+- Mandiri       : Pengelolaan Siklus Persyaratan – Asinkronus, 3 JP, Self Study
+
+Hari Keempat:
+- 08:00–09:30 : Pengelolaan Siklus Persyaratan (lanjutan) – Virtual Classroom, 2 JP, Pengajar
+- 09:30–10:15 : Analisis Strategi – Virtual Classroom, 1 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Analisis Strategi (lanjutan) – Virtual Classroom, 2 JP, Pengajar
+- Mandiri       : Pengelolaan Siklus Persyaratan dan Analisis Strategi – Asinkronus, 7 JP, Self Study
+
+Hari Keenam:
+- 08:00–08:45 : Analisis Strategi (lanjutan) – Virtual Classroom, 1 JP, Pengajar
+- 08:45–10:15 : Analisis Persyaratan dan Definisi Rancangan – Virtual Classroom, 2 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Analisis Persyaratan dan Definisi Rancangan (lanjutan) – Virtual Classroom, 2 JP, Pengajar
+- Mandiri       : Analisis Persyaratan dan Definisi Rancangan – Asinkronus, 4 JP, Self Study
+
+Hari Ketujuh:
+- 08:00–10:15 : Evaluasi Solusi – Virtual Classroom, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Evaluasi Solusi (lanjutan) – Virtual Classroom, 2 JP, Pengajar
+- Mandiri       : Evaluasi Solusi – Asinkronus, 4 JP, Self Study
+
+Hari Kedelapan:
+- 08:00–10:15 : Penyusunan Business Case (Individual) – Virtual Classroom, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–11:15 : Penyusunan Business Case (Individual) – Virtual Classroom, 1 JP, Pengajar
+
+Hari Kesembilan:
+- 08:00–10:15 : Penyusunan Business Case (Kelompok) – Virtual Classroom, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–11:15 : Penyusunan Business Case (Kelompok) – Virtual Classroom, 1 JP, Pengajar
+- Mandiri       : Post-Test
+
+Hari Kesepuluh:
+- 08:00–11:00 : Presentasi Laporan Business Case (Kelompok) – Virtual Classroom, 4 JP, Pengajar
+- 11:00–13:00 : Ishoma
+- 13:00–13:45 : Evaluasi dan Penutupan (Penyelenggara)
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (HARI PER HARI)?
+
+Hari Pertama:
+- 08:00–08:30 : Pembukaan (Penyelenggara)
+- 08:30–10:00 : Orientasi & Building Learning Commitment (BLC) – Klasikal, 2 JP, Pengajar
+- 10:00–10:45 : Pengantar ITBA – Klasikal, 1 JP, Pengajar
+- 10:45–11:45 : Pre-Test
+- 11:45–13:00 : Break
+- 13:00–15:15 : Perencanaan Aktivitas Analisis Bisnis di Lingkungan TI – Klasikal, 3 JP, Pengajar
+
+Hari Kedua:
+- 08:00–10:15 : Elisitasi dan Kolaborasi – Klasikal, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–11:15 : Elisitasi dan Kolaborasi (lanjutan) – Klasikal, 1 JP, Pengajar
+- 11:15–12:00 : Pengelolaan Siklus Persyaratan – Klasikal, 1 JP, Pengajar
+- 12:00–13:00 : Break
+- 13:00–15:15 : Pengelolaan Siklus Persyaratan (lanjutan) – Klasikal, 3 JP, Pengajar
+
+Hari Ketiga:
+- 08:00–10:15 : Analisis Strategi – Klasikal, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–11:15 : Analisis Strategi (lanjutan) – Klasikal, 1 JP, Pengajar
+- 11:15–12:00 : Analisis Persyaratan dan Definisi Rancangan – Klasikal, 1 JP, Pengajar
+- 12:00–13:00 : Break
+- 13:00–15:15 : Analisis Persyaratan (lanjutan) – Klasikal, 3 JP, Pengajar
+
+Hari Keempat:
+- 08:00–10:15 : Evaluasi Solusi – Klasikal, 3 JP, Pengajar
+- 10:15–10:30 : Break
+- 10:30–12:00 : Evaluasi Solusi (lanjutan) – Klasikal, 2 JP, Pengajar
+- 12:00–13:00 : Break
+- 13:00–13:45 : Penyusunan Business Case (materi) – Klasikal, 1 JP, Pengajar
+- 13:45–15:15 : Penyusunan Business Case (Kelompok) – 2 JP, Pengajar
+- 15:15–16:00 : Post-Test
+
+Hari Kelima:
+- 08:00–11:00 : Presentasi Business Case (Kelompok) – Klasikal, 4 JP, Pengajar
+- 11:00–11:30 : Evaluasi dan Penutupan (Penyelenggara)
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+IT Business Analyst (ITBA)
+Profesi yang bertugas mengidentifikasi kebutuhan bisnis, menentukan solusi untuk masalah bisnis organisasi dengan memanfaatkan teknologi informasi, serta menjadi jembatan antara pengguna dan pengambil keputusan.
+
+Elisitasi
+Proses penggalian dan pengumpulan kebutuhan atau persyaratan dari pemangku kepentingan (stakeholders) melalui berbagai teknik seperti wawancara, observasi, dan workshop.
+
+Pengelolaan Siklus Persyaratan
+Proses mengelola persyaratan dari identifikasi awal hingga validasi, mencakup pemodelan, verifikasi, dan penetapan batasan persyaratan.
+
+Analisis Strategi
+Proses mengidentifikasi kebutuhan bisnis, mengevaluasi kesenjangan kemampuan, dan menentukan pendekatan serta lingkup solusi yang tepat.
+
+Business Case
+Dokumen yang memuat justifikasi untuk pelaksanaan suatu proyek, mencakup manfaat, biaya, risiko, dan pertimbangan lainnya yang mendukung pengambilan keputusan.
+
+Analisis Persyaratan dan Definisi Rancangan
+Proses menganalisis persyaratan bisnis dan teknis serta mendefinisikan rancangan solusi yang akan diimplementasikan.
+
+Evaluasi Solusi
+Proses menilai solusi yang diusulkan, kesiapan organisasi, kebutuhan transisi, serta validasi kinerja solusi yang telah atau akan diimplementasikan.
+
+Pemangku Kepentingan (Stakeholder)
+Individu atau kelompok yang memiliki kepentingan atau terpengaruh oleh hasil proyek atau solusi yang dikembangkan.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+ASN (Aparatur Sipil Negara)
+Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah.
+
+========================================
+END OF DATABASE – GTA_IT_Business_Analyst
+========================================

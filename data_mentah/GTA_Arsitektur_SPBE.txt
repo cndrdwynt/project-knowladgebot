@@ -1,0 +1,261 @@
+========================================
+DATABASE SILABUS PELATIHAN GTA 2025
+TOPIK: ARSITEKTUR SPBE
+========================================
+
+KODE PROGRAM       : GTA
+PROGRAM            : Digital Talent Scholarship (DTS) – Government Transformation Academy (GTA)
+AKADEMI            : Government Transformation Academy
+MITRA PELATIHAN    : - (tidak ada mitra eksternal)
+PENYELENGGARA      : Kementerian Komunikasi dan Digital Republik Indonesia
+VERSI DOKUMEN      : Publikasi #1 – 17 Januari 2025
+
+---
+
+APA ITU PELATIHAN ARSITEKTUR SPBE?
+Pelatihan Arsitektur Sistem Pemerintahan Berbasis Elektronik (SPBE) bertujuan memberikan pengetahuan dan keterampilan kepada peserta dalam menyusun Arsitektur SPBE sesuai dengan regulasi yang berlaku. Peserta diberikan pemahaman mengenai penggunaan kerangka kerja Arsitektur SPBE sebagai panduan dalam mengintegrasikan proses bisnis, data dan informasi, aplikasi SPBE, infrastruktur SPBE, dan keamanan SPBE untuk menghasilkan layanan SPBE.
+
+---
+
+APA TUJUAN PELATIHAN ARSITEKTUR SPBE?
+Peserta memiliki kompetensi menyusun arsitektur SPBE, yang diindikasikan dengan kemampuan:
+1. Memahami Arah Kebijakan Tata Kelola Pemerintahan Digital
+2. Memahami Konsep Arsitektur SPBE
+3. Memahami Tata Kelola Arsitektur SPBE
+4. Menyusun Arsitektur SPBE (as-is)
+5. Menyusun Arsitektur SPBE (to-be)
+6. Menyusun Peta Rencana SPBE
+7. Menyusun Arsitektur SPBE pada Aplikasi Pendukung yang ditentukan
+
+Output akhir: Dokumen Laporan Akhir Penyusunan Rancangan Arsitektur SPBE yang mencakup Arsitektur SPBE as-is, Arsitektur SPBE to-be, dan Peta Rencana SPBE.
+
+---
+
+BERAPA DURASI PELATIHAN ARSITEKTUR SPBE?
+Pelatihan berlangsung selama 42 JP (Jam Pelatihan), di mana 1 JP setara dengan 45 menit.
+
+---
+
+APA SERTIFIKAT YANG DIPEROLEH?
+Peserta yang lulus akan mendapatkan Certificate of Completion (Sertifikat telah menyelesaikan pelatihan) yang diterbitkan oleh Kementerian Komunikasi dan Digital RI.
+
+---
+
+APA METODE PELAKSANAAN PELATIHAN?
+Pelatihan tersedia dalam metode:
+Full Offline (Luring): Pembelajaran dilakukan secara klasikal melalui pertemuan tatap muka dengan Pengajar di lokasi-lokasi pelaksanaan yang telah ditentukan. Bahan pembelajaran, soal pre-test, post-test, dan penugasan dapat diakses melalui LMS Kementerian Komunikasi dan Digital.
+
+Catatan: Pelatihan ini hanya tersedia secara Full Offline (tidak tersedia online).
+
+---
+
+SIAPA YANG BISA MENGIKUTI PELATIHAN ARSITEKTUR SPBE?
+Peserta harus memenuhi persyaratan berikut:
+1. Usia maksimal 53 tahun.
+2. Pendidikan minimal D-III dari semua jurusan.
+3. Masa kerja minimal 2 tahun.
+4. Diutamakan bekerja pada unit kerja yang menjalankan fungsi terkait: organisasi dan ketatalaksanaan, pengelolaan data dan informasi, teknologi informasi dan komunikasi, keamanan informasi, perencanaan, penganggaran, pengawasan, dan keuangan.
+
+---
+
+APA PERSYARATAN TEKNIS (SARANA) PESERTA?
+Peserta wajib memiliki laptop/komputer dengan spesifikasi minimal:
+1. Operating System: Microsoft Windows, Linux, atau MacOS.
+2. RAM minimal 2 GB (4 GB direkomendasikan).
+3. Koneksi internet yang stabil.
+
+Peserta juga wajib menyiapkan dokumen-dokumen terkait pelatihan:
+1. Rencana Pembangunan Jangka Menengah Nasional / Daerah
+2. Rencana Strategis Instansi
+3. Struktur Organisasi
+4. Laporan Tahunan
+5. Peta Proses Bisnis Organisasi
+6. Katalog Aplikasi SPBE Instansi
+7. Katalog Data / Informasi Instansi
+8. Katalog Infrastruktur SPBE Instansi
+
+---
+
+BAGAIMANA SISTEM PENILAIAN DAN KELULUSAN?
+Peserta dinyatakan lulus dan berhak mendapatkan certificate of completion jika memenuhi:
+1. Mengikuti seluruh aktivitas pembelajaran (hadir di kelas) dengan batas maksimum tidak hadir adalah 10% dari total Jam Pelatihan.
+2. Menyelesaikan Pre-test dan Post-test sesuai waktu yang ditentukan.
+3. Mengumpulkan penugasan yang diberikan oleh Pengajar dan diunggah (upload) di LMS sesuai waktu yang ditentukan.
+4. Mengumpulkan Laporan Akhir Penyusunan Rancangan Arsitektur SPBE.
+5. Mengikuti presentasi Laporan Akhir Penyusunan Rancangan Arsitektur SPBE.
+6. Nilai minimal kelulusan adalah 65.
+
+Bobot komponen penilaian:
+- Pre-Test   : 5%
+- Tugas      : 65%
+- Post-Test  : 30%
+
+---
+
+KAPAN JADWAL PELATIHAN?
+Pelatihan dijadwalkan berlangsung pada periode Februari – Desember 2025. Jadwal sewaktu-waktu dapat berubah tanpa pemberitahuan.
+
+---
+
+APA SAJA MATERI YANG DIAJARKAN?
+Pelatihan terdiri dari 9 mata pelatihan:
+
+1. Orientasi & Building Learning Commitment / BLC (1 JP)
+   Materi:
+   - Pengenalan Program Pelatihan
+   - Komitmen Belajar
+   Aktivitas: Pembelajaran Tatap Muka (synchronous)
+
+2. Arah Kebijakan Tata Kelola Pemerintahan Digital (2 JP)
+   Materi:
+   - Tren Dunia Transformasi Digital
+   - Transformasi Digital Pemerintah
+   - Langkah Strategis Kedepan
+   Aktivitas: Belajar mandiri (asynchronous)
+
+3. Konsep Arsitektur SPBE (3 JP)
+   Materi:
+   - Konsep Enterprise Architecture
+   - Pengantar Arsitektur SPBE
+   Aktivitas: Asynchronous dan Synchronous (Tatap Muka)
+
+4. Tata Kelola Arsitektur SPBE (1 JP)
+   Materi:
+   - Pendahuluan
+   - Kapabilitas Sumber Daya
+   - Tim Koordinasi SPBE
+   - Manajemen Program dan Kegiatan
+   Aktivitas: Asynchronous dan Synchronous (Tatap Muka)
+
+5. Arsitektur SPBE (as-is) (9 JP)
+   Materi:
+   - Konsep Arsitektur SPBE As-Is
+   - Penyusunan Arsitektur SPBE As-Is Instansi Pemerintah
+   Aktivitas: Asynchronous, Synchronous (Tatap Muka), Latihan Penyusunan, Penugasan
+
+6. Arsitektur SPBE (to-be) (9 JP)
+   Materi:
+   - Konsep Arsitektur SPBE To-Be
+   - Penyusunan Arsitektur SPBE To-Be Instansi Pemerintah
+   Aktivitas: Asynchronous, Synchronous (Tatap Muka), Latihan Penyusunan, Penugasan
+
+7. Peta Rencana SPBE (6 JP)
+   Materi:
+   - Konsep Peta Rencana SPBE (Transition Planning)
+   - Tahapan Penyusunan Peta Rencana SPBE
+   - Penyajian Hasil Penyusunan Peta Rencana SPBE
+   Aktivitas: Asynchronous, Synchronous (Tatap Muka), Latihan, Penugasan
+
+8. Aplikasi Pendukung Penyusunan Arsitektur SPBE (6 JP)
+   Materi:
+   - Pengenalan Aplikasi Pendukung Penyusunan Arsitektur SPBE
+   - Penyusunan Arsitektur SPBE pada Aplikasi
+   Aktivitas: Asynchronous, Synchronous (Tatap Muka), Latihan, Penugasan
+
+9. Laporan Akhir Penyusunan Rancangan Arsitektur SPBE (5 JP)
+   Materi:
+   - Penyusunan Laporan Akhir Rancangan Arsitektur SPBE
+   - Penyajian Laporan Akhir Penyusunan Rancangan Arsitektur SPBE
+   Aktivitas: Asynchronous, Synchronous (Tatap Muka), Latihan, Presentasi
+
+Evaluasi:
+   - Pre-Test
+   - Penugasan
+   - Post-Test
+
+---
+
+BAGAIMANA JADWAL PELATIHAN OFFLINE (HARI PER HARI)?
+
+Hari 1:
+- 08:00–08:45 : Persiapan, Pembukaan, dan Pre-test
+- 08:45–09:30 : Orientasi & BLC (1 JP)
+- 09:30–10:15 : Konsep Arsitektur SPBE (1 JP)
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Konsep Arsitektur SPBE (2 JP)
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Tata Kelola Arsitektur SPBE (1 JP)
+- 13:45–15:15 : Arsitektur SPBE as-is (2 JP)
+- 15:15–15:30 : Istirahat
+- 15:30–16:15 : Arsitektur SPBE as-is (1 JP)
+  [Asynchronous mandiri]: Arah Kebijakan Tata Kelola Pemerintahan Digital (2 JP)
+
+Hari 2:
+- 08:00–10:15 : Arsitektur SPBE as-is (3 JP)
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Arsitektur SPBE as-is (2 JP)
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Arsitektur SPBE as-is (1 JP)
+- 13:45–15:15 : Arsitektur SPBE to-be (2 JP)
+- 15:15–15:30 : Istirahat
+- 15:30–16:15 : Arsitektur SPBE to-be (1 JP)
+
+Hari 3:
+- 08:00–10:15 : Arsitektur SPBE to-be (3 JP)
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Arsitektur SPBE to-be (2 JP)
+- 12:00–13:00 : Ishoma
+- 13:00–13:45 : Arsitektur SPBE to-be (1 JP)
+- 13:45–15:15 : Peta Rencana SPBE (2 JP)
+- 15:15–15:30 : Istirahat
+- 15:30–16:15 : Peta Rencana SPBE (1 JP)
+
+Hari 4:
+- 08:00–10:15 : Peta Rencana SPBE (3 JP)
+- 10:15–10:30 : Istirahat
+- 10:30–12:00 : Aplikasi Pendukung Penyusunan Arsitektur SPBE (2 JP)
+- 12:00–13:00 : Ishoma
+- 13:00–14:30 : Aplikasi Pendukung Penyusunan Arsitektur SPBE (2 JP)
+- 14:30–14:45 : Istirahat
+- 14:45–16:00 : Aplikasi Pendukung Penyusunan Arsitektur SPBE (2 JP)
+
+Hari 5:
+- 08:00–09:30 : Laporan Akhir – Presentasi Rancangan Arsitektur SPBE as-is, to-be, dan Peta Rencana (2 JP)
+- 09:30–09:45 : Istirahat
+- 09:45–12:00 : Laporan Akhir – Presentasi Rancangan Arsitektur SPBE (3 JP)
+- 12:00–12:30 : Evaluasi, Penutupan, dan Post-Test
+  [Pengumpulan Laporan Akhir dan Peta Rencana SPBE]
+
+TOTAL JP TATAP MUKA (SYNCHRONOUS) : 40 JP
+TOTAL JP BELAJAR MANDIRI (ASYNCHRONOUS) : 2 JP
+
+---
+
+GLOSARIUM ISTILAH TERKAIT
+
+SPBE (Sistem Pemerintahan Berbasis Elektronik)
+Penyelenggaraan pemerintahan yang memanfaatkan teknologi informasi dan komunikasi untuk memberikan layanan kepada pengguna SPBE.
+
+Arsitektur SPBE
+Kerangka dasar yang mendeskripsikan integrasi proses bisnis, data dan informasi, aplikasi, infrastruktur, dan keamanan SPBE untuk menghasilkan layanan SPBE.
+
+Enterprise Architecture
+Pendekatan sistematis dalam mendokumentasikan dan mengelola arsitektur organisasi yang mencakup strategi, proses bisnis, informasi, teknologi, dan infrastruktur.
+
+Arsitektur SPBE As-Is
+Gambaran kondisi arsitektur SPBE instansi pemerintah pada saat ini (kondisi eksisting).
+
+Arsitektur SPBE To-Be
+Gambaran kondisi arsitektur SPBE instansi pemerintah yang diharapkan di masa depan (kondisi yang dituju).
+
+Peta Rencana SPBE (Transition Planning)
+Dokumen perencanaan yang menggambarkan tahapan transisi dari kondisi arsitektur SPBE as-is menuju to-be.
+
+Tata Kelola Arsitektur SPBE
+Mekanisme pengelolaan dan pengendalian penerapan arsitektur SPBE di suatu instansi pemerintah, mencakup kapabilitas sumber daya, tim koordinasi, dan manajemen program.
+
+GTA (Government Transformation Academy)
+Akademi pelatihan transformasi digital untuk aparatur pemerintahan, bagian dari program Digital Talent Scholarship Kementerian Komdigi.
+
+DTS (Digital Talent Scholarship)
+Program beasiswa pelatihan digital dari Kementerian Komunikasi dan Digital RI.
+
+JP (Jam Pelatihan)
+Satuan durasi pelatihan, di mana 1 JP setara dengan 45 menit.
+
+LMS (Learning Management System)
+Platform digital untuk pengelolaan kegiatan pembelajaran, digunakan melalui platform Kementerian Komdigi.
+
+========================================
+END OF DATABASE – GTA_Arsitektur_SPBE
+========================================
